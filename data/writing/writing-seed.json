@@ -1,0 +1,1291 @@
+[
+  {
+    "id": "writing-transport-table",
+    "taskType": "TASK_1",
+    "type": "Table",
+    "title": "How commuters travel",
+    "prompt": "The table shows the percentage of journeys to work made using four forms of transport in the fictional city of Westbridge in 2010 and 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "data": {
+      "caption": "Journeys to work in Westbridge (%) — original practice data",
+      "columns": [
+        "Transport",
+        "2010",
+        "2020"
+      ],
+      "rows": [
+        [
+          "Car",
+          55,
+          40
+        ],
+        [
+          "Bus",
+          25,
+          30
+        ],
+        [
+          "Bicycle",
+          10,
+          20
+        ],
+        [
+          "Walking",
+          10,
+          10
+        ]
+      ]
+    },
+    "planningTips": [
+      "Identify the two strongest overall features before writing: cars remained the leading mode, while cycling gained the most.",
+      "Group the falls and rises logically rather than writing one sentence for every cell.",
+      "Use percentage points for the change from 55% to 40%; that is a fall of 15 percentage points.",
+      "Describe the figures shown. Do not invent reasons for the changes."
+    ],
+    "sampleAnswer": "The table compares the proportions of commuting journeys made by car, bus, bicycle and on foot in Westbridge in 2010 and 2020.\n\nOverall, cars remained the most common means of travelling to work, although their share fell substantially. Bus travel and cycling both became more popular, with cycling recording the largest increase, while the proportion of journeys made on foot stayed the same.\n\nIn 2010, cars accounted for 55% of journeys, which was more than twice the figure for buses, at 25%. By 2020, the car share had declined to 40%, a decrease of 15 percentage points. Over the same period, the proportion of trips made by bus rose by five percentage points to 30%, considerably narrowing the gap between these two modes.\n\nCycling represented 10% of commuting journeys at the start of the period, the same proportion as walking. Ten years later, the bicycle figure had doubled to 20%, whereas walking remained unchanged at 10%. Together, cycling and walking accounted for 30% of journeys in 2020, compared with 20% in 2010.",
+    "selfCheck": [
+      "I wrote a clear overview of the main patterns.",
+      "I selected key figures and made relevant comparisons.",
+      "I used the correct units and dates.",
+      "I distinguished percentages from percentage-point changes.",
+      "I avoided unsupported explanations or personal opinions.",
+      "I checked verb tenses, articles and subject–verb agreement."
+    ],
+    "samples": [
+      {
+        "level": "Developing · approx. Band 6 style",
+        "answer": "The table compares the proportions of commuting journeys made by car, bus, bicycle and on foot in Westbridge in 2010 and 2020.\n\nOverall, cars were important in both years. Some other transport figures went up and one stayed the same. There were several changes in the way people travelled to work during the period shown in the table.\n\nIn 2010, cars accounted for 55% of journeys, which was more than twice the figure for buses, at 25%. By 2020, the car share had declined to 40%, a decrease of 15 percentage points. Over the same period, the proportion of trips made by bus rose by five percentage points to 30%, considerably narrowing the gap between these two modes.\n\nCycling represented 10% of commuting journeys at the start of the period, the same proportion as walking. Ten years later, the bicycle figure had doubled to 20%, whereas walking remained unchanged at 10%. Together, cycling and walking accounted for 30% of journeys in 2020, compared with 20% in 2010.",
+        "notes": [
+          "Compare the second paragraph: some ideas are general or repetitive.",
+          "An overview should identify the main directions and the largest gain, not merely announce that changes occurred."
+        ],
+        "vocabulary": [
+          "accounted for",
+          "percentage points",
+          "the corresponding figure"
+        ],
+        "grammar": [
+          "Past tense for completed reporting periods.",
+          "Comparative clauses to connect related values."
+        ]
+      },
+      {
+        "level": "Clearer · approx. Band 7 style",
+        "answer": "The table compares the proportions of commuting journeys made by car, bus, bicycle and on foot in Westbridge in 2010 and 2020.\n\nOverall, cars remained the largest category despite a substantial fall, while bus use and cycling both increased. The proportion of journeys made on foot was unchanged.\n\nIn 2010, cars accounted for 55% of journeys, which was more than twice the figure for buses, at 25%. By 2020, the car share had declined to 40%, a decrease of 15 percentage points. Over the same period, the proportion of trips made by bus rose by five percentage points to 30%, considerably narrowing the gap between these two modes.\n\nCycling represented 10% of commuting journeys at the start of the period, the same proportion as walking. Ten years later, the bicycle figure had doubled to 20%, whereas walking remained unchanged at 10%. Together, cycling and walking accounted for 30% of journeys in 2020, compared with 20% in 2010.",
+        "notes": [
+          "The second paragraph now identifies and connects the key points.",
+          "An overview should identify the main directions and the largest gain, not merely announce that changes occurred."
+        ],
+        "vocabulary": [
+          "accounted for",
+          "percentage points",
+          "the corresponding figure"
+        ],
+        "grammar": [
+          "Past tense for completed reporting periods.",
+          "Comparative clauses to connect related values."
+        ]
+      },
+      {
+        "level": "More developed · approx. Band 7.5+ style",
+        "answer": "The table compares the proportions of commuting journeys made by car, bus, bicycle and on foot in Westbridge in 2010 and 2020.\n\nOverall, cars remained the most common means of travelling to work, although their share fell substantially. Bus travel and cycling both became more popular, with cycling recording the largest increase, while the proportion of journeys made on foot stayed the same.\n\nIn 2010, cars accounted for 55% of journeys, which was more than twice the figure for buses, at 25%. By 2020, the car share had declined to 40%, a decrease of 15 percentage points. Over the same period, the proportion of trips made by bus rose by five percentage points to 30%, considerably narrowing the gap between these two modes.\n\nCycling represented 10% of commuting journeys at the start of the period, the same proportion as walking. Ten years later, the bicycle figure had doubled to 20%, whereas walking remained unchanged at 10%. Together, cycling and walking accounted for 30% of journeys in 2020, compared with 20% in 2010.",
+        "notes": [
+          "An overview should identify the main directions and the largest gain, not merely announce that changes occurred.",
+          "The unchanged paragraphs let you isolate the effect of this revision. These teaching labels are not a grade for the full response."
+        ],
+        "vocabulary": [
+          "accounted for",
+          "percentage points",
+          "the corresponding figure"
+        ],
+        "grammar": [
+          "Past tense for completed reporting periods.",
+          "Comparative clauses to connect related values."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "writing-library-table",
+    "taskType": "TASK_1",
+    "type": "Table",
+    "title": "Library use across age groups",
+    "prompt": "The table shows the average number of monthly visits to three services at a fictional public library in 2025. Figures are grouped by visitors' ages. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "data": {
+      "caption": "Average monthly visits in 2025 — original practice data",
+      "columns": [
+        "Age group",
+        "Book lending",
+        "Computer access",
+        "Community events"
+      ],
+      "rows": [
+        [
+          "Under 25",
+          600,
+          450,
+          150
+        ],
+        [
+          "25–59",
+          800,
+          300,
+          250
+        ],
+        [
+          "60 and over",
+          700,
+          100,
+          400
+        ]
+      ]
+    },
+    "planningTips": [
+      "Note that book lending was the most used service in every age group.",
+      "Compare the opposite age patterns for computer access and community events.",
+      "Use 'visits', rather than 'people': one person could make several visits.",
+      "There is only one year, so describe differences without inventing trends over time."
+    ],
+    "sampleAnswer": "The table compares average monthly visits to book lending, computer access and community events at a public library in 2025, divided into three age groups.\n\nOverall, book lending attracted the highest number of visits in all three groups. Younger visitors made greatest use of computers, whereas community events were most popular among those aged 60 and over.\n\nAdults aged 25 to 59 made 800 monthly visits for book lending, exceeding the corresponding figures for the oldest and youngest groups by 100 and 200 respectively. This service accounted for substantially more visits than either of the other two services within each age category.\n\nComputer access showed a different pattern. Those under 25 recorded 450 visits per month, compared with 300 among people aged 25 to 59 and just 100 among the oldest visitors. By contrast, attendance at community events was highest in the group aged 60 and over, at 400 visits. The equivalent numbers for middle-aged and younger visitors were lower, at 250 and 150 respectively.",
+    "selfCheck": [
+      "I included an overview without listing every figure.",
+      "I compared all three age groups where useful.",
+      "I described visits accurately rather than calling them individual people.",
+      "I avoided describing a time trend from a single-year table.",
+      "I used 'respectively' with matching lists in the same order."
+    ],
+    "samples": [
+      {
+        "level": "Developing · approx. Band 6 style",
+        "answer": "The table compares average monthly visits to book lending, computer access and community events at a public library in 2025, divided into three age groups.\n\nOverall, the library had visits from all the age groups. Book lending had high numbers and other services had lower numbers. Different groups used the services differently, as the figures in the table show.\n\nAdults aged 25 to 59 made 800 monthly visits for book lending, exceeding the corresponding figures for the oldest and youngest groups by 100 and 200 respectively. This service accounted for substantially more visits than either of the other two services within each age category.\n\nComputer access showed a different pattern. Those under 25 recorded 450 visits per month, compared with 300 among people aged 25 to 59 and just 100 among the oldest visitors. By contrast, attendance at community events was highest in the group aged 60 and over, at 400 visits. The equivalent numbers for middle-aged and younger visitors were lower, at 250 and 150 respectively.",
+        "notes": [
+          "Compare the second paragraph: some ideas are general or repetitive.",
+          "Contrast the opposing age patterns while retaining visits as the unit; these are not counts of unique people."
+        ],
+        "vocabulary": [
+          "accounted for",
+          "percentage points",
+          "the corresponding figure"
+        ],
+        "grammar": [
+          "Past tense for completed reporting periods.",
+          "Comparative clauses to connect related values."
+        ]
+      },
+      {
+        "level": "Clearer · approx. Band 7 style",
+        "answer": "The table compares average monthly visits to book lending, computer access and community events at a public library in 2025, divided into three age groups.\n\nOverall, book lending led in every group. Computer visits were highest among the youngest users, while events attracted the oldest group most strongly.\n\nAdults aged 25 to 59 made 800 monthly visits for book lending, exceeding the corresponding figures for the oldest and youngest groups by 100 and 200 respectively. This service accounted for substantially more visits than either of the other two services within each age category.\n\nComputer access showed a different pattern. Those under 25 recorded 450 visits per month, compared with 300 among people aged 25 to 59 and just 100 among the oldest visitors. By contrast, attendance at community events was highest in the group aged 60 and over, at 400 visits. The equivalent numbers for middle-aged and younger visitors were lower, at 250 and 150 respectively.",
+        "notes": [
+          "The second paragraph now identifies and connects the key points.",
+          "Contrast the opposing age patterns while retaining visits as the unit; these are not counts of unique people."
+        ],
+        "vocabulary": [
+          "accounted for",
+          "percentage points",
+          "the corresponding figure"
+        ],
+        "grammar": [
+          "Past tense for completed reporting periods.",
+          "Comparative clauses to connect related values."
+        ]
+      },
+      {
+        "level": "More developed · approx. Band 7.5+ style",
+        "answer": "The table compares average monthly visits to book lending, computer access and community events at a public library in 2025, divided into three age groups.\n\nOverall, book lending attracted the highest number of visits in all three groups. Younger visitors made greatest use of computers, whereas community events were most popular among those aged 60 and over.\n\nAdults aged 25 to 59 made 800 monthly visits for book lending, exceeding the corresponding figures for the oldest and youngest groups by 100 and 200 respectively. This service accounted for substantially more visits than either of the other two services within each age category.\n\nComputer access showed a different pattern. Those under 25 recorded 450 visits per month, compared with 300 among people aged 25 to 59 and just 100 among the oldest visitors. By contrast, attendance at community events was highest in the group aged 60 and over, at 400 visits. The equivalent numbers for middle-aged and younger visitors were lower, at 250 and 150 respectively.",
+        "notes": [
+          "Contrast the opposing age patterns while retaining visits as the unit; these are not counts of unique people.",
+          "The unchanged paragraphs let you isolate the effect of this revision. These teaching labels are not a grade for the full response."
+        ],
+        "vocabulary": [
+          "accounted for",
+          "percentage points",
+          "the corresponding figure"
+        ],
+        "grammar": [
+          "Past tense for completed reporting periods.",
+          "Comparative clauses to connect related values."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "writing-public-transport",
+    "taskType": "TASK_2",
+    "type": "Opinion",
+    "title": "Investing in public transport",
+    "prompt": "Some people believe governments should spend more money improving public transport than building new roads. To what extent do you agree or disagree? Give reasons for your answer and include relevant examples from your own knowledge or experience. Write at least 250 words.",
+    "data": null,
+    "planningTips": [
+      "Choose a clear degree of agreement; you can support public transport while allowing necessary road maintenance.",
+      "Develop one reason per body paragraph, such as moving more people efficiently and improving access to work.",
+      "Explain why your example supports the argument; avoid making up research statistics.",
+      "Address a limitation briefly, such as areas too sparsely populated for frequent buses."
+    ],
+    "sampleAnswer": "Governments must balance growing travel demand with limited public funds. I largely agree that improving public transport should receive greater priority than building new roads, particularly in cities. However, this should not prevent essential road maintenance or carefully chosen improvements in remote areas.\n\nThe main reason to favour public transport is that it can move large numbers of people while using relatively little road space. A frequent bus service may offer a practical alternative to driving, especially when dedicated lanes make journey times predictable. In contrast, an additional road does not necessarily solve congestion if it encourages more people to travel by car. Investment should therefore focus on complete journeys: reliable services are more useful when passengers can also reach stops safely and change between routes easily.\n\nBetter public transport can also widen access to work and education. People who cannot afford a car still need to travel to jobs, colleges and medical appointments. If services are infrequent or stop early in the evening, those people may have to reject opportunities that are otherwise suitable. For example, an affordable bus connecting an outer neighbourhood with a hospital could benefit both patients and staff working different shifts. Such an improvement has a value that extends beyond reducing traffic.\n\nNevertheless, transport needs differ between places. In a sparsely populated district, maintaining a safe road may serve residents more effectively than running frequent buses with very few passengers. Emergency services and deliveries also depend on usable roads. These needs justify targeted spending, even when public transport receives the larger share of a city's investment.\n\nIn conclusion, governments should generally prioritise reliable and accessible public transport because of its capacity and social benefits. Road spending remains necessary, but new construction should respond to a clear local need rather than be treated as the automatic answer to congestion.",
+    "selfCheck": [
+      "My position answers 'to what extent' and stays consistent.",
+      "Each body paragraph has a clear main idea.",
+      "I explained the connection between reasons and conclusions.",
+      "My examples are relevant and do not rely on invented statistics.",
+      "I acknowledged a limitation without contradicting my position.",
+      "I checked sentence boundaries, agreement and word forms.",
+      "I used linking expressions only where the relationship needed them."
+    ],
+    "samples": [
+      {
+        "level": "Developing · approx. Band 6 style",
+        "answer": "Governments must balance growing travel demand with limited public funds. I largely agree that improving public transport should receive greater priority than building new roads, particularly in cities. However, this should not prevent essential road maintenance or carefully chosen improvements in remote areas.\n\nPublic transport is important for cities. A lot of people need to travel, and buses can help them. Roads are also used by many people, but building more roads is not always a good solution. Governments should think about public transport because it has many advantages and can make life easier for people who live in busy areas. There are several reasons why spending money on it is a good idea.\n\nBetter public transport can also widen access to work and education. People who cannot afford a car still need to travel to jobs, colleges and medical appointments. If services are infrequent or stop early in the evening, those people may have to reject opportunities that are otherwise suitable. For example, an affordable bus connecting an outer neighbourhood with a hospital could benefit both patients and staff working different shifts. Such an improvement has a value that extends beyond reducing traffic.\n\nNevertheless, transport needs differ between places. In a sparsely populated district, maintaining a safe road may serve residents more effectively than running frequent buses with very few passengers. Emergency services and deliveries also depend on usable roads. These needs justify targeted spending, even when public transport receives the larger share of a city's investment.\n\nIn conclusion, governments should generally prioritise reliable and accessible public transport because of its capacity and social benefits. Road spending remains necessary, but new construction should respond to a clear local need rather than be treated as the automatic answer to congestion.",
+        "notes": [
+          "Compare the second paragraph: some ideas are general or repetitive.",
+          "Explain capacity and the conditions needed for a usable service; avoid simply repeating that public transport is important."
+        ],
+        "vocabulary": [
+          "a practical alternative",
+          "access to opportunities",
+          "appropriate support"
+        ],
+        "grammar": [
+          "Concession clauses to qualify a position.",
+          "A reason followed by an explanation and concrete example."
+        ]
+      },
+      {
+        "level": "Clearer · approx. Band 7 style",
+        "answer": "Governments must balance growing travel demand with limited public funds. I largely agree that improving public transport should receive greater priority than building new roads, particularly in cities. However, this should not prevent essential road maintenance or carefully chosen improvements in remote areas.\n\nPublic transport can carry many passengers using less road space than individual cars. Frequent buses with reliable journey times may encourage commuters to leave their cars at home. Building another road might instead encourage more driving. Governments should therefore consider improving services and connections before assuming that road expansion will solve congestion.\n\nBetter public transport can also widen access to work and education. People who cannot afford a car still need to travel to jobs, colleges and medical appointments. If services are infrequent or stop early in the evening, those people may have to reject opportunities that are otherwise suitable. For example, an affordable bus connecting an outer neighbourhood with a hospital could benefit both patients and staff working different shifts. Such an improvement has a value that extends beyond reducing traffic.\n\nNevertheless, transport needs differ between places. In a sparsely populated district, maintaining a safe road may serve residents more effectively than running frequent buses with very few passengers. Emergency services and deliveries also depend on usable roads. These needs justify targeted spending, even when public transport receives the larger share of a city's investment.\n\nIn conclusion, governments should generally prioritise reliable and accessible public transport because of its capacity and social benefits. Road spending remains necessary, but new construction should respond to a clear local need rather than be treated as the automatic answer to congestion.",
+        "notes": [
+          "The second paragraph now identifies and connects the key points.",
+          "Explain capacity and the conditions needed for a usable service; avoid simply repeating that public transport is important."
+        ],
+        "vocabulary": [
+          "a practical alternative",
+          "access to opportunities",
+          "appropriate support"
+        ],
+        "grammar": [
+          "Concession clauses to qualify a position.",
+          "A reason followed by an explanation and concrete example."
+        ]
+      },
+      {
+        "level": "More developed · approx. Band 7.5+ style",
+        "answer": "Governments must balance growing travel demand with limited public funds. I largely agree that improving public transport should receive greater priority than building new roads, particularly in cities. However, this should not prevent essential road maintenance or carefully chosen improvements in remote areas.\n\nThe main reason to favour public transport is that it can move large numbers of people while using relatively little road space. A frequent bus service may offer a practical alternative to driving, especially when dedicated lanes make journey times predictable. In contrast, an additional road does not necessarily solve congestion if it encourages more people to travel by car. Investment should therefore focus on complete journeys: reliable services are more useful when passengers can also reach stops safely and change between routes easily.\n\nBetter public transport can also widen access to work and education. People who cannot afford a car still need to travel to jobs, colleges and medical appointments. If services are infrequent or stop early in the evening, those people may have to reject opportunities that are otherwise suitable. For example, an affordable bus connecting an outer neighbourhood with a hospital could benefit both patients and staff working different shifts. Such an improvement has a value that extends beyond reducing traffic.\n\nNevertheless, transport needs differ between places. In a sparsely populated district, maintaining a safe road may serve residents more effectively than running frequent buses with very few passengers. Emergency services and deliveries also depend on usable roads. These needs justify targeted spending, even when public transport receives the larger share of a city's investment.\n\nIn conclusion, governments should generally prioritise reliable and accessible public transport because of its capacity and social benefits. Road spending remains necessary, but new construction should respond to a clear local need rather than be treated as the automatic answer to congestion.",
+        "notes": [
+          "Explain capacity and the conditions needed for a usable service; avoid simply repeating that public transport is important.",
+          "The unchanged paragraphs let you isolate the effect of this revision. These teaching labels are not a grade for the full response."
+        ],
+        "vocabulary": [
+          "a practical alternative",
+          "access to opportunities",
+          "appropriate support"
+        ],
+        "grammar": [
+          "Concession clauses to qualify a position.",
+          "A reason followed by an explanation and concrete example."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "writing-practical-learning",
+    "taskType": "TASK_2",
+    "type": "Discussion",
+    "title": "Practical skills and academic subjects",
+    "prompt": "Some people think schools should focus on academic subjects, while others believe practical life skills are equally important. Discuss both views and give your own opinion. Write at least 250 words.",
+    "data": null,
+    "planningTips": [
+      "Discuss the reasons behind both views rather than simply naming them.",
+      "State your own view clearly in the introduction and conclusion.",
+      "Show how practical skills can complement academic learning.",
+      "Use specific examples, such as evaluating a household budget, instead of broad claims that a subject is useful."
+    ],
+    "sampleAnswer": "Schools have limited teaching time, so deciding what belongs in the curriculum involves difficult choices. Some people favour a strong focus on academic subjects, while others want practical life skills to receive equal attention. In my view, academic learning should remain central, but schools should also provide structured opportunities to apply it to everyday responsibilities.\n\nThose who prioritise academic subjects argue that schools have a particular responsibility to develop knowledge that students may struggle to acquire elsewhere. Mathematics, science and history introduce systematic ways of thinking, and they provide foundations for further study. A pupil who lacks basic mathematical understanding may find later technical training difficult, regardless of how confident they are with everyday tasks. Moreover, reducing teaching time too far could disadvantage students whose families cannot afford additional tuition.\n\nThe case for practical skills is also strong. Young adults must manage money, understand information about health and communicate in unfamiliar situations. These abilities are not acquired automatically when a student passes an examination. For instance, someone may be able to perform calculations but still need help comparing the total cost of two payment plans. Schools can provide a consistent starting point, especially for children who have few opportunities to discuss such matters at home.\n\nI believe the most effective approach is to connect these aims wherever possible. A mathematics lesson could include planning a realistic budget, while a language course could teach students to write a clear formal request. Some topics may require separate sessions, but practical learning need not displace entire academic subjects. Teachers would need appropriate resources so that these activities deepen understanding rather than become superficial additions.\n\nIn conclusion, academic subjects offer essential intellectual foundations, and practical skills help students use those foundations beyond school. A balanced curriculum should protect academic depth while giving all pupils meaningful practice with the responsibilities they will encounter as adults.",
+    "selfCheck": [
+      "I discussed both views with reasons.",
+      "My own opinion is clear throughout.",
+      "I explained specific examples instead of listing them.",
+      "I avoided treating all academic and practical learning as opposites.",
+      "My paragraphs follow a logical sequence.",
+      "I checked vocabulary for accuracy and natural collocations."
+    ],
+    "samples": [
+      {
+        "level": "Developing · approx. Band 6 style",
+        "answer": "Schools have limited teaching time, so deciding what belongs in the curriculum involves difficult choices. Some people favour a strong focus on academic subjects, while others want practical life skills to receive equal attention. In my view, academic learning should remain central, but schools should also provide structured opportunities to apply it to everyday responsibilities.\n\nAcademic subjects are important because students need them. Mathematics and science are useful subjects, and pupils study them for many years. They help students learn things and get ready for the future. Schools have always taught these subjects, so there are good reasons to keep teaching them. Some parents also think that academic subjects should receive more time because they want their children to succeed in examinations and later life.\n\nThe case for practical skills is also strong. Young adults must manage money, understand information about health and communicate in unfamiliar situations. These abilities are not acquired automatically when a student passes an examination. For instance, someone may be able to perform calculations but still need help comparing the total cost of two payment plans. Schools can provide a consistent starting point, especially for children who have few opportunities to discuss such matters at home.\n\nI believe the most effective approach is to connect these aims wherever possible. A mathematics lesson could include planning a realistic budget, while a language course could teach students to write a clear formal request. Some topics may require separate sessions, but practical learning need not displace entire academic subjects. Teachers would need appropriate resources so that these activities deepen understanding rather than become superficial additions.\n\nIn conclusion, academic subjects offer essential intellectual foundations, and practical skills help students use those foundations beyond school. A balanced curriculum should protect academic depth while giving all pupils meaningful practice with the responsibilities they will encounter as adults.",
+        "notes": [
+          "Compare the second paragraph: some ideas are general or repetitive.",
+          "Develop the intellectual-foundation argument and its consequence for pupils without extra support, rather than relying on tradition alone."
+        ],
+        "vocabulary": [
+          "a practical alternative",
+          "access to opportunities",
+          "appropriate support"
+        ],
+        "grammar": [
+          "Concession clauses to qualify a position.",
+          "A reason followed by an explanation and concrete example."
+        ]
+      },
+      {
+        "level": "Clearer · approx. Band 7 style",
+        "answer": "Schools have limited teaching time, so deciding what belongs in the curriculum involves difficult choices. Some people favour a strong focus on academic subjects, while others want practical life skills to receive equal attention. In my view, academic learning should remain central, but schools should also provide structured opportunities to apply it to everyday responsibilities.\n\nSupporters of academic subjects argue that mathematics and science provide foundations for later education. These subjects teach systematic thinking that learners may not acquire independently. Reducing lesson time could make advanced study harder, particularly for pupils who cannot obtain extra tuition. Academic learning therefore deserves a central place even when practical activities are introduced.\n\nThe case for practical skills is also strong. Young adults must manage money, understand information about health and communicate in unfamiliar situations. These abilities are not acquired automatically when a student passes an examination. For instance, someone may be able to perform calculations but still need help comparing the total cost of two payment plans. Schools can provide a consistent starting point, especially for children who have few opportunities to discuss such matters at home.\n\nI believe the most effective approach is to connect these aims wherever possible. A mathematics lesson could include planning a realistic budget, while a language course could teach students to write a clear formal request. Some topics may require separate sessions, but practical learning need not displace entire academic subjects. Teachers would need appropriate resources so that these activities deepen understanding rather than become superficial additions.\n\nIn conclusion, academic subjects offer essential intellectual foundations, and practical skills help students use those foundations beyond school. A balanced curriculum should protect academic depth while giving all pupils meaningful practice with the responsibilities they will encounter as adults.",
+        "notes": [
+          "The second paragraph now identifies and connects the key points.",
+          "Develop the intellectual-foundation argument and its consequence for pupils without extra support, rather than relying on tradition alone."
+        ],
+        "vocabulary": [
+          "a practical alternative",
+          "access to opportunities",
+          "appropriate support"
+        ],
+        "grammar": [
+          "Concession clauses to qualify a position.",
+          "A reason followed by an explanation and concrete example."
+        ]
+      },
+      {
+        "level": "More developed · approx. Band 7.5+ style",
+        "answer": "Schools have limited teaching time, so deciding what belongs in the curriculum involves difficult choices. Some people favour a strong focus on academic subjects, while others want practical life skills to receive equal attention. In my view, academic learning should remain central, but schools should also provide structured opportunities to apply it to everyday responsibilities.\n\nThose who prioritise academic subjects argue that schools have a particular responsibility to develop knowledge that students may struggle to acquire elsewhere. Mathematics, science and history introduce systematic ways of thinking, and they provide foundations for further study. A pupil who lacks basic mathematical understanding may find later technical training difficult, regardless of how confident they are with everyday tasks. Moreover, reducing teaching time too far could disadvantage students whose families cannot afford additional tuition.\n\nThe case for practical skills is also strong. Young adults must manage money, understand information about health and communicate in unfamiliar situations. These abilities are not acquired automatically when a student passes an examination. For instance, someone may be able to perform calculations but still need help comparing the total cost of two payment plans. Schools can provide a consistent starting point, especially for children who have few opportunities to discuss such matters at home.\n\nI believe the most effective approach is to connect these aims wherever possible. A mathematics lesson could include planning a realistic budget, while a language course could teach students to write a clear formal request. Some topics may require separate sessions, but practical learning need not displace entire academic subjects. Teachers would need appropriate resources so that these activities deepen understanding rather than become superficial additions.\n\nIn conclusion, academic subjects offer essential intellectual foundations, and practical skills help students use those foundations beyond school. A balanced curriculum should protect academic depth while giving all pupils meaningful practice with the responsibilities they will encounter as adults.",
+        "notes": [
+          "Develop the intellectual-foundation argument and its consequence for pupils without extra support, rather than relying on tradition alone.",
+          "The unchanged paragraphs let you isolate the effect of this revision. These teaching labels are not a grade for the full response."
+        ],
+        "vocabulary": [
+          "a practical alternative",
+          "access to opportunities",
+          "appropriate support"
+        ],
+        "grammar": [
+          "Concession clauses to qualify a position.",
+          "A reason followed by an explanation and concrete example."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "writing-cycling-line",
+    "taskType": "TASK_1",
+    "type": "Line graph",
+    "title": "Cycling to college",
+    "prompt": "The line graph shows the percentage of students cycling to three fictional colleges between 2010 and 2025. Summarise the information, selecting the main features and making relevant comparisons. Write at least 150 words.",
+    "data": {
+      "kind": "line",
+      "caption": "Students cycling to college (%) — fictional practice data",
+      "columns": [
+        "Year",
+        "North",
+        "Central",
+        "South"
+      ],
+      "rows": [
+        [
+          "2010",
+          10,
+          20,
+          30
+        ],
+        [
+          "2015",
+          15,
+          22,
+          28
+        ],
+        [
+          "2020",
+          25,
+          25,
+          26
+        ],
+        [
+          "2025",
+          40,
+          30,
+          25
+        ]
+      ]
+    },
+    "planningTips": [
+      "Identify the rising and falling series.",
+      "Compare the starting and ending rankings.",
+      "Distinguish percentage points from relative growth."
+    ],
+    "sampleAnswer": "The line graph compares the proportions of students who travelled to North, Central and South colleges by bicycle in four years from 2010 to 2025.\n\nOverall, cycling became more common at North and Central colleges, while its share declined slightly at South. North experienced the strongest growth and moved from the lowest starting point to the highest final figure.\n\nIn 2010, only 10% of North's students cycled, compared with 20% at Central and 30% at South. North's proportion rose to 15% in 2015 and then to 25% in 2020, matching Central in that year. By 2025, it had reached 40%, four times its initial level and ten percentage points above Central.\n\nCentral showed a more gradual increase, moving from 20% to 22%, then 25% and finally 30%. South followed the opposite pattern: its share fell from 30% to 28% in 2015, 26% in 2020 and 25% in 2025. Consequently, the gap between the highest and lowest colleges was narrower at the end than at the beginning.",
+    "selfCheck": [
+      "I included an overview of the main features.",
+      "My figures, units, locations or stages match the visual.",
+      "I grouped details rather than listing everything.",
+      "I avoided inventing causes or giving personal opinions.",
+      "I checked tense, comparison language and sentence boundaries."
+    ],
+    "samples": [
+      {
+        "level": "Developing · approx. Band 6 style",
+        "answer": "The line graph compares the proportions of students who travelled to North, Central and South colleges by bicycle in four years from 2010 to 2025.\n\nOverall, the lines changed over the years. North went up a lot and Central also went up. South went down a little. The colleges had different results at the beginning and end.\n\nIn 2010, only 10% of North's students cycled, compared with 20% at Central and 30% at South. North's proportion rose to 15% in 2015 and then to 25% in 2020, matching Central in that year. By 2025, it had reached 40%, four times its initial level and ten percentage points above Central.\n\nCentral showed a more gradual increase, moving from 20% to 22%, then 25% and finally 30%. South followed the opposite pattern: its share fell from 30% to 28% in 2015, 26% in 2020 and 25% in 2025. Consequently, the gap between the highest and lowest colleges was narrower at the end than at the beginning.",
+        "notes": [
+          "Compare the second paragraph: some ideas are general or repetitive.",
+          "The stronger overview combines direction, scale and a reversal in ranking without adding explanations unsupported by the graph."
+        ],
+        "vocabulary": [
+          "accounted for",
+          "percentage points",
+          "the corresponding figure"
+        ],
+        "grammar": [
+          "Past tense for completed reporting periods.",
+          "Comparative clauses to connect related values."
+        ]
+      },
+      {
+        "level": "Clearer · approx. Band 7 style",
+        "answer": "The line graph compares the proportions of students who travelled to North, Central and South colleges by bicycle in four years from 2010 to 2025.\n\nOverall, North and Central recorded increases, whereas South declined. North had the largest rise and finished above both other colleges, despite beginning with the smallest share.\n\nIn 2010, only 10% of North's students cycled, compared with 20% at Central and 30% at South. North's proportion rose to 15% in 2015 and then to 25% in 2020, matching Central in that year. By 2025, it had reached 40%, four times its initial level and ten percentage points above Central.\n\nCentral showed a more gradual increase, moving from 20% to 22%, then 25% and finally 30%. South followed the opposite pattern: its share fell from 30% to 28% in 2015, 26% in 2020 and 25% in 2025. Consequently, the gap between the highest and lowest colleges was narrower at the end than at the beginning.",
+        "notes": [
+          "The second paragraph now identifies and connects the key points.",
+          "The stronger overview combines direction, scale and a reversal in ranking without adding explanations unsupported by the graph."
+        ],
+        "vocabulary": [
+          "accounted for",
+          "percentage points",
+          "the corresponding figure"
+        ],
+        "grammar": [
+          "Past tense for completed reporting periods.",
+          "Comparative clauses to connect related values."
+        ]
+      },
+      {
+        "level": "More developed · approx. Band 7.5+ style",
+        "answer": "The line graph compares the proportions of students who travelled to North, Central and South colleges by bicycle in four years from 2010 to 2025.\n\nOverall, cycling became more common at North and Central colleges, while its share declined slightly at South. North experienced the strongest growth and moved from the lowest starting point to the highest final figure.\n\nIn 2010, only 10% of North's students cycled, compared with 20% at Central and 30% at South. North's proportion rose to 15% in 2015 and then to 25% in 2020, matching Central in that year. By 2025, it had reached 40%, four times its initial level and ten percentage points above Central.\n\nCentral showed a more gradual increase, moving from 20% to 22%, then 25% and finally 30%. South followed the opposite pattern: its share fell from 30% to 28% in 2015, 26% in 2020 and 25% in 2025. Consequently, the gap between the highest and lowest colleges was narrower at the end than at the beginning.",
+        "notes": [
+          "The stronger overview combines direction, scale and a reversal in ranking without adding explanations unsupported by the graph.",
+          "The unchanged paragraphs let you isolate the effect of this revision. These teaching labels are not a grade for the full response."
+        ],
+        "vocabulary": [
+          "accounted for",
+          "percentage points",
+          "the corresponding figure"
+        ],
+        "grammar": [
+          "Past tense for completed reporting periods.",
+          "Comparative clauses to connect related values."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "writing-leisure-bar",
+    "taskType": "TASK_1",
+    "type": "Bar chart",
+    "title": "Weekend leisure choices",
+    "prompt": "The bar chart compares weekly participation in four leisure activities among adults in two fictional towns in 2025. Summarise the information, selecting the main features and making relevant comparisons. Write at least 150 words.",
+    "data": {
+      "kind": "bar",
+      "caption": "Adults participating each week (%) — fictional practice data",
+      "columns": [
+        "Activity",
+        "Hillford",
+        "Seabrook"
+      ],
+      "rows": [
+        [
+          "Walking",
+          60,
+          50
+        ],
+        [
+          "Swimming",
+          25,
+          45
+        ],
+        [
+          "Cycling",
+          40,
+          30
+        ],
+        [
+          "Team sports",
+          20,
+          20
+        ]
+      ]
+    },
+    "planningTips": [
+      "Group activities by which town has higher participation.",
+      "Percentages need not sum to 100 because adults may choose several activities.",
+      "Use past tense for the single recorded year."
+    ],
+    "sampleAnswer": "The bar chart presents the percentages of adults in Hillford and Seabrook who participated weekly in four leisure activities in 2025.\n\nOverall, walking was the most popular activity in both towns, while team sports attracted the smallest shares. Hillford recorded higher participation in walking and cycling, whereas swimming was more common in Seabrook.\n\nIn Hillford, 60% of adults walked each week, compared with 50% in Seabrook. Cycling showed the same ten-percentage-point difference, with figures of 40% and 30% respectively. In both cases, therefore, Hillford's participation exceeded that of the coastal town, although walking remained considerably more widespread than cycling within each location.\n\nSwimming showed the largest difference between the towns. Seabrook's figure was 45%, twenty percentage points above Hillford's 25%, and was only five points below its own walking figure. By contrast, team sports were equally popular in the two places, at 20%. This was one third of the walking figure in Hillford and less than half the equivalent figure in Seabrook.",
+    "selfCheck": [
+      "I included an overview of the main features.",
+      "My figures, units, locations or stages match the visual.",
+      "I grouped details rather than listing everything.",
+      "I avoided inventing causes or giving personal opinions.",
+      "I checked tense, comparison language and sentence boundaries."
+    ],
+    "samples": [
+      {
+        "level": "Developing · approx. Band 6 style",
+        "answer": "The bar chart presents the percentages of adults in Hillford and Seabrook who participated weekly in four leisure activities in 2025.\n\nOverall, walking had high figures. Team sports had low figures. Hillford was higher for some activities and Seabrook was higher for swimming. There were differences between the towns in three of the activities.\n\nIn Hillford, 60% of adults walked each week, compared with 50% in Seabrook. Cycling showed the same ten-percentage-point difference, with figures of 40% and 30% respectively. In both cases, therefore, Hillford's participation exceeded that of the coastal town, although walking remained considerably more widespread than cycling within each location.\n\nSwimming showed the largest difference between the towns. Seabrook's figure was 45%, twenty percentage points above Hillford's 25%, and was only five points below its own walking figure. By contrast, team sports were equally popular in the two places, at 20%. This was one third of the walking figure in Hillford and less than half the equivalent figure in Seabrook.",
+        "notes": [
+          "Compare the second paragraph: some ideas are general or repetitive.",
+          "Precise grouping replaces vague references to high and low figures; the body then quantifies those comparisons."
+        ],
+        "vocabulary": [
+          "accounted for",
+          "percentage points",
+          "the corresponding figure"
+        ],
+        "grammar": [
+          "Past tense for completed reporting periods.",
+          "Comparative clauses to connect related values."
+        ]
+      },
+      {
+        "level": "Clearer · approx. Band 7 style",
+        "answer": "The bar chart presents the percentages of adults in Hillford and Seabrook who participated weekly in four leisure activities in 2025.\n\nOverall, walking was the leading activity in each town and team sports were the least popular. Hillford led in walking and cycling, while Seabrook had the higher swimming figure.\n\nIn Hillford, 60% of adults walked each week, compared with 50% in Seabrook. Cycling showed the same ten-percentage-point difference, with figures of 40% and 30% respectively. In both cases, therefore, Hillford's participation exceeded that of the coastal town, although walking remained considerably more widespread than cycling within each location.\n\nSwimming showed the largest difference between the towns. Seabrook's figure was 45%, twenty percentage points above Hillford's 25%, and was only five points below its own walking figure. By contrast, team sports were equally popular in the two places, at 20%. This was one third of the walking figure in Hillford and less than half the equivalent figure in Seabrook.",
+        "notes": [
+          "The second paragraph now identifies and connects the key points.",
+          "Precise grouping replaces vague references to high and low figures; the body then quantifies those comparisons."
+        ],
+        "vocabulary": [
+          "accounted for",
+          "percentage points",
+          "the corresponding figure"
+        ],
+        "grammar": [
+          "Past tense for completed reporting periods.",
+          "Comparative clauses to connect related values."
+        ]
+      },
+      {
+        "level": "More developed · approx. Band 7.5+ style",
+        "answer": "The bar chart presents the percentages of adults in Hillford and Seabrook who participated weekly in four leisure activities in 2025.\n\nOverall, walking was the most popular activity in both towns, while team sports attracted the smallest shares. Hillford recorded higher participation in walking and cycling, whereas swimming was more common in Seabrook.\n\nIn Hillford, 60% of adults walked each week, compared with 50% in Seabrook. Cycling showed the same ten-percentage-point difference, with figures of 40% and 30% respectively. In both cases, therefore, Hillford's participation exceeded that of the coastal town, although walking remained considerably more widespread than cycling within each location.\n\nSwimming showed the largest difference between the towns. Seabrook's figure was 45%, twenty percentage points above Hillford's 25%, and was only five points below its own walking figure. By contrast, team sports were equally popular in the two places, at 20%. This was one third of the walking figure in Hillford and less than half the equivalent figure in Seabrook.",
+        "notes": [
+          "Precise grouping replaces vague references to high and low figures; the body then quantifies those comparisons.",
+          "The unchanged paragraphs let you isolate the effect of this revision. These teaching labels are not a grade for the full response."
+        ],
+        "vocabulary": [
+          "accounted for",
+          "percentage points",
+          "the corresponding figure"
+        ],
+        "grammar": [
+          "Past tense for completed reporting periods.",
+          "Comparative clauses to connect related values."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "writing-energy-pie",
+    "taskType": "TASK_1",
+    "type": "Pie chart",
+    "title": "A community centre’s energy",
+    "prompt": "The pie charts show the sources of energy used by a fictional community centre in 2015 and 2025. Summarise the information, selecting the main features and making relevant comparisons. Write at least 150 words.",
+    "data": {
+      "kind": "pies",
+      "caption": "Energy sources (%) — fictional practice data",
+      "columns": [
+        "Source",
+        "2015",
+        "2025"
+      ],
+      "rows": [
+        [
+          "Gas",
+          50,
+          30
+        ],
+        [
+          "Grid electricity",
+          40,
+          35
+        ],
+        [
+          "Solar",
+          10,
+          35
+        ]
+      ]
+    },
+    "planningTips": [
+      "State the change in the dominant source.",
+      "Compare the reduction in gas with the increase in solar.",
+      "Describe shares, not unprovided total energy quantities."
+    ],
+    "sampleAnswer": "The pie charts compare the proportions of energy supplied by gas, grid electricity and solar power at a community centre in 2015 and 2025.\n\nOverall, the centre became less dependent on gas, while solar power gained a much larger share. Gas was the main source initially, but grid electricity and solar supplied equal proportions by the end of the period.\n\nIn 2015, gas accounted for half of the centre's energy use. Grid electricity provided a further 40%, leaving solar with just 10%, the smallest contribution. Gas therefore supplied five times the share provided by solar and ten percentage points more than grid electricity.\n\nBy 2025, the gas proportion had fallen by twenty percentage points to 30%. Grid electricity also declined, although much more modestly, reaching 35%. Solar's share rose by twenty-five points to the same level, overtaking gas. Taken together, grid electricity and solar accounted for 70% in the later year, compared with 50% in 2015. The charts describe the changing composition of the energy supply rather than the total amount consumed.",
+    "selfCheck": [
+      "I included an overview of the main features.",
+      "My figures, units, locations or stages match the visual.",
+      "I grouped details rather than listing everything.",
+      "I avoided inventing causes or giving personal opinions.",
+      "I checked tense, comparison language and sentence boundaries."
+    ],
+    "samples": [
+      {
+        "level": "Developing · approx. Band 6 style",
+        "answer": "The pie charts compare the proportions of energy supplied by gas, grid electricity and solar power at a community centre in 2015 and 2025.\n\nOverall, gas changed and solar changed too. Gas was big in the first chart and smaller in the second. Solar became bigger, and electricity was still an important source in both of the years.\n\nIn 2015, gas accounted for half of the centre's energy use. Grid electricity provided a further 40%, leaving solar with just 10%, the smallest contribution. Gas therefore supplied five times the share provided by solar and ten percentage points more than grid electricity.\n\nBy 2025, the gas proportion had fallen by twenty percentage points to 30%. Grid electricity also declined, although much more modestly, reaching 35%. Solar's share rose by twenty-five points to the same level, overtaking gas. Taken together, grid electricity and solar accounted for 70% in the later year, compared with 50% in 2015. The charts describe the changing composition of the energy supply rather than the total amount consumed.",
+        "notes": [
+          "Compare the second paragraph: some ideas are general or repetitive.",
+          "The improved overview names the ranking change and equality; the detailed comparison avoids confusing shares with total consumption."
+        ],
+        "vocabulary": [
+          "accounted for",
+          "percentage points",
+          "the corresponding figure"
+        ],
+        "grammar": [
+          "Past tense for completed reporting periods.",
+          "Comparative clauses to connect related values."
+        ]
+      },
+      {
+        "level": "Clearer · approx. Band 7 style",
+        "answer": "The pie charts compare the proportions of energy supplied by gas, grid electricity and solar power at a community centre in 2015 and 2025.\n\nOverall, gas lost its leading position as solar increased. In 2025, solar and grid electricity were equal, and both represented larger shares than gas.\n\nIn 2015, gas accounted for half of the centre's energy use. Grid electricity provided a further 40%, leaving solar with just 10%, the smallest contribution. Gas therefore supplied five times the share provided by solar and ten percentage points more than grid electricity.\n\nBy 2025, the gas proportion had fallen by twenty percentage points to 30%. Grid electricity also declined, although much more modestly, reaching 35%. Solar's share rose by twenty-five points to the same level, overtaking gas. Taken together, grid electricity and solar accounted for 70% in the later year, compared with 50% in 2015. The charts describe the changing composition of the energy supply rather than the total amount consumed.",
+        "notes": [
+          "The second paragraph now identifies and connects the key points.",
+          "The improved overview names the ranking change and equality; the detailed comparison avoids confusing shares with total consumption."
+        ],
+        "vocabulary": [
+          "accounted for",
+          "percentage points",
+          "the corresponding figure"
+        ],
+        "grammar": [
+          "Past tense for completed reporting periods.",
+          "Comparative clauses to connect related values."
+        ]
+      },
+      {
+        "level": "More developed · approx. Band 7.5+ style",
+        "answer": "The pie charts compare the proportions of energy supplied by gas, grid electricity and solar power at a community centre in 2015 and 2025.\n\nOverall, the centre became less dependent on gas, while solar power gained a much larger share. Gas was the main source initially, but grid electricity and solar supplied equal proportions by the end of the period.\n\nIn 2015, gas accounted for half of the centre's energy use. Grid electricity provided a further 40%, leaving solar with just 10%, the smallest contribution. Gas therefore supplied five times the share provided by solar and ten percentage points more than grid electricity.\n\nBy 2025, the gas proportion had fallen by twenty percentage points to 30%. Grid electricity also declined, although much more modestly, reaching 35%. Solar's share rose by twenty-five points to the same level, overtaking gas. Taken together, grid electricity and solar accounted for 70% in the later year, compared with 50% in 2015. The charts describe the changing composition of the energy supply rather than the total amount consumed.",
+        "notes": [
+          "The improved overview names the ranking change and equality; the detailed comparison avoids confusing shares with total consumption.",
+          "The unchanged paragraphs let you isolate the effect of this revision. These teaching labels are not a grade for the full response."
+        ],
+        "vocabulary": [
+          "accounted for",
+          "percentage points",
+          "the corresponding figure"
+        ],
+        "grammar": [
+          "Past tense for completed reporting periods.",
+          "Comparative clauses to connect related values."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "writing-paper-process",
+    "taskType": "TASK_1",
+    "type": "Process",
+    "title": "Turning used paper into notebooks",
+    "prompt": "The diagram shows a simplified process used by a fictional workshop to turn used paper into notebooks. Summarise the information, selecting the main features and making relevant comparisons. Write at least 150 words.",
+    "data": {
+      "kind": "process",
+      "caption": "Notebook production — original schematic",
+      "steps": [
+        "Collect used paper",
+        "Sort and remove unsuitable material",
+        "Mix paper with water to make pulp",
+        "Filter the pulp",
+        "Press and dry into sheets",
+        "Cut sheets to size",
+        "Bind sheets into notebooks"
+      ]
+    },
+    "planningTips": [
+      "Identify the first and final stages.",
+      "Group preparation, sheet production and finishing.",
+      "Use passive structures when the operator is not important."
+    ],
+    "sampleAnswer": "The diagram illustrates a simplified seven-stage process in which a workshop transforms used paper into new notebooks.\n\nOverall, the procedure begins with the collection and preparation of waste paper and ends with the binding of finished sheets. Between these stages, the material is converted into pulp before being formed back into paper.\n\nFirst, used paper is collected and sorted so that unsuitable material can be removed. The remaining paper is then mixed with water to produce pulp. This mixture passes through a filter before it is ready for the next stage. Thus, the initial part of the process prepares the raw material rather than producing a finished writing surface.\n\nThe filtered pulp is subsequently pressed and dried to form sheets. Once the sheets have been produced, they are cut to the required size. The final stage involves binding the cut sheets together, creating notebooks ready for use. Although water is introduced during pulp production, the diagram does not specify quantities, temperatures or the duration of any stage, so these details cannot be established from the information shown.",
+    "selfCheck": [
+      "I included an overview of the main features.",
+      "My figures, units, locations or stages match the visual.",
+      "I grouped details rather than listing everything.",
+      "I avoided inventing causes or giving personal opinions.",
+      "I checked tense, comparison language and sentence boundaries."
+    ],
+    "samples": [
+      {
+        "level": "Developing · approx. Band 6 style",
+        "answer": "The diagram illustrates a simplified seven-stage process in which a workshop transforms used paper into new notebooks.\n\nOverall, there are several stages. The paper is collected at the start and notebooks are made at the end. The material goes through a number of changes before it becomes the final product.\n\nFirst, used paper is collected and sorted so that unsuitable material can be removed. The remaining paper is then mixed with water to produce pulp. This mixture passes through a filter before it is ready for the next stage. Thus, the initial part of the process prepares the raw material rather than producing a finished writing surface.\n\nThe filtered pulp is subsequently pressed and dried to form sheets. Once the sheets have been produced, they are cut to the required size. The final stage involves binding the cut sheets together, creating notebooks ready for use. Although water is introduced during pulp production, the diagram does not specify quantities, temperatures or the duration of any stage, so these details cannot be established from the information shown.",
+        "notes": [
+          "Compare the second paragraph: some ideas are general or repetitive.",
+          "Grouping stages by purpose makes the overview informative. Passive constructions keep attention on the material rather than inventing workers or machinery."
+        ],
+        "vocabulary": [
+          "filtered pulp",
+          "binding",
+          "the final stage"
+        ],
+        "grammar": [
+          "Present passive to focus on the material.",
+          "Time clauses to order the stages."
+        ]
+      },
+      {
+        "level": "Clearer · approx. Band 7 style",
+        "answer": "The diagram illustrates a simplified seven-stage process in which a workshop transforms used paper into new notebooks.\n\nOverall, the workshop collects and prepares used paper, turns it into pulp, and then makes sheets that are cut and bound into notebooks.\n\nFirst, used paper is collected and sorted so that unsuitable material can be removed. The remaining paper is then mixed with water to produce pulp. This mixture passes through a filter before it is ready for the next stage. Thus, the initial part of the process prepares the raw material rather than producing a finished writing surface.\n\nThe filtered pulp is subsequently pressed and dried to form sheets. Once the sheets have been produced, they are cut to the required size. The final stage involves binding the cut sheets together, creating notebooks ready for use. Although water is introduced during pulp production, the diagram does not specify quantities, temperatures or the duration of any stage, so these details cannot be established from the information shown.",
+        "notes": [
+          "The second paragraph now identifies and connects the key points.",
+          "Grouping stages by purpose makes the overview informative. Passive constructions keep attention on the material rather than inventing workers or machinery."
+        ],
+        "vocabulary": [
+          "filtered pulp",
+          "binding",
+          "the final stage"
+        ],
+        "grammar": [
+          "Present passive to focus on the material.",
+          "Time clauses to order the stages."
+        ]
+      },
+      {
+        "level": "More developed · approx. Band 7.5+ style",
+        "answer": "The diagram illustrates a simplified seven-stage process in which a workshop transforms used paper into new notebooks.\n\nOverall, the procedure begins with the collection and preparation of waste paper and ends with the binding of finished sheets. Between these stages, the material is converted into pulp before being formed back into paper.\n\nFirst, used paper is collected and sorted so that unsuitable material can be removed. The remaining paper is then mixed with water to produce pulp. This mixture passes through a filter before it is ready for the next stage. Thus, the initial part of the process prepares the raw material rather than producing a finished writing surface.\n\nThe filtered pulp is subsequently pressed and dried to form sheets. Once the sheets have been produced, they are cut to the required size. The final stage involves binding the cut sheets together, creating notebooks ready for use. Although water is introduced during pulp production, the diagram does not specify quantities, temperatures or the duration of any stage, so these details cannot be established from the information shown.",
+        "notes": [
+          "Grouping stages by purpose makes the overview informative. Passive constructions keep attention on the material rather than inventing workers or machinery.",
+          "The unchanged paragraphs let you isolate the effect of this revision. These teaching labels are not a grade for the full response."
+        ],
+        "vocabulary": [
+          "filtered pulp",
+          "binding",
+          "the final stage"
+        ],
+        "grammar": [
+          "Present passive to focus on the material.",
+          "Time clauses to order the stages."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "writing-park-map",
+    "taskType": "TASK_1",
+    "type": "Map",
+    "title": "A redesigned neighbourhood park",
+    "prompt": "The maps compare a fictional neighbourhood park in 2010 and 2025. North is at the top of both maps. Summarise the information, selecting the main features and making relevant comparisons. Write at least 150 words.",
+    "data": {
+      "kind": "map",
+      "caption": "Park layout — schematic, not to scale",
+      "maps": [
+        {
+          "label": "2010",
+          "cells": [
+            "Trees",
+            "Pond",
+            "Trees",
+            "Lawn",
+            "Path",
+            "Playground",
+            "Entrance",
+            "Flower beds",
+            "Car park"
+          ]
+        },
+        {
+          "label": "2025",
+          "cells": [
+            "Trees",
+            "Pond",
+            "Café",
+            "Community garden",
+            "Path",
+            "Larger playground",
+            "Entrance",
+            "Flower beds",
+            "Bicycle parking"
+          ]
+        }
+      ]
+    },
+    "planningTips": [
+      "Identify what stayed the same as well as what changed.",
+      "Use compass directions and relative positions.",
+      "Do not invent dimensions or reasons for the redesign."
+    ],
+    "sampleAnswer": "The maps show how the layout of a neighbourhood park changed between 2010 and 2025. They present the same nine areas, with north at the top in both years.\n\nOverall, the park gained a café and a community garden, while provision for play and bicycle parking increased. The central path, entrance, pond and flower beds remained in their original locations.\n\nIn the northern part of the park, the pond was retained in the middle, with trees still standing to its west. The trees to the east of the pond, however, were replaced by a café. Further south, the lawn on the western side of the central path became a community garden. On the opposite side, the playground remained in place but was described as larger in the later map.\n\nThe southern edge also saw a change in parking provision. Bicycle parking replaced the car park in the southeast, while the entrance in the southwest and the flower beds between these two areas were unchanged. The maps show changes in use and position but do not provide measurements of the facilities.",
+    "selfCheck": [
+      "I included an overview of the main features.",
+      "My figures, units, locations or stages match the visual.",
+      "I grouped details rather than listing everything.",
+      "I avoided inventing causes or giving personal opinions.",
+      "I checked tense, comparison language and sentence boundaries."
+    ],
+    "samples": [
+      {
+        "level": "Developing · approx. Band 6 style",
+        "answer": "The maps show how the layout of a neighbourhood park changed between 2010 and 2025. They present the same nine areas, with north at the top in both years.\n\nOverall, the park was changed in several places. There was a new café and a garden. Some places remained the same. The parking was different too, and the playground was bigger than it was before.\n\nIn the northern part of the park, the pond was retained in the middle, with trees still standing to its west. The trees to the east of the pond, however, were replaced by a café. Further south, the lawn on the western side of the central path became a community garden. On the opposite side, the playground remained in place but was described as larger in the later map.\n\nThe southern edge also saw a change in parking provision. Bicycle parking replaced the car park in the southeast, while the entrance in the southwest and the flower beds between these two areas were unchanged. The maps show changes in use and position but do not provide measurements of the facilities.",
+        "notes": [
+          "Compare the second paragraph: some ideas are general or repetitive.",
+          "The revised overview groups changes by function. Location language in the detail paragraphs makes each feature traceable on the map."
+        ],
+        "vocabulary": [
+          "were retained",
+          "on the opposite side",
+          "replaced by"
+        ],
+        "grammar": [
+          "Past passive to describe replacement.",
+          "Relative position phrases to locate changes."
+        ]
+      },
+      {
+        "level": "Clearer · approx. Band 7 style",
+        "answer": "The maps show how the layout of a neighbourhood park changed between 2010 and 2025. They present the same nine areas, with north at the top in both years.\n\nOverall, new social and gardening facilities replaced some green space, and bicycle parking replaced the car park. Several features, including the pond and entrance, were retained.\n\nIn the northern part of the park, the pond was retained in the middle, with trees still standing to its west. The trees to the east of the pond, however, were replaced by a café. Further south, the lawn on the western side of the central path became a community garden. On the opposite side, the playground remained in place but was described as larger in the later map.\n\nThe southern edge also saw a change in parking provision. Bicycle parking replaced the car park in the southeast, while the entrance in the southwest and the flower beds between these two areas were unchanged. The maps show changes in use and position but do not provide measurements of the facilities.",
+        "notes": [
+          "The second paragraph now identifies and connects the key points.",
+          "The revised overview groups changes by function. Location language in the detail paragraphs makes each feature traceable on the map."
+        ],
+        "vocabulary": [
+          "were retained",
+          "on the opposite side",
+          "replaced by"
+        ],
+        "grammar": [
+          "Past passive to describe replacement.",
+          "Relative position phrases to locate changes."
+        ]
+      },
+      {
+        "level": "More developed · approx. Band 7.5+ style",
+        "answer": "The maps show how the layout of a neighbourhood park changed between 2010 and 2025. They present the same nine areas, with north at the top in both years.\n\nOverall, the park gained a café and a community garden, while provision for play and bicycle parking increased. The central path, entrance, pond and flower beds remained in their original locations.\n\nIn the northern part of the park, the pond was retained in the middle, with trees still standing to its west. The trees to the east of the pond, however, were replaced by a café. Further south, the lawn on the western side of the central path became a community garden. On the opposite side, the playground remained in place but was described as larger in the later map.\n\nThe southern edge also saw a change in parking provision. Bicycle parking replaced the car park in the southeast, while the entrance in the southwest and the flower beds between these two areas were unchanged. The maps show changes in use and position but do not provide measurements of the facilities.",
+        "notes": [
+          "The revised overview groups changes by function. Location language in the detail paragraphs makes each feature traceable on the map.",
+          "The unchanged paragraphs let you isolate the effect of this revision. These teaching labels are not a grade for the full response."
+        ],
+        "vocabulary": [
+          "were retained",
+          "on the opposite side",
+          "replaced by"
+        ],
+        "grammar": [
+          "Past passive to describe replacement.",
+          "Relative position phrases to locate changes."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "writing-museum-mixed",
+    "taskType": "TASK_1",
+    "type": "Mixed charts",
+    "title": "Museum attendance and visitors",
+    "prompt": "The bar chart shows annual visits to a fictional museum from 2022 to 2024. The pie chart shows the age distribution of visits in 2024. Summarise the information, selecting the main features and making relevant comparisons. Write at least 150 words.",
+    "data": {
+      "kind": "mixed",
+      "caption": "Museum visits — fictional practice data",
+      "charts": [
+        {
+          "kind": "bar",
+          "caption": "Annual visits (thousands)",
+          "columns": [
+            "Year",
+            "Visits"
+          ],
+          "rows": [
+            [
+              "2022",
+              40
+            ],
+            [
+              "2023",
+              50
+            ],
+            [
+              "2024",
+              60
+            ]
+          ]
+        },
+        {
+          "kind": "pies",
+          "caption": "Share of visits in 2024 (%)",
+          "columns": [
+            "Age",
+            "2024"
+          ],
+          "rows": [
+            [
+              "Under 18",
+              25
+            ],
+            [
+              "18–59",
+              50
+            ],
+            [
+              "60 and over",
+              25
+            ]
+          ]
+        }
+      ]
+    },
+    "planningTips": [
+      "Include an overview covering both visuals.",
+      "Keep thousands of visits distinct from percentage shares.",
+      "Do not infer the age distribution for years where it is not shown."
+    ],
+    "sampleAnswer": "The bar chart records annual visits to a museum between 2022 and 2024, while the pie chart divides the final year's visits into three age groups.\n\nOverall, attendance increased steadily over the three years. In 2024, people aged 18 to 59 accounted for half of all visits, while the youngest and oldest groups contributed equal shares.\n\nThe museum received 40,000 visits in 2022. This number rose to 50,000 in 2023 and reached 60,000 in 2024. Each annual increase was therefore 10,000 visits, although the overall rise of 20,000 represented growth of 50% relative to the initial figure. The highest attendance was recorded in the final year.\n\nOf the visits made in 2024, 50% were attributed to the 18–59 age group. The under-18 and 60-and-over groups each accounted for 25%, so their combined share matched that of the middle group. Applied to the total for that year, these proportions correspond to 30,000 visits by middle-aged and younger adults and 15,000 for each remaining group. No age breakdown is supplied for the earlier years.",
+    "selfCheck": [
+      "I included an overview of the main features.",
+      "My figures, units, locations or stages match the visual.",
+      "I grouped details rather than listing everything.",
+      "I avoided inventing causes or giving personal opinions.",
+      "I checked tense, comparison language and sentence boundaries."
+    ],
+    "samples": [
+      {
+        "level": "Developing · approx. Band 6 style",
+        "answer": "The bar chart records annual visits to a museum between 2022 and 2024, while the pie chart divides the final year's visits into three age groups.\n\nOverall, the museum had more visits by the end. The age groups were different sizes in the pie chart. The middle group was the biggest, and the other groups were smaller and the same size as each other.\n\nThe museum received 40,000 visits in 2022. This number rose to 50,000 in 2023 and reached 60,000 in 2024. Each annual increase was therefore 10,000 visits, although the overall rise of 20,000 represented growth of 50% relative to the initial figure. The highest attendance was recorded in the final year.\n\nOf the visits made in 2024, 50% were attributed to the 18–59 age group. The under-18 and 60-and-over groups each accounted for 25%, so their combined share matched that of the middle group. Applied to the total for that year, these proportions correspond to 30,000 visits by middle-aged and younger adults and 15,000 for each remaining group. No age breakdown is supplied for the earlier years.",
+        "notes": [
+          "Compare the second paragraph: some ideas are general or repetitive.",
+          "A complete overview covers both visuals, while explicit units prevent confusion between visitor shares and attendance totals."
+        ],
+        "vocabulary": [
+          "accounted for",
+          "percentage points",
+          "the corresponding figure"
+        ],
+        "grammar": [
+          "Past tense for completed reporting periods.",
+          "Comparative clauses to connect related values."
+        ]
+      },
+      {
+        "level": "Clearer · approx. Band 7 style",
+        "answer": "The bar chart records annual visits to a museum between 2022 and 2024, while the pie chart divides the final year's visits into three age groups.\n\nOverall, annual visits rose throughout the period. In the final year, the 18–59 group represented half the total, with the two other groups each accounting for one quarter.\n\nThe museum received 40,000 visits in 2022. This number rose to 50,000 in 2023 and reached 60,000 in 2024. Each annual increase was therefore 10,000 visits, although the overall rise of 20,000 represented growth of 50% relative to the initial figure. The highest attendance was recorded in the final year.\n\nOf the visits made in 2024, 50% were attributed to the 18–59 age group. The under-18 and 60-and-over groups each accounted for 25%, so their combined share matched that of the middle group. Applied to the total for that year, these proportions correspond to 30,000 visits by middle-aged and younger adults and 15,000 for each remaining group. No age breakdown is supplied for the earlier years.",
+        "notes": [
+          "The second paragraph now identifies and connects the key points.",
+          "A complete overview covers both visuals, while explicit units prevent confusion between visitor shares and attendance totals."
+        ],
+        "vocabulary": [
+          "accounted for",
+          "percentage points",
+          "the corresponding figure"
+        ],
+        "grammar": [
+          "Past tense for completed reporting periods.",
+          "Comparative clauses to connect related values."
+        ]
+      },
+      {
+        "level": "More developed · approx. Band 7.5+ style",
+        "answer": "The bar chart records annual visits to a museum between 2022 and 2024, while the pie chart divides the final year's visits into three age groups.\n\nOverall, attendance increased steadily over the three years. In 2024, people aged 18 to 59 accounted for half of all visits, while the youngest and oldest groups contributed equal shares.\n\nThe museum received 40,000 visits in 2022. This number rose to 50,000 in 2023 and reached 60,000 in 2024. Each annual increase was therefore 10,000 visits, although the overall rise of 20,000 represented growth of 50% relative to the initial figure. The highest attendance was recorded in the final year.\n\nOf the visits made in 2024, 50% were attributed to the 18–59 age group. The under-18 and 60-and-over groups each accounted for 25%, so their combined share matched that of the middle group. Applied to the total for that year, these proportions correspond to 30,000 visits by middle-aged and younger adults and 15,000 for each remaining group. No age breakdown is supplied for the earlier years.",
+        "notes": [
+          "A complete overview covers both visuals, while explicit units prevent confusion between visitor shares and attendance totals.",
+          "The unchanged paragraphs let you isolate the effect of this revision. These teaching labels are not a grade for the full response."
+        ],
+        "vocabulary": [
+          "accounted for",
+          "percentage points",
+          "the corresponding figure"
+        ],
+        "grammar": [
+          "Past tense for completed reporting periods.",
+          "Comparative clauses to connect related values."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "writing-remote-work",
+    "taskType": "TASK_2",
+    "type": "Advantages / Disadvantages",
+    "title": "Working from home",
+    "prompt": "More employers now allow staff to work from home. Do the advantages of this development outweigh the disadvantages? Give reasons and relevant examples. Write at least 250 words.",
+    "data": null,
+    "planningTips": [
+      "Make an explicit judgement about which side outweighs the other.",
+      "Explain how benefits depend on the type of work.",
+      "Develop a disadvantage rather than dismissing it."
+    ],
+    "sampleAnswer": "Working from home has become an option in many occupations where tasks can be completed digitally. Although this arrangement can weaken informal communication, I believe its advantages generally outweigh its disadvantages when employers establish suitable routines and preserve opportunities for direct contact.\n\nThe main benefit is the greater control employees gain over time that would otherwise be spent commuting. Someone who previously travelled for an hour each way can use part of that time for rest, exercise or family responsibilities. This does not mean that working hours should become shorter without agreement. Rather, it removes an activity that consumes time without directly contributing to the employee's work. Employers may also recruit from a wider area when attendance at an office is not required every day.\n\nThere are nevertheless real disadvantages. A new employee may find it difficult to ask small questions when colleagues are available only through scheduled calls. At home, unsuitable space or competing responsibilities can also make concentration difficult. These problems are especially important for people who share crowded accommodation. It would therefore be unfair to assume that every employee has the same capacity to work effectively outside the office.\n\nIn my view, these limitations call for flexibility rather than the rejection of remote work. Teams can arrange regular check-ins and agree which activities benefit most from meeting in person. An employer could also retain shared workspaces for those who need them. Such arrangements preserve the time-saving benefit while reducing isolation and ensuring that location does not become a barrier to receiving support.\n\nIn conclusion, the advantages of working from home are greater overall because it reduces unnecessary travel and broadens employment options. However, this judgement depends on providing appropriate support and recognising that a single arrangement will not suit every worker or task.",
+    "selfCheck": [
+      "I answered every part of the question.",
+      "My position is clear and consistent.",
+      "Each main idea has a reason, explanation and example.",
+      "I developed relevant points rather than memorised phrases.",
+      "My conclusion follows from the discussion.",
+      "I checked articles, agreement, punctuation and word forms."
+    ],
+    "samples": [
+      {
+        "level": "Developing · approx. Band 6 style",
+        "answer": "Working from home has become an option in many occupations where tasks can be completed digitally. Although this arrangement can weaken informal communication, I believe its advantages generally outweigh its disadvantages when employers establish suitable routines and preserve opportunities for direct contact.\n\nWorking from home has many advantages. It is convenient and saves time. Workers do not need to travel to the office every day, which is good for them and their families. Companies can also benefit from this arrangement in different ways. For these reasons, many people like working at home and would choose it if their jobs allowed them to do so. It can make working life easier for a large number of people.\n\nThere are nevertheless real disadvantages. A new employee may find it difficult to ask small questions when colleagues are available only through scheduled calls. At home, unsuitable space or competing responsibilities can also make concentration difficult. These problems are especially important for people who share crowded accommodation. It would therefore be unfair to assume that every employee has the same capacity to work effectively outside the office.\n\nIn my view, these limitations call for flexibility rather than the rejection of remote work. Teams can arrange regular check-ins and agree which activities benefit most from meeting in person. An employer could also retain shared workspaces for those who need them. Such arrangements preserve the time-saving benefit while reducing isolation and ensuring that location does not become a barrier to receiving support.\n\nIn conclusion, the advantages of working from home are greater overall because it reduces unnecessary travel and broadens employment options. However, this judgement depends on providing appropriate support and recognising that a single arrangement will not suit every worker or task.",
+        "notes": [
+          "Compare the second paragraph: some ideas are general or repetitive.",
+          "The strongest paragraph explains the mechanism, uses a concrete commute example and qualifies the claim about working hours."
+        ],
+        "vocabulary": [
+          "a practical alternative",
+          "access to opportunities",
+          "appropriate support"
+        ],
+        "grammar": [
+          "Concession clauses to qualify a position.",
+          "A reason followed by an explanation and concrete example."
+        ]
+      },
+      {
+        "level": "Clearer · approx. Band 7 style",
+        "answer": "Working from home has become an option in many occupations where tasks can be completed digitally. Although this arrangement can weaken informal communication, I believe its advantages generally outweigh its disadvantages when employers establish suitable routines and preserve opportunities for direct contact.\n\nA major advantage is the time saved on commuting. Employees can use this time for family life or rest, which may help them feel more prepared for work. Employers can also consider applicants who live further away because daily travel is unnecessary. These benefits make remote work attractive, particularly for jobs that mainly involve independent computer-based tasks.\n\nThere are nevertheless real disadvantages. A new employee may find it difficult to ask small questions when colleagues are available only through scheduled calls. At home, unsuitable space or competing responsibilities can also make concentration difficult. These problems are especially important for people who share crowded accommodation. It would therefore be unfair to assume that every employee has the same capacity to work effectively outside the office.\n\nIn my view, these limitations call for flexibility rather than the rejection of remote work. Teams can arrange regular check-ins and agree which activities benefit most from meeting in person. An employer could also retain shared workspaces for those who need them. Such arrangements preserve the time-saving benefit while reducing isolation and ensuring that location does not become a barrier to receiving support.\n\nIn conclusion, the advantages of working from home are greater overall because it reduces unnecessary travel and broadens employment options. However, this judgement depends on providing appropriate support and recognising that a single arrangement will not suit every worker or task.",
+        "notes": [
+          "The second paragraph now identifies and connects the key points.",
+          "The strongest paragraph explains the mechanism, uses a concrete commute example and qualifies the claim about working hours."
+        ],
+        "vocabulary": [
+          "a practical alternative",
+          "access to opportunities",
+          "appropriate support"
+        ],
+        "grammar": [
+          "Concession clauses to qualify a position.",
+          "A reason followed by an explanation and concrete example."
+        ]
+      },
+      {
+        "level": "More developed · approx. Band 7.5+ style",
+        "answer": "Working from home has become an option in many occupations where tasks can be completed digitally. Although this arrangement can weaken informal communication, I believe its advantages generally outweigh its disadvantages when employers establish suitable routines and preserve opportunities for direct contact.\n\nThe main benefit is the greater control employees gain over time that would otherwise be spent commuting. Someone who previously travelled for an hour each way can use part of that time for rest, exercise or family responsibilities. This does not mean that working hours should become shorter without agreement. Rather, it removes an activity that consumes time without directly contributing to the employee's work. Employers may also recruit from a wider area when attendance at an office is not required every day.\n\nThere are nevertheless real disadvantages. A new employee may find it difficult to ask small questions when colleagues are available only through scheduled calls. At home, unsuitable space or competing responsibilities can also make concentration difficult. These problems are especially important for people who share crowded accommodation. It would therefore be unfair to assume that every employee has the same capacity to work effectively outside the office.\n\nIn my view, these limitations call for flexibility rather than the rejection of remote work. Teams can arrange regular check-ins and agree which activities benefit most from meeting in person. An employer could also retain shared workspaces for those who need them. Such arrangements preserve the time-saving benefit while reducing isolation and ensuring that location does not become a barrier to receiving support.\n\nIn conclusion, the advantages of working from home are greater overall because it reduces unnecessary travel and broadens employment options. However, this judgement depends on providing appropriate support and recognising that a single arrangement will not suit every worker or task.",
+        "notes": [
+          "The strongest paragraph explains the mechanism, uses a concrete commute example and qualifies the claim about working hours.",
+          "The unchanged paragraphs let you isolate the effect of this revision. These teaching labels are not a grade for the full response."
+        ],
+        "vocabulary": [
+          "a practical alternative",
+          "access to opportunities",
+          "appropriate support"
+        ],
+        "grammar": [
+          "Concession clauses to qualify a position.",
+          "A reason followed by an explanation and concrete example."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "writing-food-waste",
+    "taskType": "TASK_2",
+    "type": "Problem / Solution",
+    "title": "Reducing household food waste",
+    "prompt": "Many households throw away food that could have been eaten. What problems does this cause, and what measures could reduce it? Give reasons and relevant examples. Write at least 250 words.",
+    "data": null,
+    "planningTips": [
+      "Discuss consequences, not only causes.",
+      "Match each proposed measure to the problem it addresses.",
+      "Avoid claiming a single measure will eliminate waste."
+    ],
+    "sampleAnswer": "Edible food is sometimes discarded because households buy more than they use or forget what they already have. This creates financial and environmental problems. A combination of clearer information, practical household routines and suitable retail options could reduce the amount thrown away.\n\nOne problem is that wasted food represents wasted household income. Families pay for products from which they receive no nutritional benefit, and repeated small losses can place pressure on a limited budget. There is also a wider waste of resources. Producing, transporting and storing food require land, water, energy and labour. When usable food is discarded, these inputs have been used without fulfilling their purpose. The issue therefore extends beyond the rubbish visible in a kitchen bin.\n\nAt household level, planning meals and checking existing supplies before shopping can reduce unnecessary purchases. A family that knows which vegetables are already in its refrigerator is less likely to buy duplicates. Storing food appropriately and using older items first can also help. These routines need to be simple enough to maintain; a complicated recording system would be unlikely to suit a busy household.\n\nRetailers and public organisations have a role as well. Shops could offer practical pack sizes instead of making large quantities the only economical option. Clear explanations of food labels would help consumers understand the information available to them, while community cooking sessions could demonstrate ways of using suitable leftovers. Such measures address knowledge and purchasing conditions rather than placing all responsibility on individual willpower.\n\nIn conclusion, throwing away edible food wastes money and the resources invested in its production. Better planning, clear information and more flexible purchasing options can work together to reduce this problem, even though some waste will remain unavoidable.",
+    "selfCheck": [
+      "I answered every part of the question.",
+      "My position is clear and consistent.",
+      "Each main idea has a reason, explanation and example.",
+      "I developed relevant points rather than memorised phrases.",
+      "My conclusion follows from the discussion.",
+      "I checked articles, agreement, punctuation and word forms."
+    ],
+    "samples": [
+      {
+        "level": "Developing · approx. Band 6 style",
+        "answer": "Edible food is sometimes discarded because households buy more than they use or forget what they already have. This creates financial and environmental problems. A combination of clearer information, practical household routines and suitable retail options could reduce the amount thrown away.\n\nFood waste is a serious problem for everyone. It costs money and is bad for the environment. A lot of effort goes into food and then people throw it away. This is not a good situation for families, especially when they do not have much money. Society should pay attention to this problem because it happens in many homes and it can affect people in different ways.\n\nAt household level, planning meals and checking existing supplies before shopping can reduce unnecessary purchases. A family that knows which vegetables are already in its refrigerator is less likely to buy duplicates. Storing food appropriately and using older items first can also help. These routines need to be simple enough to maintain; a complicated recording system would be unlikely to suit a busy household.\n\nRetailers and public organisations have a role as well. Shops could offer practical pack sizes instead of making large quantities the only economical option. Clear explanations of food labels would help consumers understand the information available to them, while community cooking sessions could demonstrate ways of using suitable leftovers. Such measures address knowledge and purchasing conditions rather than placing all responsibility on individual willpower.\n\nIn conclusion, throwing away edible food wastes money and the resources invested in its production. Better planning, clear information and more flexible purchasing options can work together to reduce this problem, even though some waste will remain unavoidable.",
+        "notes": [
+          "Compare the second paragraph: some ideas are general or repetitive.",
+          "The stronger version separates household cost from resource loss and explains why each is a problem instead of repeating that waste is bad."
+        ],
+        "vocabulary": [
+          "a practical alternative",
+          "access to opportunities",
+          "appropriate support"
+        ],
+        "grammar": [
+          "Concession clauses to qualify a position.",
+          "A reason followed by an explanation and concrete example."
+        ]
+      },
+      {
+        "level": "Clearer · approx. Band 7 style",
+        "answer": "Edible food is sometimes discarded because households buy more than they use or forget what they already have. This creates financial and environmental problems. A combination of clearer information, practical household routines and suitable retail options could reduce the amount thrown away.\n\nDiscarded food costs households money and wastes resources. Families receive no benefit from food they buy but never eat. Furthermore, the water and energy used to produce and transport that food have served little purpose. This means that the problem affects both personal budgets and the wider environment, rather than being only a matter of untidy kitchens.\n\nAt household level, planning meals and checking existing supplies before shopping can reduce unnecessary purchases. A family that knows which vegetables are already in its refrigerator is less likely to buy duplicates. Storing food appropriately and using older items first can also help. These routines need to be simple enough to maintain; a complicated recording system would be unlikely to suit a busy household.\n\nRetailers and public organisations have a role as well. Shops could offer practical pack sizes instead of making large quantities the only economical option. Clear explanations of food labels would help consumers understand the information available to them, while community cooking sessions could demonstrate ways of using suitable leftovers. Such measures address knowledge and purchasing conditions rather than placing all responsibility on individual willpower.\n\nIn conclusion, throwing away edible food wastes money and the resources invested in its production. Better planning, clear information and more flexible purchasing options can work together to reduce this problem, even though some waste will remain unavoidable.",
+        "notes": [
+          "The second paragraph now identifies and connects the key points.",
+          "The stronger version separates household cost from resource loss and explains why each is a problem instead of repeating that waste is bad."
+        ],
+        "vocabulary": [
+          "a practical alternative",
+          "access to opportunities",
+          "appropriate support"
+        ],
+        "grammar": [
+          "Concession clauses to qualify a position.",
+          "A reason followed by an explanation and concrete example."
+        ]
+      },
+      {
+        "level": "More developed · approx. Band 7.5+ style",
+        "answer": "Edible food is sometimes discarded because households buy more than they use or forget what they already have. This creates financial and environmental problems. A combination of clearer information, practical household routines and suitable retail options could reduce the amount thrown away.\n\nOne problem is that wasted food represents wasted household income. Families pay for products from which they receive no nutritional benefit, and repeated small losses can place pressure on a limited budget. There is also a wider waste of resources. Producing, transporting and storing food require land, water, energy and labour. When usable food is discarded, these inputs have been used without fulfilling their purpose. The issue therefore extends beyond the rubbish visible in a kitchen bin.\n\nAt household level, planning meals and checking existing supplies before shopping can reduce unnecessary purchases. A family that knows which vegetables are already in its refrigerator is less likely to buy duplicates. Storing food appropriately and using older items first can also help. These routines need to be simple enough to maintain; a complicated recording system would be unlikely to suit a busy household.\n\nRetailers and public organisations have a role as well. Shops could offer practical pack sizes instead of making large quantities the only economical option. Clear explanations of food labels would help consumers understand the information available to them, while community cooking sessions could demonstrate ways of using suitable leftovers. Such measures address knowledge and purchasing conditions rather than placing all responsibility on individual willpower.\n\nIn conclusion, throwing away edible food wastes money and the resources invested in its production. Better planning, clear information and more flexible purchasing options can work together to reduce this problem, even though some waste will remain unavoidable.",
+        "notes": [
+          "The stronger version separates household cost from resource loss and explains why each is a problem instead of repeating that waste is bad.",
+          "The unchanged paragraphs let you isolate the effect of this revision. These teaching labels are not a grade for the full response."
+        ],
+        "vocabulary": [
+          "a practical alternative",
+          "access to opportunities",
+          "appropriate support"
+        ],
+        "grammar": [
+          "Concession clauses to qualify a position.",
+          "A reason followed by an explanation and concrete example."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "writing-city-move",
+    "taskType": "TASK_2",
+    "type": "Two-part question",
+    "title": "Moving to larger cities",
+    "prompt": "Many young adults move from small towns to large cities. Why do they make this move? How can smaller towns encourage them to stay? Give reasons and relevant examples. Write at least 250 words.",
+    "data": null,
+    "planningTips": [
+      "Answer both questions with balanced development.",
+      "Connect the town measures to the reasons for moving.",
+      "Avoid treating all young adults as having identical priorities."
+    ],
+    "sampleAnswer": "For many young adults, moving to a large city seems a useful step towards independence. Employment and educational opportunities are major reasons for this decision. Smaller towns are more likely to retain young residents if they improve access to these opportunities while preserving the advantages of local life.\n\nLarge cities tend to offer a wider choice of employers and courses within a relatively small area. A young person seeking specialist training may have few suitable options in their home town. Similarly, someone entering a creative or technical field may value living near several potential employers rather than depending on a single local firm. Cities can also offer social and cultural opportunities that appeal to people establishing new friendships. However, the importance of these attractions will differ between individuals.\n\nSmaller towns can respond by strengthening links between education and local employment. Colleges could work with businesses to provide relevant training and placements, allowing students to see a future career without immediately moving away. Reliable digital connections can also make some remote jobs practical. These measures are more useful than simply promoting the town's scenery if the main reason for leaving is the absence of suitable work.\n\nThe quality of everyday life matters too. Affordable housing, dependable transport and welcoming spaces for recreation can make staying attractive. For example, a shared workspace near a bus route could help young remote workers avoid isolation while remaining close to family. Town authorities should consult young residents when choosing such projects so that investment reflects their actual needs rather than assumptions made on their behalf.\n\nIn conclusion, young adults often move to cities for broader study, career and social possibilities. Smaller towns can encourage them to stay by making local opportunities more credible and supporting an enjoyable, connected daily life.",
+    "selfCheck": [
+      "I answered every part of the question.",
+      "My position is clear and consistent.",
+      "Each main idea has a reason, explanation and example.",
+      "I developed relevant points rather than memorised phrases.",
+      "My conclusion follows from the discussion.",
+      "I checked articles, agreement, punctuation and word forms."
+    ],
+    "samples": [
+      {
+        "level": "Developing · approx. Band 6 style",
+        "answer": "For many young adults, moving to a large city seems a useful step towards independence. Employment and educational opportunities are major reasons for this decision. Smaller towns are more likely to retain young residents if they improve access to these opportunities while preserving the advantages of local life.\n\nYoung people move because cities have many things. There are jobs, colleges and places to go. These are important for young people who want a good future. Small towns do not always have the same things, so people think that moving is a good idea. They may also know friends who have already moved and enjoy living in a city. There are therefore several reasons for making this decision.\n\nSmaller towns can respond by strengthening links between education and local employment. Colleges could work with businesses to provide relevant training and placements, allowing students to see a future career without immediately moving away. Reliable digital connections can also make some remote jobs practical. These measures are more useful than simply promoting the town's scenery if the main reason for leaving is the absence of suitable work.\n\nThe quality of everyday life matters too. Affordable housing, dependable transport and welcoming spaces for recreation can make staying attractive. For example, a shared workspace near a bus route could help young remote workers avoid isolation while remaining close to family. Town authorities should consult young residents when choosing such projects so that investment reflects their actual needs rather than assumptions made on their behalf.\n\nIn conclusion, young adults often move to cities for broader study, career and social possibilities. Smaller towns can encourage them to stay by making local opportunities more credible and supporting an enjoyable, connected daily life.",
+        "notes": [
+          "Compare the second paragraph: some ideas are general or repetitive.",
+          "The strongest paragraph develops a specialist-training example and distinguishes individual motives, while later measures respond directly to these motives."
+        ],
+        "vocabulary": [
+          "a practical alternative",
+          "access to opportunities",
+          "appropriate support"
+        ],
+        "grammar": [
+          "Concession clauses to qualify a position.",
+          "A reason followed by an explanation and concrete example."
+        ]
+      },
+      {
+        "level": "Clearer · approx. Band 7 style",
+        "answer": "For many young adults, moving to a large city seems a useful step towards independence. Employment and educational opportunities are major reasons for this decision. Smaller towns are more likely to retain young residents if they improve access to these opportunities while preserving the advantages of local life.\n\nYoung adults often move for work and education. A city may contain several employers in their chosen field and offer courses unavailable locally. It can also provide more opportunities to meet people and attend cultural events. These attractions help explain why moving seems worthwhile despite the higher costs that city life may involve.\n\nSmaller towns can respond by strengthening links between education and local employment. Colleges could work with businesses to provide relevant training and placements, allowing students to see a future career without immediately moving away. Reliable digital connections can also make some remote jobs practical. These measures are more useful than simply promoting the town's scenery if the main reason for leaving is the absence of suitable work.\n\nThe quality of everyday life matters too. Affordable housing, dependable transport and welcoming spaces for recreation can make staying attractive. For example, a shared workspace near a bus route could help young remote workers avoid isolation while remaining close to family. Town authorities should consult young residents when choosing such projects so that investment reflects their actual needs rather than assumptions made on their behalf.\n\nIn conclusion, young adults often move to cities for broader study, career and social possibilities. Smaller towns can encourage them to stay by making local opportunities more credible and supporting an enjoyable, connected daily life.",
+        "notes": [
+          "The second paragraph now identifies and connects the key points.",
+          "The strongest paragraph develops a specialist-training example and distinguishes individual motives, while later measures respond directly to these motives."
+        ],
+        "vocabulary": [
+          "a practical alternative",
+          "access to opportunities",
+          "appropriate support"
+        ],
+        "grammar": [
+          "Concession clauses to qualify a position.",
+          "A reason followed by an explanation and concrete example."
+        ]
+      },
+      {
+        "level": "More developed · approx. Band 7.5+ style",
+        "answer": "For many young adults, moving to a large city seems a useful step towards independence. Employment and educational opportunities are major reasons for this decision. Smaller towns are more likely to retain young residents if they improve access to these opportunities while preserving the advantages of local life.\n\nLarge cities tend to offer a wider choice of employers and courses within a relatively small area. A young person seeking specialist training may have few suitable options in their home town. Similarly, someone entering a creative or technical field may value living near several potential employers rather than depending on a single local firm. Cities can also offer social and cultural opportunities that appeal to people establishing new friendships. However, the importance of these attractions will differ between individuals.\n\nSmaller towns can respond by strengthening links between education and local employment. Colleges could work with businesses to provide relevant training and placements, allowing students to see a future career without immediately moving away. Reliable digital connections can also make some remote jobs practical. These measures are more useful than simply promoting the town's scenery if the main reason for leaving is the absence of suitable work.\n\nThe quality of everyday life matters too. Affordable housing, dependable transport and welcoming spaces for recreation can make staying attractive. For example, a shared workspace near a bus route could help young remote workers avoid isolation while remaining close to family. Town authorities should consult young residents when choosing such projects so that investment reflects their actual needs rather than assumptions made on their behalf.\n\nIn conclusion, young adults often move to cities for broader study, career and social possibilities. Smaller towns can encourage them to stay by making local opportunities more credible and supporting an enjoyable, connected daily life.",
+        "notes": [
+          "The strongest paragraph develops a specialist-training example and distinguishes individual motives, while later measures respond directly to these motives.",
+          "The unchanged paragraphs let you isolate the effect of this revision. These teaching labels are not a grade for the full response."
+        ],
+        "vocabulary": [
+          "a practical alternative",
+          "access to opportunities",
+          "appropriate support"
+        ],
+        "grammar": [
+          "Concession clauses to qualify a position.",
+          "A reason followed by an explanation and concrete example."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "writing-digital-payments",
+    "taskType": "TASK_2",
+    "type": "Positive / Negative development",
+    "title": "A shift towards digital payments",
+    "prompt": "In some communities, people increasingly use digital payments instead of cash. Is this a positive or negative development? Give reasons and relevant examples. Write at least 250 words.",
+    "data": null,
+    "planningTips": [
+      "Give an overall evaluation, not just a list of pros and cons.",
+      "Consider people who may be excluded.",
+      "Support practical claims with examples rather than invented statistics."
+    ],
+    "sampleAnswer": "Digital payments are replacing cash in many everyday transactions. I regard this as a largely positive development because it can make payments more convenient and easier to track. However, maintaining alternatives is important so that people without suitable devices or skills are not excluded.\n\nThe main advantage is convenience. A customer can pay a bill or purchase a service without first obtaining the exact amount of cash. For a small business, an electronic record may also make it easier to check which payments have been received. Consider a local class that accepts advance payments: a clear transaction record can reduce misunderstandings about whether a place has been paid for. These benefits concern both the speed of the transaction and the information available afterward.\n\nNevertheless, digital payments are not equally accessible to everyone. Some people lack reliable connectivity, while others may find unfamiliar interfaces difficult to use. Technical interruptions can also prevent a transaction even when both parties are willing to proceed. If essential services refuse every alternative, a convenient system for most customers can become a barrier for a minority. Concerns about personal information and fraudulent requests make clear guidance important as well.\n\nThese limitations do not make the wider change negative, but they should shape how it is introduced. Businesses can offer assistance, use straightforward payment procedures and keep an appropriate alternative for customers who need one. Public information should explain how to recognise legitimate requests without assuming advanced technical knowledge. The aim should be to expand people's choices rather than require everyone to adopt the same method immediately.\n\nIn conclusion, greater use of digital payments is positive when convenience and clearer records are accompanied by inclusive access. The benefits are strongest when communities preserve practical alternatives and help users understand the system.",
+    "selfCheck": [
+      "I answered every part of the question.",
+      "My position is clear and consistent.",
+      "Each main idea has a reason, explanation and example.",
+      "I developed relevant points rather than memorised phrases.",
+      "My conclusion follows from the discussion.",
+      "I checked articles, agreement, punctuation and word forms."
+    ],
+    "samples": [
+      {
+        "level": "Developing · approx. Band 6 style",
+        "answer": "Digital payments are replacing cash in many everyday transactions. I regard this as a largely positive development because it can make payments more convenient and easier to track. However, maintaining alternatives is important so that people without suitable devices or skills are not excluded.\n\nDigital payments are very convenient and useful. People can pay quickly and do not need cash with them. This is good for shops too because it makes things easier. Many people like using their phones for different activities, and paying is one of them. There are several benefits to this way of paying, so it can be a positive change for customers and businesses in the community.\n\nNevertheless, digital payments are not equally accessible to everyone. Some people lack reliable connectivity, while others may find unfamiliar interfaces difficult to use. Technical interruptions can also prevent a transaction even when both parties are willing to proceed. If essential services refuse every alternative, a convenient system for most customers can become a barrier for a minority. Concerns about personal information and fraudulent requests make clear guidance important as well.\n\nThese limitations do not make the wider change negative, but they should shape how it is introduced. Businesses can offer assistance, use straightforward payment procedures and keep an appropriate alternative for customers who need one. Public information should explain how to recognise legitimate requests without assuming advanced technical knowledge. The aim should be to expand people's choices rather than require everyone to adopt the same method immediately.\n\nIn conclusion, greater use of digital payments is positive when convenience and clearer records are accompanied by inclusive access. The benefits are strongest when communities preserve practical alternatives and help users understand the system.",
+        "notes": [
+          "Compare the second paragraph: some ideas are general or repetitive.",
+          "The stronger paragraph links a specific advance-payment example to both speed and record keeping, avoiding repeated claims that technology is useful."
+        ],
+        "vocabulary": [
+          "a practical alternative",
+          "access to opportunities",
+          "appropriate support"
+        ],
+        "grammar": [
+          "Concession clauses to qualify a position.",
+          "A reason followed by an explanation and concrete example."
+        ]
+      },
+      {
+        "level": "Clearer · approx. Band 7 style",
+        "answer": "Digital payments are replacing cash in many everyday transactions. I regard this as a largely positive development because it can make payments more convenient and easier to track. However, maintaining alternatives is important so that people without suitable devices or skills are not excluded.\n\nDigital payments make everyday transactions convenient because people do not need to carry the exact amount of cash. They also create records that customers and businesses can check later. For example, a customer can confirm that a bill has been paid. These practical advantages explain why digital methods can be useful even for relatively small purchases.\n\nNevertheless, digital payments are not equally accessible to everyone. Some people lack reliable connectivity, while others may find unfamiliar interfaces difficult to use. Technical interruptions can also prevent a transaction even when both parties are willing to proceed. If essential services refuse every alternative, a convenient system for most customers can become a barrier for a minority. Concerns about personal information and fraudulent requests make clear guidance important as well.\n\nThese limitations do not make the wider change negative, but they should shape how it is introduced. Businesses can offer assistance, use straightforward payment procedures and keep an appropriate alternative for customers who need one. Public information should explain how to recognise legitimate requests without assuming advanced technical knowledge. The aim should be to expand people's choices rather than require everyone to adopt the same method immediately.\n\nIn conclusion, greater use of digital payments is positive when convenience and clearer records are accompanied by inclusive access. The benefits are strongest when communities preserve practical alternatives and help users understand the system.",
+        "notes": [
+          "The second paragraph now identifies and connects the key points.",
+          "The stronger paragraph links a specific advance-payment example to both speed and record keeping, avoiding repeated claims that technology is useful."
+        ],
+        "vocabulary": [
+          "a practical alternative",
+          "access to opportunities",
+          "appropriate support"
+        ],
+        "grammar": [
+          "Concession clauses to qualify a position.",
+          "A reason followed by an explanation and concrete example."
+        ]
+      },
+      {
+        "level": "More developed · approx. Band 7.5+ style",
+        "answer": "Digital payments are replacing cash in many everyday transactions. I regard this as a largely positive development because it can make payments more convenient and easier to track. However, maintaining alternatives is important so that people without suitable devices or skills are not excluded.\n\nThe main advantage is convenience. A customer can pay a bill or purchase a service without first obtaining the exact amount of cash. For a small business, an electronic record may also make it easier to check which payments have been received. Consider a local class that accepts advance payments: a clear transaction record can reduce misunderstandings about whether a place has been paid for. These benefits concern both the speed of the transaction and the information available afterward.\n\nNevertheless, digital payments are not equally accessible to everyone. Some people lack reliable connectivity, while others may find unfamiliar interfaces difficult to use. Technical interruptions can also prevent a transaction even when both parties are willing to proceed. If essential services refuse every alternative, a convenient system for most customers can become a barrier for a minority. Concerns about personal information and fraudulent requests make clear guidance important as well.\n\nThese limitations do not make the wider change negative, but they should shape how it is introduced. Businesses can offer assistance, use straightforward payment procedures and keep an appropriate alternative for customers who need one. Public information should explain how to recognise legitimate requests without assuming advanced technical knowledge. The aim should be to expand people's choices rather than require everyone to adopt the same method immediately.\n\nIn conclusion, greater use of digital payments is positive when convenience and clearer records are accompanied by inclusive access. The benefits are strongest when communities preserve practical alternatives and help users understand the system.",
+        "notes": [
+          "The stronger paragraph links a specific advance-payment example to both speed and record keeping, avoiding repeated claims that technology is useful.",
+          "The unchanged paragraphs let you isolate the effect of this revision. These teaching labels are not a grade for the full response."
+        ],
+        "vocabulary": [
+          "a practical alternative",
+          "access to opportunities",
+          "appropriate support"
+        ],
+        "grammar": [
+          "Concession clauses to qualify a position.",
+          "A reason followed by an explanation and concrete example."
+        ]
+      }
+    ]
+  }
+]

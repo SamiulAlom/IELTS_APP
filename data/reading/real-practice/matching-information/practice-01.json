@@ -1,0 +1,518 @@
+{
+  "id": "reading-real-matching-information-01",
+  "title": "Three buildings, different sources of heat",
+  "content": "When a group of public buildings reviewed summer comfort, its members discovered that the same complaint could describe different conditions. A room might feel unpleasant because sunlight reached occupied desks, because heat accumulated during a long event or because windows could not be opened beside a noisy road. Installing identical equipment in every building would have made purchasing straightforward while ignoring those differences. The review combined measurements with accounts of how rooms were used. It treated comfort as a relationship between a building and its occupants rather than as a single temperature that a device could deliver everywhere.\n\nAt Westbrook Hall, caretaker Leena Shah found that the warmest complaints came from groups meeting late in the afternoon. The temperature recorded near the entrance did not represent the sunlit seating area. Shah moved a sensor and compared readings with the room's booking diary. External shading was then fitted on the exposed side, with adjustments to prevent it from making the room unnecessarily dark. The work addressed the timing and position of direct sunlight. It did not assume that a reading taken at a convenient monitoring point described every person's experience.\n\nAt Harbour House, operations manager Tomas Reed faced a different restriction. Opening windows would have admitted noise from a busy road during language classes. The building could, however, be ventilated during quieter hours before the first class began. Reed organised a trial of early ventilation and recorded both the indoor conditions and the staff time required to open and secure the building. The arrangement depended on outdoor conditions being favourable; it was not used when the outside air was warmer than the interior. The procedure was judged as a routine that people had to carry out, not simply as a feature a building possessed.\n\nAt Linden Centre, coordinator Mara Bell examined how rooms were booked. A small, exposed upstairs room was often assigned to the largest groups because its projector was permanently installed. A cooler room downstairs remained available but lacked that equipment. Moving a portable projector allowed some events to change location without shortening them. Bell did not claim that moving an activity removed heat from the building. The change reduced the number of people required to spend time in the least comfortable space and showed how an administrative convention could be mistaken for a physical necessity.\n\nComparing the buildings required care. The review team aligned readings with occupancy records because a room measured while empty could not be compared directly with one holding an event. They also noted the weather outside and the duration of the activity. These records did not eliminate every difference, but they prevented an obvious error: attributing a cooler room entirely to an intervention when the room had also been used by fewer people for less time. The team resisted ranking the three managers using a single before-and-after temperature difference.\n\nFeedback was collected from people with different roles in each building. Regular organisers could describe recurring problems that a visiting engineer might miss. Cleaning staff knew which doors were routinely left open, while occasional visitors sometimes noticed obstacles that regular users had learned to work around. Disagreement was retained in the notes instead of being reduced to a single average satisfaction score. The intention was not to treat every suggestion as technically correct. It was to distinguish a difference in experience from a simple error in reporting before deciding what further evidence was needed.\n\nThe final proposals combined physical alterations, operating routines and changes to scheduling. None was presented as a substitute for all future investment. A shaded room could still become crowded; early ventilation required attention to outdoor conditions; moving an event was useful only when another suitable space was available. The review recommended checking how each measure performed during ordinary use before extending it elsewhere. The buildings offered examples of a method of investigation, not a menu of solutions that could be transferred without examining the next site.",
+  "topic": "Building comfort",
+  "sourceType": "ORIGINAL",
+  "source": "Original IELTS Academic-style practice written for IELTS 7.5 Lab. The case study and organisations are illustrative; this is not an official test or a report of published research.",
+  "family": "MATCHING",
+  "questionFamily": "INFORMATION",
+  "practiceType": "REAL_PRACTICE",
+  "sourceStyle": "Exam Style",
+  "difficulty": "INTERMEDIATE",
+  "difficultyLevel": "EXAM",
+  "setNumber": 1,
+  "passageNumberEquivalent": 2,
+  "timeLimitMinutes": 20,
+  "isFullMockPassage": false,
+  "questions": [
+    {
+      "id": "reading-real-matching-information-01-q1",
+      "order": 1,
+      "type": "MATCHING_INFORMATION",
+      "question": "a warning against comparing rooms without considering how heavily they were used",
+      "options": [
+        "A. Paragraph A",
+        "B. Paragraph B",
+        "C. Paragraph C",
+        "D. Paragraph D",
+        "E. Paragraph E",
+        "F. Paragraph F",
+        "G. Paragraph G"
+      ],
+      "answer": "E",
+      "acceptedAnswers": [],
+      "instructions": "Which paragraph contains the following information? Choose the correct letter, A–G, for Questions 1–6.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "These records did not eliminate every difference, but they prevented an obvious error: attributing a cooler room entirely to an intervention when the room had also been used by fewer people for less time.",
+      "paragraph": "E",
+      "explanation": "E explains that fewer people and shorter activities could account for part of a temperature difference.",
+      "trap": "A before-and-after change alone does not isolate the cause.",
+      "tip": "Locate the supporting sentence, compare the complete meaning and check the answer instructions.",
+      "analysis": {
+        "keyEvidence": "attributing a cooler room entirely to an intervention",
+        "questionKeywords": [
+          "how heavily ... used"
+        ],
+        "passageKeywords": [
+          "fewer people for less time"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "how heavily ... used",
+            "passage": "fewer people for less time",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {
+          "A": "A introduces the need to distinguish sources of discomfort.",
+          "B": "B describes sensor placement and shading at Westbrook.",
+          "C": "C describes early ventilation at Harbour House.",
+          "D": "D describes moving activities at Linden Centre.",
+          "E": "E explains that fewer people and shorter activities could account for part of a temperature difference.",
+          "F": "F describes feedback from different roles and retains disagreements.",
+          "G": "G limits how far measures can be transferred to new sites."
+        },
+        "mistakeType": "WRONG_PARAGRAPH",
+        "group": "",
+        "selectCount": 1,
+        "matchingGroup": {
+          "id": "buildings-information",
+          "optionsTitle": "Paragraphs",
+          "reuseAllowed": true
+        }
+      }
+    },
+    {
+      "id": "reading-real-matching-information-01-q2",
+      "order": 2,
+      "type": "MATCHING_INFORMATION",
+      "question": "a monitoring position that failed to represent the occupied part of a room",
+      "options": [
+        "A. Paragraph A",
+        "B. Paragraph B",
+        "C. Paragraph C",
+        "D. Paragraph D",
+        "E. Paragraph E",
+        "F. Paragraph F",
+        "G. Paragraph G"
+      ],
+      "answer": "B",
+      "acceptedAnswers": [],
+      "instructions": "Which paragraph contains the following information? Choose the correct letter, A–G, for Questions 1–6.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "The temperature recorded near the entrance did not represent the sunlit seating area.",
+      "paragraph": "B",
+      "explanation": "B contrasts the entrance reading with the sunlit seating area and describes moving the sensor.",
+      "trap": "Convenient sensor placement is not necessarily representative placement.",
+      "tip": "Locate the supporting sentence, compare the complete meaning and check the answer instructions.",
+      "analysis": {
+        "keyEvidence": "did not represent the sunlit seating area",
+        "questionKeywords": [
+          "failed to represent"
+        ],
+        "passageKeywords": [
+          "did not represent"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "failed to represent",
+            "passage": "did not represent",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {
+          "A": "A introduces the need to distinguish sources of discomfort.",
+          "B": "B contrasts the entrance reading with the sunlit seating area and describes moving the sensor.",
+          "C": "C describes early ventilation at Harbour House.",
+          "D": "D describes moving activities at Linden Centre.",
+          "E": "E explains controlling for occupancy, duration and weather in comparisons.",
+          "F": "F describes feedback from different roles and retains disagreements.",
+          "G": "G limits how far measures can be transferred to new sites."
+        },
+        "mistakeType": "WRONG_PARAGRAPH",
+        "group": "",
+        "selectCount": 1,
+        "matchingGroup": {
+          "id": "buildings-information",
+          "optionsTitle": "Paragraphs",
+          "reuseAllowed": true
+        }
+      }
+    },
+    {
+      "id": "reading-real-matching-information-01-q3",
+      "order": 3,
+      "type": "MATCHING_INFORMATION",
+      "question": "a reason why disagreements in feedback were kept visible",
+      "options": [
+        "A. Paragraph A",
+        "B. Paragraph B",
+        "C. Paragraph C",
+        "D. Paragraph D",
+        "E. Paragraph E",
+        "F. Paragraph F",
+        "G. Paragraph G"
+      ],
+      "answer": "F",
+      "acceptedAnswers": [],
+      "instructions": "Which paragraph contains the following information? Choose the correct letter, A–G, for Questions 1–6.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "It was to distinguish a difference in experience from a simple error in reporting before deciding what further evidence was needed.",
+      "paragraph": "F",
+      "explanation": "F explains that disagreement may reflect different experiences and should be examined before dismissal.",
+      "trap": "Retaining disagreement does not mean every suggestion is technically correct.",
+      "tip": "Locate the supporting sentence, compare the complete meaning and check the answer instructions.",
+      "analysis": {
+        "keyEvidence": "distinguish a difference in experience from a simple error in reporting",
+        "questionKeywords": [
+          "kept visible"
+        ],
+        "passageKeywords": [
+          "Disagreement was retained"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "kept visible",
+            "passage": "Disagreement was retained",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {
+          "A": "A introduces the need to distinguish sources of discomfort.",
+          "B": "B describes sensor placement and shading at Westbrook.",
+          "C": "C describes early ventilation at Harbour House.",
+          "D": "D describes moving activities at Linden Centre.",
+          "E": "E explains controlling for occupancy, duration and weather in comparisons.",
+          "F": "F explains that disagreement may reflect different experiences and should be examined before dismissal.",
+          "G": "G limits how far measures can be transferred to new sites."
+        },
+        "mistakeType": "WRONG_PARAGRAPH",
+        "group": "",
+        "selectCount": 1,
+        "matchingGroup": {
+          "id": "buildings-information",
+          "optionsTitle": "Paragraphs",
+          "reuseAllowed": true
+        }
+      }
+    },
+    {
+      "id": "reading-real-matching-information-01-q4",
+      "order": 4,
+      "type": "MATCHING_INFORMATION",
+      "question": "an operating routine that depended on conditions outside the building",
+      "options": [
+        "A. Paragraph A",
+        "B. Paragraph B",
+        "C. Paragraph C",
+        "D. Paragraph D",
+        "E. Paragraph E",
+        "F. Paragraph F",
+        "G. Paragraph G"
+      ],
+      "answer": "C",
+      "acceptedAnswers": [],
+      "instructions": "Which paragraph contains the following information? Choose the correct letter, A–G, for Questions 1–6.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "The arrangement depended on outdoor conditions being favourable; it was not used when the outside air was warmer than the interior.",
+      "paragraph": "C",
+      "explanation": "Early ventilation was not used when outdoor air was warmer, so its use depended on outside conditions.",
+      "trap": "The presence of a window does not ensure the routine is appropriate.",
+      "tip": "Locate the supporting sentence, compare the complete meaning and check the answer instructions.",
+      "analysis": {
+        "keyEvidence": "outside air was warmer than the interior",
+        "questionKeywords": [
+          "depended on conditions outside"
+        ],
+        "passageKeywords": [
+          "outside air was warmer"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "depended on conditions outside",
+            "passage": "outside air was warmer",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {
+          "A": "A introduces the need to distinguish sources of discomfort.",
+          "B": "B describes sensor placement and shading at Westbrook.",
+          "C": "Early ventilation was not used when outdoor air was warmer, so its use depended on outside conditions.",
+          "D": "D describes moving activities at Linden Centre.",
+          "E": "E explains controlling for occupancy, duration and weather in comparisons.",
+          "F": "F describes feedback from different roles and retains disagreements.",
+          "G": "G limits how far measures can be transferred to new sites."
+        },
+        "mistakeType": "WRONG_PARAGRAPH",
+        "group": "",
+        "selectCount": 1,
+        "matchingGroup": {
+          "id": "buildings-information",
+          "optionsTitle": "Paragraphs",
+          "reuseAllowed": true
+        }
+      }
+    },
+    {
+      "id": "reading-real-matching-information-01-q5",
+      "order": 5,
+      "type": "MATCHING_INFORMATION",
+      "question": "a change of location made possible by moving equipment",
+      "options": [
+        "A. Paragraph A",
+        "B. Paragraph B",
+        "C. Paragraph C",
+        "D. Paragraph D",
+        "E. Paragraph E",
+        "F. Paragraph F",
+        "G. Paragraph G"
+      ],
+      "answer": "D",
+      "acceptedAnswers": [],
+      "instructions": "Which paragraph contains the following information? Choose the correct letter, A–G, for Questions 1–6.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "Moving a portable projector allowed some events to change location without shortening them.",
+      "paragraph": "D",
+      "explanation": "D describes moving a projector so events could use a cooler room.",
+      "trap": "The intervention moves the activity, not the heat itself.",
+      "tip": "Locate the supporting sentence, compare the complete meaning and check the answer instructions.",
+      "analysis": {
+        "keyEvidence": "Moving a portable projector allowed some events to change location",
+        "questionKeywords": [
+          "moving equipment"
+        ],
+        "passageKeywords": [
+          "Moving a portable projector"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "moving equipment",
+            "passage": "Moving a portable projector",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {
+          "A": "A introduces the need to distinguish sources of discomfort.",
+          "B": "B describes sensor placement and shading at Westbrook.",
+          "C": "C describes early ventilation at Harbour House.",
+          "D": "D describes moving a projector so events could use a cooler room.",
+          "E": "E explains controlling for occupancy, duration and weather in comparisons.",
+          "F": "F describes feedback from different roles and retains disagreements.",
+          "G": "G limits how far measures can be transferred to new sites."
+        },
+        "mistakeType": "WRONG_PARAGRAPH",
+        "group": "",
+        "selectCount": 1,
+        "matchingGroup": {
+          "id": "buildings-information",
+          "optionsTitle": "Paragraphs",
+          "reuseAllowed": true
+        }
+      }
+    },
+    {
+      "id": "reading-real-matching-information-01-q6",
+      "order": 6,
+      "type": "MATCHING_INFORMATION",
+      "question": "examples of different staff members noticing different building conditions",
+      "options": [
+        "A. Paragraph A",
+        "B. Paragraph B",
+        "C. Paragraph C",
+        "D. Paragraph D",
+        "E. Paragraph E",
+        "F. Paragraph F",
+        "G. Paragraph G"
+      ],
+      "answer": "F",
+      "acceptedAnswers": [],
+      "instructions": "Which paragraph contains the following information? Choose the correct letter, A–G, for Questions 1–6.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "Cleaning staff knew which doors were routinely left open, while occasional visitors sometimes noticed obstacles that regular users had learned to work around.",
+      "paragraph": "F",
+      "explanation": "F contrasts organisers, cleaning staff and occasional visitors, explaining their different observations.",
+      "trap": "The same paragraph may correctly answer more than one question.",
+      "tip": "Locate the supporting sentence, compare the complete meaning and check the answer instructions.",
+      "analysis": {
+        "keyEvidence": "Cleaning staff knew which doors were routinely left open",
+        "questionKeywords": [
+          "different staff members"
+        ],
+        "passageKeywords": [
+          "Cleaning staff knew"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "different staff members",
+            "passage": "Cleaning staff knew",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {
+          "A": "A introduces the need to distinguish sources of discomfort.",
+          "B": "B describes sensor placement and shading at Westbrook.",
+          "C": "C describes early ventilation at Harbour House.",
+          "D": "D describes moving activities at Linden Centre.",
+          "E": "E explains controlling for occupancy, duration and weather in comparisons.",
+          "F": "F contrasts organisers, cleaning staff and occasional visitors, explaining their different observations.",
+          "G": "G limits how far measures can be transferred to new sites."
+        },
+        "mistakeType": "WRONG_PARAGRAPH",
+        "group": "",
+        "selectCount": 1,
+        "matchingGroup": {
+          "id": "buildings-information",
+          "optionsTitle": "Paragraphs",
+          "reuseAllowed": true
+        }
+      }
+    },
+    {
+      "id": "reading-real-matching-information-01-q7",
+      "order": 7,
+      "type": "MATCHING_FEATURES",
+      "question": "Checked whether a convenient measurement reflected the conditions where people sat.",
+      "options": [
+        "A. Leena Shah",
+        "B. Tomas Reed",
+        "C. Mara Bell"
+      ],
+      "answer": "A",
+      "acceptedAnswers": [],
+      "instructions": "Match each statement with the correct manager, A–C, for Questions 7–9.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "Shah moved a sensor and compared readings with the room's booking diary.",
+      "paragraph": "B",
+      "explanation": "Shah investigated sensor location and actual room use.",
+      "trap": "A reference to records alone is not enough; the measurement location is decisive.",
+      "tip": "Locate the supporting sentence, compare the complete meaning and check the answer instructions.",
+      "analysis": {
+        "keyEvidence": "Shah moved a sensor and compared readings with the room's booking diary.",
+        "questionKeywords": [
+          "Checked whether a convenient measurement reflected the conditions where people sat."
+        ],
+        "passageKeywords": [
+          "Shah moved a sensor and compared readings with the room's booking diary."
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "Checked whether a convenient measurement reflected the conditions where people sat.",
+            "passage": "Shah moved a sensor and compared readings with the room's booking diary.",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {
+          "A": "Shah investigated sensor location and actual room use.",
+          "B": "Reed tested early ventilation and its staffing needs, rather than the intervention described here.",
+          "C": "Bell changed room allocation by moving a projector, rather than the intervention described here."
+        },
+        "mistakeType": "MISSED_PARAPHRASE",
+        "group": "",
+        "selectCount": 1,
+        "matchingGroup": {
+          "id": "building-managers",
+          "optionsTitle": "List of Managers",
+          "reuseAllowed": true
+        }
+      }
+    },
+    {
+      "id": "reading-real-matching-information-01-q8",
+      "order": 8,
+      "type": "MATCHING_FEATURES",
+      "question": "Addressed a constraint created by the usual allocation of equipment.",
+      "options": [
+        "A. Leena Shah",
+        "B. Tomas Reed",
+        "C. Mara Bell"
+      ],
+      "answer": "C",
+      "acceptedAnswers": [],
+      "instructions": "Match each statement with the correct manager, A–C, for Questions 7–9.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "A small, exposed upstairs room was often assigned to the largest groups because its projector was permanently installed.",
+      "paragraph": "D",
+      "explanation": "Bell moved a projector so a booking convention no longer forced large groups into the exposed room.",
+      "trap": "The change concerned room allocation, not window noise.",
+      "tip": "Locate the supporting sentence, compare the complete meaning and check the answer instructions.",
+      "analysis": {
+        "keyEvidence": "its projector was permanently installed",
+        "questionKeywords": [
+          "Addressed a constraint created by the usual allocation of equipment."
+        ],
+        "passageKeywords": [
+          "its projector was permanently installed"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "Addressed a constraint created by the usual allocation of equipment.",
+            "passage": "its projector was permanently installed",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {
+          "A": "Shah changed monitoring and shading, rather than the routine or equipment allocation described here.",
+          "B": "Reed tested early ventilation and its staffing needs, rather than the intervention described here.",
+          "C": "Bell moved a projector so a booking convention no longer forced large groups into the exposed room."
+        },
+        "mistakeType": "MISSED_PARAPHRASE",
+        "group": "",
+        "selectCount": 1,
+        "matchingGroup": {
+          "id": "building-managers",
+          "optionsTitle": "List of Managers",
+          "reuseAllowed": true
+        }
+      }
+    },
+    {
+      "id": "reading-real-matching-information-01-q9",
+      "order": 9,
+      "type": "MATCHING_FEATURES",
+      "question": "Included the labour needed to carry out a proposed routine in the assessment.",
+      "options": [
+        "A. Leena Shah",
+        "B. Tomas Reed",
+        "C. Mara Bell"
+      ],
+      "answer": "B",
+      "acceptedAnswers": [],
+      "instructions": "Match each statement with the correct manager, A–C, for Questions 7–9.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "Reed organised a trial of early ventilation and recorded both the indoor conditions and the staff time required to open and secure the building.",
+      "paragraph": "C",
+      "explanation": "Reed recorded the staff time as well as indoor conditions during early ventilation.",
+      "trap": "Measuring an outcome is different from recording the work needed to produce it.",
+      "tip": "Locate the supporting sentence, compare the complete meaning and check the answer instructions.",
+      "analysis": {
+        "keyEvidence": "staff time required to open and secure the building",
+        "questionKeywords": [
+          "Included the labour needed to carry out a proposed routine in the assessment."
+        ],
+        "passageKeywords": [
+          "staff time required to open and secure the building"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "Included the labour needed to carry out a proposed routine in the assessment.",
+            "passage": "staff time required to open and secure the building",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {
+          "A": "Shah changed monitoring and shading, rather than the routine or equipment allocation described here.",
+          "B": "Reed recorded the staff time as well as indoor conditions during early ventilation.",
+          "C": "Bell changed room allocation by moving a projector, rather than the intervention described here."
+        },
+        "mistakeType": "MISSED_PARAPHRASE",
+        "group": "",
+        "selectCount": 1,
+        "matchingGroup": {
+          "id": "building-managers",
+          "optionsTitle": "List of Managers",
+          "reuseAllowed": true
+        }
+      }
+    }
+  ]
+}

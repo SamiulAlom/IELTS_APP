@@ -1,0 +1,282 @@
+[
+  {
+    "id": "writing-phrase-01",
+    "taskType": "TASK_1",
+    "category": "Increase",
+    "phrase": "rose steadily",
+    "meaning": "ধারাবাহিকভাবে বেড়েছিল",
+    "example": "The share rose steadily from 15% to 30%.",
+    "explanation": "Use for a sustained increase with few fluctuations.",
+    "commonMistake": "Do not use steadily for a line with large rises and falls."
+  },
+  {
+    "id": "writing-phrase-02",
+    "taskType": "TASK_1",
+    "category": "Increase",
+    "phrase": "doubled to",
+    "meaning": "দ্বিগুণ হয়ে পৌঁছেছিল",
+    "example": "Attendance doubled to 400 visits.",
+    "explanation": "The final value is twice the initial value.",
+    "commonMistake": "Doubled by 400 does not mean doubled to 400."
+  },
+  {
+    "id": "writing-phrase-03",
+    "taskType": "TASK_1",
+    "category": "Decrease",
+    "phrase": "fell by",
+    "meaning": "যতটুকু কমেছিল",
+    "example": "The figure fell by 12 percentage points.",
+    "explanation": "By introduces the size of the decrease.",
+    "commonMistake": "Use to for the final value, not the change."
+  },
+  {
+    "id": "writing-phrase-04",
+    "taskType": "TASK_1",
+    "category": "Decrease",
+    "phrase": "declined gradually",
+    "meaning": "ধীরে ধীরে কমেছিল",
+    "example": "Gas use declined gradually over ten years.",
+    "explanation": "Match the adverb to the pace shown.",
+    "commonMistake": "A sudden fall should not be called gradual."
+  },
+  {
+    "id": "writing-phrase-05",
+    "taskType": "TASK_1",
+    "category": "Stability",
+    "phrase": "remained stable",
+    "meaning": "স্থিতিশীল ছিল",
+    "example": "The proportion remained stable at 20%.",
+    "explanation": "At introduces the level that did not change materially.",
+    "commonMistake": "Do not describe a strongly fluctuating series as stable."
+  },
+  {
+    "id": "writing-phrase-06",
+    "taskType": "TASK_1",
+    "category": "Stability",
+    "phrase": "was unchanged",
+    "meaning": "অপরিবর্তিত ছিল",
+    "example": "Walking was unchanged at 10%.",
+    "explanation": "Compare equal values at the specified points.",
+    "commonMistake": "Equal endpoints do not prove there was no change between them."
+  },
+  {
+    "id": "writing-phrase-07",
+    "taskType": "TASK_1",
+    "category": "Fluctuation",
+    "phrase": "fluctuated between",
+    "meaning": "এর মধ্যে ওঠানামা করেছিল",
+    "example": "Sales fluctuated between 200 and 260 units.",
+    "explanation": "Name the lower and upper bounds.",
+    "commonMistake": "One increase followed by stability is not repeated fluctuation."
+  },
+  {
+    "id": "writing-phrase-08",
+    "taskType": "TASK_1",
+    "category": "Fluctuation",
+    "phrase": "showed some variation",
+    "meaning": "কিছু ভিন্নতা দেখিয়েছিল",
+    "example": "Monthly demand showed some variation.",
+    "explanation": "Use when values differ and a stronger pattern is uncertain.",
+    "commonMistake": "Explain the variation with relevant figures."
+  },
+  {
+    "id": "writing-phrase-09",
+    "taskType": "TASK_1",
+    "category": "Peak",
+    "phrase": "reached a peak of",
+    "meaning": "সর্বোচ্চ পর্যায়ে পৌঁছেছিল",
+    "example": "Output reached a peak of 900 units in June.",
+    "explanation": "Of gives the peak value; in gives the time.",
+    "commonMistake": "Do not call a local rise the overall peak unless it is the highest value."
+  },
+  {
+    "id": "writing-phrase-10",
+    "taskType": "TASK_1",
+    "category": "Peak",
+    "phrase": "was highest in",
+    "meaning": "যখন সর্বোচ্চ ছিল",
+    "example": "Attendance was highest in 2024.",
+    "explanation": "Use a clearly identified period or category.",
+    "commonMistake": "Distinguish highest from fastest-growing."
+  },
+  {
+    "id": "writing-phrase-11",
+    "taskType": "TASK_1",
+    "category": "Comparison",
+    "phrase": "whereas",
+    "meaning": "অন্যদিকে",
+    "example": "Cycling increased, whereas walking was unchanged.",
+    "explanation": "Join two complete contrasting clauses.",
+    "commonMistake": "Avoid using whereas to introduce an unrelated addition."
+  },
+  {
+    "id": "writing-phrase-12",
+    "taskType": "TASK_1",
+    "category": "Comparison",
+    "phrase": "compared with",
+    "meaning": "এর তুলনায়",
+    "example": "The figure was 40%, compared with 25% previously.",
+    "explanation": "Compare the same measure and compatible units.",
+    "commonMistake": "Do not compare a percentage directly with a raw count."
+  },
+  {
+    "id": "writing-phrase-13",
+    "taskType": "TASK_1",
+    "category": "Approximation",
+    "phrase": "approximately",
+    "meaning": "প্রায়",
+    "example": "Approximately one third of visits were in summer.",
+    "explanation": "Use when the visual justifies an approximate reading.",
+    "commonMistake": "Do not turn an exact 20% into an unexplained approximation."
+  },
+  {
+    "id": "writing-phrase-14",
+    "taskType": "TASK_1",
+    "category": "Approximation",
+    "phrase": "just over",
+    "meaning": "সামান্য বেশি",
+    "example": "The journey took just over an hour.",
+    "explanation": "Use for a small amount above a reference point.",
+    "commonMistake": "Just over half is not appropriate for 80%."
+  },
+  {
+    "id": "writing-phrase-15",
+    "taskType": "TASK_1",
+    "category": "Proportion",
+    "phrase": "accounted for",
+    "meaning": "অংশ ছিল",
+    "example": "Solar power accounted for 35% of energy use.",
+    "explanation": "A category accounts for a share of a total.",
+    "commonMistake": "Accounted of is incorrect."
+  },
+  {
+    "id": "writing-phrase-16",
+    "taskType": "TASK_1",
+    "category": "Proportion",
+    "phrase": "respectively",
+    "meaning": "উল্লিখিত ক্রম অনুযায়ী",
+    "example": "Bus and bicycle shares were 30% and 20%, respectively.",
+    "explanation": "Match the order of categories and values.",
+    "commonMistake": "Do not reverse the values after listing the categories."
+  },
+  {
+    "id": "writing-phrase-17",
+    "taskType": "TASK_2",
+    "category": "Position",
+    "phrase": "I largely agree that",
+    "meaning": "আমি মূলত একমত যে",
+    "example": "I largely agree that local transport deserves more funding.",
+    "explanation": "State a degree of agreement and maintain it.",
+    "commonMistake": "Do not follow a qualified position with an absolute contradictory conclusion."
+  },
+  {
+    "id": "writing-phrase-18",
+    "taskType": "TASK_2",
+    "category": "Position",
+    "phrase": "In my view",
+    "meaning": "আমার মতে",
+    "example": "In my view, practical learning should complement academic study.",
+    "explanation": "Introduce your position where the question requests it.",
+    "commonMistake": "Repeating this in every sentence weakens cohesion."
+  },
+  {
+    "id": "writing-phrase-19",
+    "taskType": "TASK_2",
+    "category": "Reason",
+    "phrase": "One reason for this is that",
+    "meaning": "এর একটি কারণ হলো",
+    "example": "One reason for this is that travel costs restrict access.",
+    "explanation": "Follow that with a complete explanatory clause.",
+    "commonMistake": "A reason needs development beyond this introductory phrase."
+  },
+  {
+    "id": "writing-phrase-20",
+    "taskType": "TASK_2",
+    "category": "Reason",
+    "phrase": "This is because",
+    "meaning": "এর কারণ হলো",
+    "example": "This is because smaller classes allow more individual feedback.",
+    "explanation": "Explain the preceding point.",
+    "commonMistake": "Make the referent of this clear."
+  },
+  {
+    "id": "writing-phrase-21",
+    "taskType": "TASK_2",
+    "category": "Example",
+    "phrase": "For instance",
+    "meaning": "উদাহরণস্বরূপ",
+    "example": "For instance, a late bus can help hospital staff return home.",
+    "explanation": "Use a relevant example to illustrate your reason.",
+    "commonMistake": "Do not invent research statistics to sound authoritative."
+  },
+  {
+    "id": "writing-phrase-22",
+    "taskType": "TASK_2",
+    "category": "Example",
+    "phrase": "Consider the case of",
+    "meaning": "উদাহরণ হিসেবে বিবেচনা করুন",
+    "example": "Consider the case of a student who cannot afford a daily train journey.",
+    "explanation": "Introduce a concrete illustrative situation.",
+    "commonMistake": "Explain how the case supports your argument."
+  },
+  {
+    "id": "writing-phrase-23",
+    "taskType": "TASK_2",
+    "category": "Concession",
+    "phrase": "Admittedly",
+    "meaning": "স্বীকার করতে হয়",
+    "example": "Admittedly, maintaining rural roads remains necessary.",
+    "explanation": "Acknowledge a real limitation.",
+    "commonMistake": "Do not use a concession to abandon your central position without explanation."
+  },
+  {
+    "id": "writing-phrase-24",
+    "taskType": "TASK_2",
+    "category": "Concession",
+    "phrase": "Even so",
+    "meaning": "তা সত্ত্বেও",
+    "example": "Even so, the wider benefits justify the investment.",
+    "explanation": "Return to your judgement after acknowledging a limitation.",
+    "commonMistake": "It should respond to an actual contrast in the preceding sentence."
+  },
+  {
+    "id": "writing-phrase-25",
+    "taskType": "TASK_2",
+    "category": "Consequence",
+    "phrase": "As a result",
+    "meaning": "ফলে",
+    "example": "As a result, learners may have fewer courses to choose from.",
+    "explanation": "Use when a causal connection has been explained.",
+    "commonMistake": "Sequence alone does not establish causation."
+  },
+  {
+    "id": "writing-phrase-26",
+    "taskType": "TASK_2",
+    "category": "Consequence",
+    "phrase": "This can lead to",
+    "meaning": "এটি ঘটাতে পারে",
+    "example": "This can lead to a greater dependence on private cars.",
+    "explanation": "Can expresses a possible consequence.",
+    "commonMistake": "Avoid presenting a possibility as an inevitable outcome."
+  },
+  {
+    "id": "writing-phrase-27",
+    "taskType": "TASK_2",
+    "category": "Conclusion",
+    "phrase": "On balance",
+    "meaning": "সব দিক বিবেচনায়",
+    "example": "On balance, the benefits outweigh the disadvantages.",
+    "explanation": "Weigh the arguments already developed.",
+    "commonMistake": "Do not use it instead of actually comparing the two sides."
+  },
+  {
+    "id": "writing-phrase-28",
+    "taskType": "TASK_2",
+    "category": "Conclusion",
+    "phrase": "For these reasons",
+    "meaning": "এসব কারণে",
+    "example": "For these reasons, I favour a flexible approach.",
+    "explanation": "Refer back to reasons presented in the body.",
+    "commonMistake": "Do not introduce an unrelated new argument in the conclusion."
+  }
+]

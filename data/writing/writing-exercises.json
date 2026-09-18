@@ -1,0 +1,266 @@
+[
+  {
+    "id": "writing-sentence-change",
+    "taskType": "TASK_1",
+    "category": "Increase",
+    "prompt": "Cycling rose from 25% in 2010 to 45% in 2020. Describe the change.",
+    "data": null,
+    "samples": [
+      {
+        "level": "Simple",
+        "answer": "Cycling increased from 25% to 45%."
+      },
+      {
+        "level": "Clearer",
+        "answer": "The share of cyclists rose by twenty percentage points between 2010 and 2020."
+      },
+      {
+        "level": "More developed",
+        "answer": "The proportion travelling by bicycle rose from 25% in 2010 to 45% in 2020, an increase of twenty percentage points."
+      }
+    ],
+    "explanation": "Distinguish a twenty-percentage-point rise from a twenty-percent relative increase."
+  },
+  {
+    "id": "writing-sentence-fall",
+    "taskType": "TASK_1",
+    "category": "Decrease",
+    "prompt": "Gas supplied 50% of energy in 2015 and 30% in 2025. Make a comparison.",
+    "data": null,
+    "samples": [
+      {
+        "level": "Simple",
+        "answer": "Gas went down from 50% to 30%."
+      },
+      {
+        "level": "Clearer",
+        "answer": "The gas share fell by twenty percentage points over the decade."
+      },
+      {
+        "level": "More developed",
+        "answer": "Gas accounted for 30% of energy in 2025, down from half of the total ten years earlier."
+      }
+    ],
+    "explanation": "Use accounted for with the share; avoid claiming total gas use fell when only shares are supplied."
+  },
+  {
+    "id": "writing-sentence-stable",
+    "taskType": "TASK_1",
+    "category": "Stability",
+    "prompt": "Walking accounted for 10% in both 2010 and 2020. Describe only what these two observations show.",
+    "data": null,
+    "samples": [
+      {
+        "level": "Simple",
+        "answer": "Walking was 10% in both years."
+      },
+      {
+        "level": "Clearer",
+        "answer": "The share of walking was unchanged at 10% between the two observations."
+      },
+      {
+        "level": "More developed",
+        "answer": "Walking accounted for one tenth of journeys in both 2010 and 2020, unlike the changing shares of the other modes."
+      }
+    ],
+    "explanation": "The final version assumes the other modes changed; use it only when that context is provided. Equal endpoints alone do not establish continuous stability."
+  },
+  {
+    "id": "writing-sentence-vary",
+    "taskType": "TASK_1",
+    "category": "Fluctuation",
+    "prompt": "Monthly sales were 200, 260, 220 and 250 units. Summarise the pattern.",
+    "data": null,
+    "samples": [
+      {
+        "level": "Simple",
+        "answer": "Sales went up, down and up again."
+      },
+      {
+        "level": "Clearer",
+        "answer": "Sales fluctuated between 200 and 260 units across the four months."
+      },
+      {
+        "level": "More developed",
+        "answer": "Despite fluctuating between 200 and 260 units, monthly sales ended fifty units above their starting level."
+      }
+    ],
+    "explanation": "A summary can combine the range with the net change."
+  },
+  {
+    "id": "writing-sentence-peak",
+    "taskType": "TASK_1",
+    "category": "Peak",
+    "prompt": "Visitors numbered 40,000 in 2022, 60,000 in 2023 and 50,000 in 2024. Identify the peak.",
+    "data": null,
+    "samples": [
+      {
+        "level": "Simple",
+        "answer": "Visits were highest in 2023."
+      },
+      {
+        "level": "Clearer",
+        "answer": "Visits reached a peak of 60,000 in 2023 before falling."
+      },
+      {
+        "level": "More developed",
+        "answer": "After reaching 60,000 in 2023, annual visits declined to 50,000, still above the initial 40,000."
+      }
+    ],
+    "explanation": "Do not describe the final value as the peak simply because it is later."
+  },
+  {
+    "id": "writing-sentence-compare",
+    "taskType": "TASK_1",
+    "category": "Comparison",
+    "prompt": "In 2025, buses had a 30% share and bicycles a 20% share. Compare them.",
+    "data": null,
+    "samples": [
+      {
+        "level": "Simple",
+        "answer": "Buses were at 30% and bicycles at 20%."
+      },
+      {
+        "level": "Clearer",
+        "answer": "The bus share exceeded the bicycle figure by ten percentage points."
+      },
+      {
+        "level": "More developed",
+        "answer": "Buses accounted for 30% of journeys, ten percentage points more than bicycles, at 20%."
+      }
+    ],
+    "explanation": "Compare like measures and make the unit of the difference explicit."
+  },
+  {
+    "id": "writing-sentence-approx",
+    "taskType": "TASK_1",
+    "category": "Approximation",
+    "prompt": "An unlabelled chart bar is slightly above the 30% line. Report an approximate value.",
+    "data": null,
+    "samples": [
+      {
+        "level": "Simple",
+        "answer": "The figure was about 30%."
+      },
+      {
+        "level": "Clearer",
+        "answer": "The figure stood at just over 30%."
+      },
+      {
+        "level": "More developed",
+        "answer": "At just over 30%, the category represented slightly less than one third of the total."
+      }
+    ],
+    "explanation": "Avoid inventing an exact decimal from a visual estimate."
+  },
+  {
+    "id": "writing-sentence-share",
+    "taskType": "TASK_1",
+    "category": "Proportion",
+    "prompt": "Solar and grid electricity each supplied 35%; gas supplied 30%. Summarise the distribution.",
+    "data": null,
+    "samples": [
+      {
+        "level": "Simple",
+        "answer": "Solar and grid electricity were both 35%."
+      },
+      {
+        "level": "Clearer",
+        "answer": "Solar and grid electricity supplied equal shares, each exceeding gas."
+      },
+      {
+        "level": "More developed",
+        "answer": "Solar and grid electricity each accounted for 35% of the total, compared with 30% for gas."
+      }
+    ],
+    "explanation": "Each goes with a singular verb; identify what the percentages measure."
+  },
+  {
+    "id": "writing-sentence-process",
+    "taskType": "TASK_1",
+    "category": "Process",
+    "prompt": "Used paper is sorted, mixed with water, filtered and pressed into sheets. Combine the stages.",
+    "data": null,
+    "samples": [
+      {
+        "level": "Simple",
+        "answer": "The paper is sorted and mixed with water. It is filtered and pressed."
+      },
+      {
+        "level": "Clearer",
+        "answer": "After sorting, paper is mixed with water before being filtered and pressed."
+      },
+      {
+        "level": "More developed",
+        "answer": "Once the used paper has been sorted and mixed with water, the resulting pulp is filtered and pressed into sheets."
+      }
+    ],
+    "explanation": "Passive constructions are useful when the operator is not specified; keep the sequence accurate."
+  },
+  {
+    "id": "writing-sentence-map",
+    "taskType": "TASK_1",
+    "category": "Map",
+    "prompt": "A café replaced trees east of a pond. Trees west of the pond remained. Describe both.",
+    "data": null,
+    "samples": [
+      {
+        "level": "Simple",
+        "answer": "There is a café east of the pond now. Trees are still in the west."
+      },
+      {
+        "level": "Clearer",
+        "answer": "A café replaced the trees east of the pond, while those to the west remained."
+      },
+      {
+        "level": "More developed",
+        "answer": "The trees on the eastern side of the pond were replaced by a café, whereas the western trees were retained."
+      }
+    ],
+    "explanation": "Use precise relative position and correct past passive forms without inventing distances."
+  },
+  {
+    "id": "writing-sentence-reason",
+    "taskType": "TASK_2",
+    "category": "Argument",
+    "prompt": "Develop this idea: reliable buses improve access to jobs.",
+    "data": null,
+    "samples": [
+      {
+        "level": "Simple",
+        "answer": "Reliable buses help people get to work."
+      },
+      {
+        "level": "Clearer",
+        "answer": "Reliable buses help people without cars reach a wider range of jobs."
+      },
+      {
+        "level": "More developed",
+        "answer": "By enabling people without cars to reach workplaces beyond walking distance, a reliable bus service can widen access to employment."
+      }
+    ],
+    "explanation": "Explain the mechanism; advanced vocabulary is not a substitute for a developed reason."
+  },
+  {
+    "id": "writing-sentence-concession",
+    "taskType": "TASK_2",
+    "category": "Argument",
+    "prompt": "Support online learning while acknowledging that some students lack a quiet study space.",
+    "data": null,
+    "samples": [
+      {
+        "level": "Simple",
+        "answer": "Online learning is useful, but some homes are noisy."
+      },
+      {
+        "level": "Clearer",
+        "answer": "Although online learning is flexible, students without a quiet space may need access to campus facilities."
+      },
+      {
+        "level": "More developed",
+        "answer": "Online learning offers flexibility, but its benefits depend partly on suitable study conditions; shared campus spaces should therefore remain available."
+      }
+    ],
+    "explanation": "Acknowledge a limitation and propose a response that fits your position."
+  }
+]

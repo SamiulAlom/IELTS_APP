@@ -1,0 +1,380 @@
+{
+  "id": "reading-real-matching-headings-01",
+  "title": "What a library of things needs",
+  "content": "A library of things lends objects that many households need occasionally but have little reason to own permanently. At one neighbourhood branch, sewing machines and basic repair tools now sit alongside the familiar shelves of books. The proposal initially attracted attention as a way to reduce material consumption. Yet the staff began with a more ordinary question: which tasks were residents postponing because the equipment cost too much or took up too much space? Asking about tasks changed the discussion from assembling an impressive collection to removing particular obstacles in daily life.\n\nThe first purchasing list did not come from a vote on every suggested object. Staff interviewed residents about recent jobs and compared the answers with enquiries already received at the desk. A carpet cleaner generated less excitement than an electronic cutting machine, but the cleaner met an immediate and repeated need. Items requiring specialist consumables were treated cautiously, since the loan might be free while using the object remained expensive. The selection process favoured a modest collection that people could actually use over a catalogue whose variety would be difficult to sustain.\n\nA loan begins before an object leaves the building and ends after it returns. Each item needs checking, cleaning and, sometimes, repair between borrowers. A volunteer with technical experience initially dealt with faults, but depending on one person soon made the service vulnerable to absence. Staff developed simple inspection routines and arranged access to repair support for unfamiliar problems. These activities rarely feature in photographs of the new collection. They nevertheless determine how many objects are genuinely available, because an item awaiting inspection cannot responsibly be offered to the next borrower.\n\nWritten instructions alone did not remove every barrier. Some visitors could read a manual easily but lacked confidence with an unfamiliar tool; others already had the practical knowledge and only needed to understand a particular model. The branch introduced short demonstrations that visitors could request without enrolling in a course. Staff avoided turning the demonstration into an examination that a borrower had to pass. The purpose was to make asking a basic question feel normal, while recognising that confidence, reading ability and practical experience are different things.\n\nBooking rules exposed a tension between efficient administration and equal access. Online reservations suited residents who could plan a task several days ahead. They worked less well for people whose working hours changed at short notice or who rarely used the internet. Rather than abandoning reservations, the branch held a small part of the collection for requests at the desk. This made the timetable less neat, and staff sometimes had to explain why an apparently unreserved item was unavailable online. The inconvenience was a deliberate response to unequal opportunities to plan.\n\nThe branch also reconsidered how to judge the project. Counting loans was useful for estimating workload, but a rising total did not establish that residents were buying fewer products. Some borrowers might otherwise have hired an object, borrowed from a neighbour or abandoned the task entirely. Follow-up conversations therefore asked what people would have done without the service. These answers were imperfect memories rather than precise measurements, yet they revealed distinctions hidden by a single circulation figure. Evaluating the library meant asking what difference a loan made, not simply celebrating the fact that it occurred.\n\nExpansion is now discussed in terms of support as well as demand. A popular request is not automatically added if the branch cannot maintain the object or explain its safe use. Partner organisations can sometimes supply skills that the library lacks, but an informal promise of help is not the same as a dependable arrangement. The collection will probably remain selective. Its managers regard that limit as part of providing a reliable service: a smaller set of usable objects can be more valuable than a larger collection that exists mainly in the catalogue.",
+  "topic": "Community lending",
+  "sourceType": "ORIGINAL",
+  "source": "Original IELTS Academic-style practice written for IELTS 7.5 Lab. The case study and organisations are illustrative; this is not an official test or a report of published research.",
+  "family": "MATCHING",
+  "questionFamily": "HEADINGS",
+  "practiceType": "REAL_PRACTICE",
+  "sourceStyle": "Education",
+  "difficulty": "INTERMEDIATE",
+  "difficultyLevel": "EXAM",
+  "setNumber": 1,
+  "passageNumberEquivalent": 2,
+  "timeLimitMinutes": 20,
+  "isFullMockPassage": false,
+  "questions": [
+    {
+      "id": "reading-real-matching-headings-01-q1",
+      "order": 1,
+      "type": "MATCHING_HEADINGS",
+      "question": "Paragraph A",
+      "options": [
+        "i. Making access less dependent on advance planning",
+        "ii. Why every popular request should be purchased",
+        "iii. Asking about unmet tasks rather than desirable possessions",
+        "iv. The continuing work behind each loan",
+        "v. Testing whether loans change behaviour",
+        "vi. Helping people use objects without testing them",
+        "vii. Selecting a collection that is practical to use",
+        "viii. Replacing professional repairs with written instructions"
+      ],
+      "answer": "iii",
+      "acceptedAnswers": [],
+      "instructions": "The passage has seven paragraphs, A–G. Choose the correct heading for paragraphs A–F from the list i–viii. There are more headings than you need. Use each heading once.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "Asking about tasks changed the discussion from assembling an impressive collection to removing particular obstacles in daily life.",
+      "paragraph": "A",
+      "explanation": "A shifts attention from owning impressive objects to the tasks residents cannot currently do.",
+      "trap": "A supporting detail can echo a heading without describing the paragraph’s main purpose.",
+      "tip": "Summarise the purpose of the whole paragraph before comparing the headings.",
+      "analysis": {
+        "keyEvidence": "removing particular obstacles in daily life",
+        "questionKeywords": [
+          "Asking about unmet tasks rather than desirable possessions"
+        ],
+        "passageKeywords": [
+          "removing particular obstacles in daily life"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "Asking about unmet tasks rather than desirable possessions",
+            "passage": "removing particular obstacles in daily life",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {
+          "i": "E concerns booking access.",
+          "ii": "G explicitly says popularity alone does not justify a purchase.",
+          "iii": "A shifts attention from owning impressive objects to the tasks residents cannot currently do.",
+          "iv": "C concerns maintenance and turnaround.",
+          "v": "F concerns the effects of borrowing.",
+          "vi": "D concerns support and confidence.",
+          "vii": "B concerns selecting usable equipment.",
+          "viii": "C introduces repair support; it does not replace it with instructions."
+        },
+        "mistakeType": "MATCHING_HEADING_ERROR",
+        "group": "",
+        "selectCount": 1,
+        "matchingGroup": {
+          "id": "library-headings",
+          "optionsTitle": "List of Headings",
+          "reuseAllowed": false
+        }
+      }
+    },
+    {
+      "id": "reading-real-matching-headings-01-q2",
+      "order": 2,
+      "type": "MATCHING_HEADINGS",
+      "question": "Paragraph B",
+      "options": [
+        "i. Making access less dependent on advance planning",
+        "ii. Why every popular request should be purchased",
+        "iii. Asking about unmet tasks rather than desirable possessions",
+        "iv. The continuing work behind each loan",
+        "v. Testing whether loans change behaviour",
+        "vi. Helping people use objects without testing them",
+        "vii. Selecting a collection that is practical to use",
+        "viii. Replacing professional repairs with written instructions"
+      ],
+      "answer": "vii",
+      "acceptedAnswers": [],
+      "instructions": "The passage has seven paragraphs, A–G. Choose the correct heading for paragraphs A–F from the list i–viii. There are more headings than you need. Use each heading once.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "The selection process favoured a modest collection that people could actually use over a catalogue whose variety would be difficult to sustain.",
+      "paragraph": "B",
+      "explanation": "B weighs repeated needs and hidden operating costs when choosing the collection.",
+      "trap": "A supporting detail can echo a heading without describing the paragraph’s main purpose.",
+      "tip": "Summarise the purpose of the whole paragraph before comparing the headings.",
+      "analysis": {
+        "keyEvidence": "favoured a modest collection that people could actually use",
+        "questionKeywords": [
+          "Selecting a collection that is practical to use"
+        ],
+        "passageKeywords": [
+          "favoured a modest collection that people could actually use"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "Selecting a collection that is practical to use",
+            "passage": "favoured a modest collection that people could actually use",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {
+          "i": "E concerns booking access.",
+          "ii": "G explicitly says popularity alone does not justify a purchase.",
+          "iii": "A establishes the purpose of the service.",
+          "iv": "C concerns maintenance and turnaround.",
+          "v": "F concerns the effects of borrowing.",
+          "vi": "D concerns support and confidence.",
+          "vii": "B weighs repeated needs and hidden operating costs when choosing the collection.",
+          "viii": "C introduces repair support; it does not replace it with instructions."
+        },
+        "mistakeType": "MATCHING_HEADING_ERROR",
+        "group": "",
+        "selectCount": 1,
+        "matchingGroup": {
+          "id": "library-headings",
+          "optionsTitle": "List of Headings",
+          "reuseAllowed": false
+        }
+      }
+    },
+    {
+      "id": "reading-real-matching-headings-01-q3",
+      "order": 3,
+      "type": "MATCHING_HEADINGS",
+      "question": "Paragraph C",
+      "options": [
+        "i. Making access less dependent on advance planning",
+        "ii. Why every popular request should be purchased",
+        "iii. Asking about unmet tasks rather than desirable possessions",
+        "iv. The continuing work behind each loan",
+        "v. Testing whether loans change behaviour",
+        "vi. Helping people use objects without testing them",
+        "vii. Selecting a collection that is practical to use",
+        "viii. Replacing professional repairs with written instructions"
+      ],
+      "answer": "iv",
+      "acceptedAnswers": [],
+      "instructions": "The passage has seven paragraphs, A–G. Choose the correct heading for paragraphs A–F from the list i–viii. There are more headings than you need. Use each heading once.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "Each item needs checking, cleaning and, sometimes, repair between borrowers.",
+      "paragraph": "C",
+      "explanation": "C explains inspection, repair and support needed between loans.",
+      "trap": "A supporting detail can echo a heading without describing the paragraph’s main purpose.",
+      "tip": "Summarise the purpose of the whole paragraph before comparing the headings.",
+      "analysis": {
+        "keyEvidence": "checking, cleaning and, sometimes, repair",
+        "questionKeywords": [
+          "The continuing work behind each loan"
+        ],
+        "passageKeywords": [
+          "checking, cleaning and, sometimes, repair"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "The continuing work behind each loan",
+            "passage": "checking, cleaning and, sometimes, repair",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {
+          "i": "E concerns booking access.",
+          "ii": "G explicitly says popularity alone does not justify a purchase.",
+          "iii": "A establishes the purpose of the service.",
+          "iv": "C explains inspection, repair and support needed between loans.",
+          "v": "F concerns the effects of borrowing.",
+          "vi": "D concerns support and confidence.",
+          "vii": "B concerns selecting usable equipment.",
+          "viii": "C introduces repair support; it does not replace it with instructions."
+        },
+        "mistakeType": "MATCHING_HEADING_ERROR",
+        "group": "",
+        "selectCount": 1,
+        "matchingGroup": {
+          "id": "library-headings",
+          "optionsTitle": "List of Headings",
+          "reuseAllowed": false
+        }
+      }
+    },
+    {
+      "id": "reading-real-matching-headings-01-q4",
+      "order": 4,
+      "type": "MATCHING_HEADINGS",
+      "question": "Paragraph D",
+      "options": [
+        "i. Making access less dependent on advance planning",
+        "ii. Why every popular request should be purchased",
+        "iii. Asking about unmet tasks rather than desirable possessions",
+        "iv. The continuing work behind each loan",
+        "v. Testing whether loans change behaviour",
+        "vi. Helping people use objects without testing them",
+        "vii. Selecting a collection that is practical to use",
+        "viii. Replacing professional repairs with written instructions"
+      ],
+      "answer": "vi",
+      "acceptedAnswers": [],
+      "instructions": "The passage has seven paragraphs, A–G. Choose the correct heading for paragraphs A–F from the list i–viii. There are more headings than you need. Use each heading once.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "The purpose was to make asking a basic question feel normal, while recognising that confidence, reading ability and practical experience are different things.",
+      "paragraph": "D",
+      "explanation": "D describes demonstrations that encourage questions without becoming a test.",
+      "trap": "A supporting detail can echo a heading without describing the paragraph’s main purpose.",
+      "tip": "Summarise the purpose of the whole paragraph before comparing the headings.",
+      "analysis": {
+        "keyEvidence": "make asking a basic question feel normal",
+        "questionKeywords": [
+          "Helping people use objects without testing them"
+        ],
+        "passageKeywords": [
+          "make asking a basic question feel normal"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "Helping people use objects without testing them",
+            "passage": "make asking a basic question feel normal",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {
+          "i": "E concerns booking access.",
+          "ii": "G explicitly says popularity alone does not justify a purchase.",
+          "iii": "A establishes the purpose of the service.",
+          "iv": "C concerns maintenance and turnaround.",
+          "v": "F concerns the effects of borrowing.",
+          "vi": "D describes demonstrations that encourage questions without becoming a test.",
+          "vii": "B concerns selecting usable equipment.",
+          "viii": "C introduces repair support; it does not replace it with instructions."
+        },
+        "mistakeType": "MATCHING_HEADING_ERROR",
+        "group": "",
+        "selectCount": 1,
+        "matchingGroup": {
+          "id": "library-headings",
+          "optionsTitle": "List of Headings",
+          "reuseAllowed": false
+        }
+      }
+    },
+    {
+      "id": "reading-real-matching-headings-01-q5",
+      "order": 5,
+      "type": "MATCHING_HEADINGS",
+      "question": "Paragraph E",
+      "options": [
+        "i. Making access less dependent on advance planning",
+        "ii. Why every popular request should be purchased",
+        "iii. Asking about unmet tasks rather than desirable possessions",
+        "iv. The continuing work behind each loan",
+        "v. Testing whether loans change behaviour",
+        "vi. Helping people use objects without testing them",
+        "vii. Selecting a collection that is practical to use",
+        "viii. Replacing professional repairs with written instructions"
+      ],
+      "answer": "i",
+      "acceptedAnswers": [],
+      "instructions": "The passage has seven paragraphs, A–G. Choose the correct heading for paragraphs A–F from the list i–viii. There are more headings than you need. Use each heading once.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "The inconvenience was a deliberate response to unequal opportunities to plan.",
+      "paragraph": "E",
+      "explanation": "E changes reservation rules to accommodate unequal ability to plan ahead.",
+      "trap": "A supporting detail can echo a heading without describing the paragraph’s main purpose.",
+      "tip": "Summarise the purpose of the whole paragraph before comparing the headings.",
+      "analysis": {
+        "keyEvidence": "a deliberate response to unequal opportunities to plan",
+        "questionKeywords": [
+          "Making access less dependent on advance planning"
+        ],
+        "passageKeywords": [
+          "a deliberate response to unequal opportunities to plan"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "Making access less dependent on advance planning",
+            "passage": "a deliberate response to unequal opportunities to plan",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {
+          "i": "E changes reservation rules to accommodate unequal ability to plan ahead.",
+          "ii": "G explicitly says popularity alone does not justify a purchase.",
+          "iii": "A establishes the purpose of the service.",
+          "iv": "C concerns maintenance and turnaround.",
+          "v": "F concerns the effects of borrowing.",
+          "vi": "D concerns support and confidence.",
+          "vii": "B concerns selecting usable equipment.",
+          "viii": "C introduces repair support; it does not replace it with instructions."
+        },
+        "mistakeType": "MATCHING_HEADING_ERROR",
+        "group": "",
+        "selectCount": 1,
+        "matchingGroup": {
+          "id": "library-headings",
+          "optionsTitle": "List of Headings",
+          "reuseAllowed": false
+        }
+      }
+    },
+    {
+      "id": "reading-real-matching-headings-01-q6",
+      "order": 6,
+      "type": "MATCHING_HEADINGS",
+      "question": "Paragraph F",
+      "options": [
+        "i. Making access less dependent on advance planning",
+        "ii. Why every popular request should be purchased",
+        "iii. Asking about unmet tasks rather than desirable possessions",
+        "iv. The continuing work behind each loan",
+        "v. Testing whether loans change behaviour",
+        "vi. Helping people use objects without testing them",
+        "vii. Selecting a collection that is practical to use",
+        "viii. Replacing professional repairs with written instructions"
+      ],
+      "answer": "v",
+      "acceptedAnswers": [],
+      "instructions": "The passage has seven paragraphs, A–G. Choose the correct heading for paragraphs A–F from the list i–viii. There are more headings than you need. Use each heading once.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "Evaluating the library meant asking what difference a loan made, not simply celebrating the fact that it occurred.",
+      "paragraph": "F",
+      "explanation": "F distinguishes circulation totals from evidence of changed behaviour.",
+      "trap": "A supporting detail can echo a heading without describing the paragraph’s main purpose.",
+      "tip": "Summarise the purpose of the whole paragraph before comparing the headings.",
+      "analysis": {
+        "keyEvidence": "asking what difference a loan made",
+        "questionKeywords": [
+          "Testing whether loans change behaviour"
+        ],
+        "passageKeywords": [
+          "asking what difference a loan made"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "Testing whether loans change behaviour",
+            "passage": "asking what difference a loan made",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {
+          "i": "E concerns booking access.",
+          "ii": "G explicitly says popularity alone does not justify a purchase.",
+          "iii": "A establishes the purpose of the service.",
+          "iv": "C concerns maintenance and turnaround.",
+          "v": "F distinguishes circulation totals from evidence of changed behaviour.",
+          "vi": "D concerns support and confidence.",
+          "vii": "B concerns selecting usable equipment.",
+          "viii": "C introduces repair support; it does not replace it with instructions."
+        },
+        "mistakeType": "MATCHING_HEADING_ERROR",
+        "group": "",
+        "selectCount": 1,
+        "matchingGroup": {
+          "id": "library-headings",
+          "optionsTitle": "List of Headings",
+          "reuseAllowed": false
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,699 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+enum VocabularyStatus {
+  NEW
+  LEARNING
+  REVIEW
+  MASTERED
+  DIFFICULT
+}
+
+enum Difficulty {
+  FOUNDATION
+  INTERMEDIATE
+  ADVANCED
+}
+
+enum SessionStatus {
+  ACTIVE
+  COMPLETED
+}
+
+enum StudyRating {
+  KNOWN
+  LEARNING
+  DIFFICULT
+}
+
+enum AnswerResult {
+  CORRECT
+  ALMOST
+  WRONG
+}
+
+enum QuizMode {
+  ENGLISH_TO_BANGLA
+  BANGLA_TO_ENGLISH
+  SYNONYM
+  DEFINITION
+  FILL_BLANK
+  MULTIPLE_CHOICE
+  MIXED
+}
+
+enum StudyModule {
+  VOCABULARY
+  READING
+  WRITING
+  SPEAKING
+  GRAMMAR
+}
+
+enum WritingTask {
+  TASK_1
+  TASK_2
+}
+
+model User {
+  id                String                  @id @default(cuid())
+  name              String                  @default("Learner")
+  createdAt         DateTime                @default(now())
+  updatedAt         DateTime                @updatedAt
+  settings          UserSettings?
+  vocabularyProgress VocabularyProgress[]
+  vocabularySessions VocabularySession[]
+  quizzes           VocabularyQuiz[]
+  quizAttempts      VocabularyQuizAttempt[]
+  reviews           ReviewSchedule[]
+  readingAttempts   ReadingAttempt[]
+  readingMistakes   ReadingMistake[]
+  readingDrills     ReadingDrillAttempt[]
+  writingAttempts   WritingAttempt[]
+  writingMistakes   WritingMistake[]
+  writingSentences  WritingSentenceAttempt[]
+  speakingAttempts  SpeakingAttempt[]
+  grammarAttempts   GrammarAttempt[]
+  mistakes          UserMistake[]
+  dailySessions     DailyStudySession[]
+  activities        StudyActivity[]
+  mockAttempts      MockTestAttempt[]
+  savedItems        SavedItem[]
+}
+
+model UserSettings {
+  id                      String    @id @default(cuid())
+  userId                  String    @unique
+  user                    User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  targetBand              Float     @default(7.5)
+  examDate                DateTime?
+  estimatedListening      Float?
+  estimatedReading        Float?
+  estimatedWriting        Float?
+  estimatedSpeaking       Float?
+  dailyStudyMinutes       Int       @default(60)
+  vocabularySessionSize   Int       @default(20)
+  timezone                String    @default("Asia/Dhaka")
+  theme                   String    @default("light")
+  createdAt               DateTime  @default(now())
+  updatedAt               DateTime  @updatedAt
+}
+
+model VocabularyWord {
+  id              String                  @id @default(cuid())
+  word            String                  @unique
+  banglaMeaning   String
+  definition      String
+  partOfSpeech    String
+  synonyms        Json                    @default(dbgenerated("'[]'"))
+  antonyms        Json                    @default(dbgenerated("'[]'"))
+  easyExample     String
+  ieltsExample    String
+  category        String
+  difficulty      Difficulty              @default(INTERMEDIATE)
+  pronunciation   String?
+  source          String                  @default("CURATED")
+  createdAt       DateTime                @default(now())
+  updatedAt       DateTime                @updatedAt
+  progress        VocabularyProgress[]
+  sessionItems    VocabularySessionItem[]
+  quizQuestions   VocabularyQuizQuestion[]
+  quizAnswers     VocabularyQuizAnswer[]
+  reviews         ReviewSchedule[]
+
+  @@index([category, difficulty])
+}
+
+model VocabularyProgress {
+  id              String             @id @default(cuid())
+  userId          String
+  wordId          String
+  user            User               @relation(fields: [userId], references: [id], onDelete: Cascade)
+  word            VocabularyWord     @relation(fields: [wordId], references: [id], onDelete: Cascade)
+  status          VocabularyStatus   @default(NEW)
+  firstLearnedAt  DateTime?
+  lastStudiedAt   DateTime?
+  nextReviewAt    DateTime?
+  timesStudied    Int                @default(0)
+  correctAnswers  Int                @default(0)
+  wrongAnswers    Int                @default(0)
+  almostAnswers   Int                @default(0)
+  masteryScore    Float              @default(0)
+  isFavourite     Boolean            @default(false)
+  isDifficult     Boolean            @default(false)
+  intervalDays    Float              @default(0)
+  consecutiveCorrect Int            @default(0)
+  createdAt       DateTime           @default(now())
+  updatedAt       DateTime           @updatedAt
+
+  @@unique([userId, wordId])
+  @@index([userId, firstLearnedAt])
+  @@index([userId, nextReviewAt])
+  @@index([userId, status])
+  @@index([wordId])
+}
+
+model VocabularySession {
+  id          String                   @id @default(cuid())
+  userId      String
+  user        User                     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  source      String                   @default("new")
+  status      SessionStatus            @default(ACTIVE)
+  targetSize  Int
+  startedAt   DateTime                 @default(now())
+  completedAt DateTime?
+  updatedAt   DateTime                 @updatedAt
+  items       VocabularySessionItem[]
+
+  @@index([userId, startedAt])
+  @@index([userId, status])
+}
+
+model VocabularySessionItem {
+  id        String             @id @default(cuid())
+  sessionId String
+  wordId    String
+  session   VocabularySession  @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+  word      VocabularyWord     @relation(fields: [wordId], references: [id], onDelete: Restrict)
+  position  Int
+  rating    StudyRating?
+  studiedAt DateTime?
+
+  @@unique([sessionId, wordId])
+  @@unique([sessionId, position])
+  @@index([studiedAt])
+  @@index([wordId])
+}
+
+model VocabularyQuiz {
+  id        String                   @id @default(cuid())
+  userId    String
+  user      User                     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  source    String
+  mode      QuizMode
+  filters   Json                     @default(dbgenerated("'{}'"))
+  createdAt DateTime                 @default(now())
+  questions VocabularyQuizQuestion[]
+  attempts  VocabularyQuizAttempt[]
+
+  @@index([userId, createdAt])
+}
+
+// Immutable snapshots keep existing attempts valid if curated content changes.
+model VocabularyQuizQuestion {
+  id             String                @id @default(cuid())
+  quizId         String
+  wordId         String
+  quiz           VocabularyQuiz        @relation(fields: [quizId], references: [id], onDelete: Cascade)
+  word           VocabularyWord        @relation(fields: [wordId], references: [id], onDelete: Restrict)
+  position       Int
+  questionType   QuizMode
+  prompt         String
+  expectedAnswer String
+  acceptedAnswers Json
+  choices        Json                  @default(dbgenerated("'[]'"))
+  answers        VocabularyQuizAnswer[]
+
+  @@unique([quizId, position])
+  @@index([wordId])
+}
+
+model VocabularyQuizAttempt {
+  id           String                 @id @default(cuid())
+  quizId       String
+  userId       String
+  quiz         VocabularyQuiz         @relation(fields: [quizId], references: [id], onDelete: Restrict)
+  user         User                   @relation(fields: [userId], references: [id], onDelete: Cascade)
+  startedAt    DateTime               @default(now())
+  completedAt  DateTime?
+  questionCount Int
+  score        Float                  @default(0)
+  correctCount Int                    @default(0)
+  wrongCount   Int                    @default(0)
+  almostCount  Int                    @default(0)
+  durationSeconds Int                 @default(0)
+  answers      VocabularyQuizAnswer[]
+
+  @@index([userId, startedAt])
+  @@index([quizId])
+}
+
+model VocabularyQuizAnswer {
+  id             String                   @id @default(cuid())
+  attemptId      String
+  questionId     String
+  wordId         String
+  attempt        VocabularyQuizAttempt    @relation(fields: [attemptId], references: [id], onDelete: Cascade)
+  question       VocabularyQuizQuestion   @relation(fields: [questionId], references: [id], onDelete: Restrict)
+  word           VocabularyWord           @relation(fields: [wordId], references: [id], onDelete: Restrict)
+  questionType   QuizMode
+  expectedAnswer String
+  userAnswer     String
+  result         AnswerResult
+  responseTimeMs Int
+  answeredAt     DateTime                  @default(now())
+
+  @@unique([attemptId, questionId])
+  @@index([wordId, result])
+}
+
+model ReviewSchedule {
+  id           String           @id @default(cuid())
+  userId       String
+  wordId       String
+  user         User             @relation(fields: [userId], references: [id], onDelete: Cascade)
+  word         VocabularyWord   @relation(fields: [wordId], references: [id], onDelete: Cascade)
+  dueAt        DateTime
+  intervalDays Float
+  lastResult   String
+  reviewedAt   DateTime         @default(now())
+
+  @@unique([userId, wordId])
+  @@index([userId, dueAt])
+  @@index([wordId])
+}
+
+model ReadingPassage {
+  id               String            @id @default(cuid())
+  title            String
+  content          String
+  sourceType       String            @default("ORIGINAL")
+  source           String?
+  difficulty       Difficulty        @default(INTERMEDIATE)
+  topic            String
+  family           String            @default("MIXED")
+  questionFamily   String            @default("MIXED")
+  practiceType     String            @default("SKILL_PRACTICE")
+  sourceStyle      String            @default("Exam Style")
+  difficultyLevel  String            @default("FOUNDATION")
+  setNumber        Int               @default(1)
+  passageNumberEquivalent Int        @default(1)
+  wordCount        Int               @default(0)
+  isFullMockPassage Boolean           @default(false)
+  metadata         Json              @default(dbgenerated("'{}'"))
+  timeLimitMinutes Int               @default(20)
+  createdAt        DateTime          @default(now())
+  updatedAt        DateTime          @updatedAt
+  questions        ReadingQuestion[]
+  attempts         ReadingAttempt[]
+
+  @@index([topic, difficulty])
+  @@index([family, difficultyLevel, isFullMockPassage])
+  @@index([practiceType, questionFamily, setNumber])
+}
+
+model ReadingQuestion {
+  id          String           @id @default(cuid())
+  passageId   String
+  passage     ReadingPassage   @relation(fields: [passageId], references: [id], onDelete: Cascade)
+  order       Int
+  type        String
+  question    String
+  options     Json             @default(dbgenerated("'[]'"))
+  answer      String
+  explanation String
+  evidence    String
+  paragraph   String
+  trap        String
+  tip         String
+  instructions String              @default("")
+  acceptedAnswers Json             @default(dbgenerated("'[]'"))
+  wordLimit   Int?
+  numberAllowed Boolean            @default(false)
+  analysis    Json                 @default(dbgenerated("'{}'"))
+  answers     ReadingAnswer[]
+
+  @@unique([passageId, order])
+  @@index([passageId, type])
+}
+
+model ReadingAttempt {
+  id              String          @id @default(cuid())
+  userId          String
+  passageId       String
+  user            User            @relation(fields: [userId], references: [id], onDelete: Cascade)
+  passage         ReadingPassage  @relation(fields: [passageId], references: [id], onDelete: Restrict)
+  score           Float           @default(0)
+  durationSeconds Int             @default(0)
+  notes           String          @default("")
+  mode            String          @default("LEARNING")
+  practiceType    String          @default("SKILL_PRACTICE")
+  questionFamily  String          @default("MIXED")
+  revision        Int             @default(0)
+  clientKey       String?         @unique
+  snapshot        Json?
+  draft           Json            @default(dbgenerated("'{}'"))
+  result          Json?
+  assistance      Json            @default(dbgenerated("'{}'"))
+  deadline        DateTime?
+  mockTestId      String?
+  mockTest        MockTest?       @relation(fields: [mockTestId], references: [id], onDelete: Restrict)
+  startedAt       DateTime        @default(now())
+  completedAt     DateTime?
+  answers         ReadingAnswer[]
+  mistakes        ReadingMistake[]
+
+  @@index([userId, startedAt])
+  @@index([passageId])
+  @@index([mockTestId])
+  @@index([userId, practiceType, questionFamily, startedAt])
+}
+
+model ReadingDrillAttempt {
+  id         String   @id @default(cuid())
+  userId     String
+  user       User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  kind       String
+  clientKey  String   @unique
+  snapshot   Json
+  userAnswer String   @default("")
+  isCorrect  Boolean?
+  startedAt  DateTime @default(now())
+  completedAt DateTime?
+  durationSeconds Int @default(0)
+
+  @@index([userId, startedAt])
+}
+
+model ReadingAnswer {
+  id             String          @id @default(cuid())
+  attemptId      String
+  questionId     String
+  attempt        ReadingAttempt  @relation(fields: [attemptId], references: [id], onDelete: Cascade)
+  question       ReadingQuestion @relation(fields: [questionId], references: [id], onDelete: Restrict)
+  userAnswer     String
+  expectedAnswer String
+  isCorrect      Boolean
+  mistakeType    String?
+  questionSnapshot Json?
+  flagged        Boolean         @default(false)
+  responseTime   Int             @default(0)
+
+  @@unique([attemptId, questionId])
+  @@index([questionId])
+}
+
+model ReadingMistake {
+  id          String          @id @default(cuid())
+  userId      String
+  attemptId   String
+  user        User            @relation(fields: [userId], references: [id], onDelete: Cascade)
+  attempt     ReadingAttempt  @relation(fields: [attemptId], references: [id], onDelete: Cascade)
+  questionId  String
+  type        String
+  explanation String
+  resolved    Boolean         @default(false)
+  createdAt   DateTime        @default(now())
+
+  @@index([userId, resolved])
+  @@index([attemptId])
+}
+
+model WritingPrompt {
+  id           String           @id @default(cuid())
+  taskType     WritingTask
+  type         String
+  title        String
+  prompt       String
+  data         Json?
+  planningTips Json             @default(dbgenerated("'[]'"))
+  sampleAnswer String
+  samples      Json             @default(dbgenerated("'[]'"))
+  selfCheck    Json             @default(dbgenerated("'[]'"))
+  createdAt    DateTime         @default(now())
+  updatedAt    DateTime         @updatedAt
+  attempts     WritingAttempt[]
+
+  @@index([taskType])
+}
+
+model WritingAttempt {
+  id          String           @id @default(cuid())
+  userId      String
+  promptId    String
+  user        User             @relation(fields: [userId], references: [id], onDelete: Cascade)
+  prompt      WritingPrompt    @relation(fields: [promptId], references: [id], onDelete: Restrict)
+  taskType    WritingTask
+  essay       String           @default("")
+  plan        String           @default("")
+  planFields  Json             @default(dbgenerated("'{}'"))
+  revision    Int              @default(0)
+  clientKey   String?          @unique
+  selfCheck   Json             @default(dbgenerated("'{}'"))
+  feedback    Json?
+  durationSeconds Int          @default(0)
+  createdAt   DateTime         @default(now())
+  updatedAt   DateTime         @updatedAt
+  mistakes    WritingMistake[]
+
+  @@index([userId, createdAt])
+  @@index([promptId])
+}
+
+model WritingPhrase {
+  id          String       @id @default(cuid())
+  taskType    WritingTask
+  category    String
+  phrase      String
+  example     String
+  explanation String
+  meaning     String       @default("")
+  commonMistake String     @default("")
+  createdAt   DateTime     @default(now())
+
+  @@unique([taskType, phrase])
+  @@index([category])
+}
+
+model WritingMistake {
+  id                String          @id @default(cuid())
+  userId            String
+  attemptId         String?
+  user              User            @relation(fields: [userId], references: [id], onDelete: Cascade)
+  attempt           WritingAttempt? @relation(fields: [attemptId], references: [id], onDelete: SetNull)
+  originalSentence  String
+  correctedSentence String
+  category          String
+  explanation       String
+  resolved          Boolean         @default(false)
+  revisionCount     Int             @default(0)
+  createdAt         DateTime        @default(now())
+  updatedAt         DateTime        @updatedAt
+  clientKey         String?         @unique
+
+  @@index([userId, resolved])
+  @@index([attemptId])
+}
+
+model WritingSentenceExercise {
+  id          String   @id
+  taskType    WritingTask
+  category    String
+  prompt      String
+  data        Json?
+  samples     Json
+  explanation String
+  attempts    WritingSentenceAttempt[]
+}
+
+model WritingSentenceAttempt {
+  id          String   @id @default(cuid())
+  userId      String
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  exerciseId  String
+  exercise    WritingSentenceExercise @relation(fields: [exerciseId], references: [id], onDelete: Restrict)
+  response    String
+  reflection  String   @default("")
+  clientKey   String   @unique
+  createdAt   DateTime @default(now())
+
+  @@index([userId, createdAt])
+}
+
+model SpeakingTopic {
+  id        String             @id @default(cuid())
+  name      String             @unique
+  createdAt DateTime           @default(now())
+  questions SpeakingQuestion[]
+}
+
+model SpeakingQuestion {
+  id           String            @id @default(cuid())
+  topicId      String
+  topic        SpeakingTopic     @relation(fields: [topicId], references: [id], onDelete: Cascade)
+  part         Int
+  question     String
+  cuePoints    Json              @default(dbgenerated("'[]'"))
+  sampleAnswer String
+  vocabulary   Json              @default(dbgenerated("'[]'"))
+  phrases      Json              @default(dbgenerated("'[]'"))
+  structure    Json              @default(dbgenerated("'[]'"))
+  attempts     SpeakingAttempt[]
+
+  @@index([topicId, part])
+}
+
+model SpeakingAttempt {
+  id              String           @id @default(cuid())
+  userId          String
+  questionId      String
+  user            User             @relation(fields: [userId], references: [id], onDelete: Cascade)
+  question        SpeakingQuestion @relation(fields: [questionId], references: [id], onDelete: Restrict)
+  notes           String           @default("")
+  transcript      String?
+  recordingPath   String?
+  durationSeconds Int              @default(0)
+  mistakeNotes    String           @default("")
+  createdAt       DateTime         @default(now())
+  updatedAt       DateTime         @updatedAt
+
+  @@index([userId, createdAt])
+  @@index([questionId])
+}
+
+model SpeakingPhrase {
+  id          String   @id @default(cuid())
+  category    String
+  phrase      String   @unique
+  example     String
+  explanation String
+  createdAt   DateTime @default(now())
+}
+
+model GrammarTopic {
+  id        String            @id @default(cuid())
+  title     String            @unique
+  lesson    String
+  createdAt DateTime          @default(now())
+  updatedAt DateTime          @updatedAt
+  exercises GrammarExercise[]
+  attempts  GrammarAttempt[]
+}
+
+model GrammarExercise {
+  id          String       @id @default(cuid())
+  topicId     String
+  topic       GrammarTopic @relation(fields: [topicId], references: [id], onDelete: Cascade)
+  question    String
+  options     Json         @default(dbgenerated("'[]'"))
+  answer      String
+  explanation String
+
+  @@index([topicId])
+}
+
+model GrammarAttempt {
+  id              String       @id @default(cuid())
+  userId          String
+  topicId         String
+  user            User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+  topic           GrammarTopic @relation(fields: [topicId], references: [id], onDelete: Restrict)
+  answers         Json
+  mistakes        Json         @default(dbgenerated("'[]'"))
+  score           Float
+  durationSeconds Int          @default(0)
+  createdAt       DateTime     @default(now())
+
+  @@index([userId, createdAt])
+  @@index([topicId])
+}
+
+model UserMistake {
+  id              String      @id @default(cuid())
+  userId          String
+  user            User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  module          StudyModule
+  sourceId        String
+  category        String
+  originalContent String
+  correction      String
+  explanation     String
+  resolved        Boolean     @default(false)
+  revisionCount   Int         @default(0)
+  createdAt       DateTime    @default(now())
+  updatedAt       DateTime    @updatedAt
+
+  @@unique([userId, module, sourceId])
+  @@index([userId, resolved, module])
+}
+
+model DailyStudySession {
+  id              String          @id @default(cuid())
+  userId          String
+  user            User            @relation(fields: [userId], references: [id], onDelete: Cascade)
+  studyDate       String
+  durationSeconds Int             @default(0)
+  itemsCompleted  Int             @default(0)
+  createdAt       DateTime        @default(now())
+  updatedAt       DateTime        @updatedAt
+  activities      StudyActivity[]
+
+  @@unique([userId, studyDate])
+}
+
+model StudyActivity {
+  id              String             @id @default(cuid())
+  userId          String
+  dailySessionId  String?
+  user            User               @relation(fields: [userId], references: [id], onDelete: Cascade)
+  dailySession    DailyStudySession? @relation(fields: [dailySessionId], references: [id], onDelete: SetNull)
+  module          StudyModule
+  activityType    String
+  sourceId        String
+  studyDate       String
+  durationSeconds Int                @default(0)
+  itemsCompleted  Int                @default(0)
+  score           Float?
+  createdAt       DateTime           @default(now())
+
+  @@unique([userId, module, activityType, sourceId])
+  @@index([userId, studyDate])
+  @@index([module, createdAt])
+  @@index([dailySessionId])
+}
+
+model MockTest {
+  id              String            @id @default(cuid())
+  title           String
+  module          StudyModule
+  durationMinutes Int
+  configuration   Json
+  createdAt       DateTime          @default(now())
+  attempts        MockTestAttempt[]
+  readingAttempts ReadingAttempt[]
+}
+
+model MockTestAttempt {
+  id              String      @id @default(cuid())
+  userId          String
+  mockTestId      String
+  user            User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  mockTest        MockTest    @relation(fields: [mockTestId], references: [id], onDelete: Restrict)
+  answers         Json        @default(dbgenerated("'{}'"))
+  score           Float?
+  durationSeconds Int         @default(0)
+  startedAt       DateTime    @default(now())
+  completedAt     DateTime?
+
+  @@index([userId, startedAt])
+  @@index([mockTestId])
+}
+
+model SavedItem {
+  id        String      @id @default(cuid())
+  userId    String
+  user      User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  module    StudyModule
+  itemType  String
+  itemId    String
+  createdAt DateTime    @default(now())
+
+  @@unique([userId, itemType, itemId])
+  @@index([userId, module])
+}

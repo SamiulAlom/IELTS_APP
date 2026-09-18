@@ -1,0 +1,350 @@
+{
+  "id": "reading-real-tfng-01",
+  "title": "A museum after normal hours",
+  "content": "A city museum introduced an evening opening programme to find out whether its normal hours excluded potential visitors. The programme used the existing galleries and did not include a new exhibition. Staff expected the later hours to appeal to some people who could not visit during the day, but they did not assume that every non-visitor faced the same obstacle. Transport, cost, confidence and interest could each influence a decision to attend. The museum treated the programme as a limited trial, with decisions about permanent opening hours deferred until staff had examined both attendance and visitors' experiences.\n\nThe museum opened late on one weekday each week throughout the trial. Admission to the collection remained free, although visitors still paid for food and drinks. Two galleries closed earlier than the others because their staffing arrangements could not be extended. Notices at the entrance identified those rooms so that visitors would not discover the restriction only after walking across the building. The museum did not consider a partly open building ideal, but it preferred to state the limit plainly while testing whether the broader change was useful.\n\nTo learn who attended, the museum used short exit interviews and an optional online questionnaire. Interviewers approached every fifth departing adult rather than choosing people who looked willing to talk. Some selected visitors declined, and their absence from the responses was recorded. The online form was promoted through the museum's mailing list as well as inside the building. Staff recognised that this route would reach people already interested in the institution more easily than residents with little connection to it. Combining the two sources increased the range of comments but did not turn the responses into a representative sample of the whole city.\n\nSeveral respondents described fitting a visit around work, but work was not the only reason for coming later. Others preferred the quieter atmosphere or arranged to meet friends after dinner. Some had visited the museum recently during normal hours. The team consequently distinguished an evening visit from a first visit: moving an existing visitor from one time slot to another was a different outcome from reaching someone who had previously stayed away. Attendance totals alone could not separate these effects. Interview questions about earlier visits were included to make the distinction possible.\n\nThe comments also revealed different preferences about gallery activity. Some visitors welcomed informal conversations with staff, while others wanted to look without interruption. The museum responded by identifying places where a short conversation could take place and leaving other areas quieter. It did not instruct staff to approach everyone. The change was intended to offer a choice rather than to define a single ideal evening experience. A visitor who remained silent might be deeply engaged with an object, so the number of conversations was not treated as a direct measure of attention.\n\nOperational records were considered alongside visitor feedback. A late closing affected cleaning schedules and the following morning's preparation even when the number of visitors was modest. Staff noted these effects in a shared log rather than estimating them solely from attendance. The trial account describes the adjustments but does not give a total cost for each evening. Nor does it compare the programme with evening openings at other museums. These limits matter when the account is used outside the institution: evidence that a change was manageable in one building is not evidence that it would be equally simple everywhere.\n\nAt the end of the trial, managers kept the evening programme on a provisional basis and planned another review. They considered the interviews useful for identifying different reasons for visiting, but did not claim to have established the programme's effect on the whole population. The next stage would seek views from people who had not attended, including people outside the museum's existing contact lists. Understanding why an opportunity goes unused requires more than asking those who have already taken it up.",
+  "topic": "Museums and access",
+  "sourceType": "ORIGINAL",
+  "source": "Original IELTS Academic-style practice written for IELTS 7.5 Lab. The case study and organisations are illustrative; this is not an official test or a report of published research.",
+  "family": "TFNG",
+  "questionFamily": "TFNG",
+  "practiceType": "REAL_PRACTICE",
+  "sourceStyle": "Academic Article Style",
+  "difficulty": "INTERMEDIATE",
+  "difficultyLevel": "EXAM",
+  "setNumber": 1,
+  "passageNumberEquivalent": 2,
+  "timeLimitMinutes": 20,
+  "isFullMockPassage": false,
+  "questions": [
+    {
+      "id": "reading-real-tfng-01-q1",
+      "order": 1,
+      "type": "TRUE_FALSE_NOT_GIVEN",
+      "question": "The evening programme coincided with the launch of a new exhibition.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "FALSE",
+      "acceptedAnswers": [],
+      "instructions": "Do the following statements agree with the information in the passage? Choose TRUE, FALSE or NOT GIVEN.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "The programme used the existing galleries and did not include a new exhibition.",
+      "paragraph": "A",
+      "explanation": "The programme used existing galleries and explicitly did not include a new exhibition.",
+      "trap": "Do not infer that extended hours were part of an exhibition launch.",
+      "tip": "Check the whole claim, including qualifiers. FALSE needs contrary evidence; NOT GIVEN needs an information gap.",
+      "analysis": {
+        "keyEvidence": "did not include a new exhibition",
+        "questionKeywords": [
+          "launch of a new exhibition"
+        ],
+        "passageKeywords": [
+          "did not include a new exhibition"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "launch of a new exhibition",
+            "passage": "did not include a new exhibition",
+            "relationship": "CONTRADICTION"
+          }
+        ],
+        "optionReasons": {},
+        "mistakeType": "KEYWORD_TRAP",
+        "group": "",
+        "selectCount": 1
+      }
+    },
+    {
+      "id": "reading-real-tfng-01-q2",
+      "order": 2,
+      "type": "TRUE_FALSE_NOT_GIVEN",
+      "question": "All galleries remained open for the whole evening.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "FALSE",
+      "acceptedAnswers": [],
+      "instructions": "Do the following statements agree with the information in the passage? Choose TRUE, FALSE or NOT GIVEN.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "Two galleries closed earlier than the others because their staffing arrangements could not be extended.",
+      "paragraph": "B",
+      "explanation": "Two galleries closed early, which directly contradicts all galleries staying open throughout.",
+      "trap": "All is stronger than most or some.",
+      "tip": "Check the whole claim, including qualifiers. FALSE needs contrary evidence; NOT GIVEN needs an information gap.",
+      "analysis": {
+        "keyEvidence": "Two galleries closed earlier than the others",
+        "questionKeywords": [
+          "All galleries"
+        ],
+        "passageKeywords": [
+          "Two galleries closed earlier"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "All galleries",
+            "passage": "Two galleries closed earlier",
+            "relationship": "CONTRADICTION"
+          }
+        ],
+        "optionReasons": {},
+        "mistakeType": "MISSED_QUALIFIER",
+        "group": "",
+        "selectCount": 1
+      }
+    },
+    {
+      "id": "reading-real-tfng-01-q3",
+      "order": 3,
+      "type": "TRUE_FALSE_NOT_GIVEN",
+      "question": "The museum collected an entrance fee during the evening trial.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "FALSE",
+      "acceptedAnswers": [],
+      "instructions": "Do the following statements agree with the information in the passage? Choose TRUE, FALSE or NOT GIVEN.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "Admission to the collection remained free, although visitors still paid for food and drinks.",
+      "paragraph": "B",
+      "explanation": "Admission remained free; purchases of food and drinks were separate.",
+      "trap": "A cost mentioned nearby may concern a different activity.",
+      "tip": "Check the whole claim, including qualifiers. FALSE needs contrary evidence; NOT GIVEN needs an information gap.",
+      "analysis": {
+        "keyEvidence": "Admission to the collection remained free",
+        "questionKeywords": [
+          "entrance fee"
+        ],
+        "passageKeywords": [
+          "Admission ... remained free"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "entrance fee",
+            "passage": "Admission ... remained free",
+            "relationship": "CONTRADICTION"
+          }
+        ],
+        "optionReasons": {},
+        "mistakeType": "KEYWORD_TRAP",
+        "group": "",
+        "selectCount": 1
+      }
+    },
+    {
+      "id": "reading-real-tfng-01-q4",
+      "order": 4,
+      "type": "TRUE_FALSE_NOT_GIVEN",
+      "question": "Interviewers used a fixed interval when selecting departing adults.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "TRUE",
+      "acceptedAnswers": [],
+      "instructions": "Do the following statements agree with the information in the passage? Choose TRUE, FALSE or NOT GIVEN.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "Interviewers approached every fifth departing adult rather than choosing people who looked willing to talk.",
+      "paragraph": "C",
+      "explanation": "Approaching every fifth adult is selection at a fixed interval.",
+      "trap": "A systematic invitation does not mean everybody agreed to respond.",
+      "tip": "Check the whole claim, including qualifiers. FALSE needs contrary evidence; NOT GIVEN needs an information gap.",
+      "analysis": {
+        "keyEvidence": "every fifth departing adult",
+        "questionKeywords": [
+          "fixed interval"
+        ],
+        "passageKeywords": [
+          "every fifth departing adult"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "fixed interval",
+            "passage": "every fifth departing adult",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {},
+        "mistakeType": "KEYWORD_TRAP",
+        "group": "",
+        "selectCount": 1
+      }
+    },
+    {
+      "id": "reading-real-tfng-01-q5",
+      "order": 5,
+      "type": "TRUE_FALSE_NOT_GIVEN",
+      "question": "Most people who declined an interview were in a hurry.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "NOT GIVEN",
+      "acceptedAnswers": [],
+      "instructions": "Do the following statements agree with the information in the passage? Choose TRUE, FALSE or NOT GIVEN.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "Some selected visitors declined, and their absence from the responses was recorded.",
+      "paragraph": "C",
+      "explanation": "The passage records refusals but gives neither reasons nor proportions by reason.",
+      "trap": "A plausible reason for refusal is not evidence.",
+      "tip": "Check the whole claim, including qualifiers. FALSE needs contrary evidence; NOT GIVEN needs an information gap.",
+      "analysis": {
+        "keyEvidence": "Some selected visitors declined",
+        "questionKeywords": [
+          "in a hurry"
+        ],
+        "passageKeywords": [
+          "visitors declined; no reason supplied"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "in a hurry",
+            "passage": "visitors declined; no reason supplied",
+            "relationship": "NOT_STATED"
+          }
+        ],
+        "optionReasons": {},
+        "mistakeType": "FALSE_NOT_GIVEN_CONFUSION",
+        "group": "",
+        "selectCount": 1,
+        "absenceExplanation": "The passage records refusals but gives neither reasons nor proportions by reason."
+      }
+    },
+    {
+      "id": "reading-real-tfng-01-q6",
+      "order": 6,
+      "type": "TRUE_FALSE_NOT_GIVEN",
+      "question": "Evening attendance included people who had already visited during normal hours.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "TRUE",
+      "acceptedAnswers": [],
+      "instructions": "Do the following statements agree with the information in the passage? Choose TRUE, FALSE or NOT GIVEN.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "Some had visited the museum recently during normal hours.",
+      "paragraph": "D",
+      "explanation": "The sentence explicitly identifies recent daytime visitors among evening attendees.",
+      "trap": "An evening visit is not automatically a first visit.",
+      "tip": "Check the whole claim, including qualifiers. FALSE needs contrary evidence; NOT GIVEN needs an information gap.",
+      "analysis": {
+        "keyEvidence": "Some had visited the museum recently during normal hours",
+        "questionKeywords": [
+          "had already visited"
+        ],
+        "passageKeywords": [
+          "had visited ... recently during normal hours"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "had already visited",
+            "passage": "had visited ... recently during normal hours",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {},
+        "mistakeType": "KEYWORD_TRAP",
+        "group": "",
+        "selectCount": 1
+      }
+    },
+    {
+      "id": "reading-real-tfng-01-q7",
+      "order": 7,
+      "type": "TRUE_FALSE_NOT_GIVEN",
+      "question": "The programme was cheaper to run than equivalent programmes at other museums.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "NOT GIVEN",
+      "acceptedAnswers": [],
+      "instructions": "Do the following statements agree with the information in the passage? Choose TRUE, FALSE or NOT GIVEN.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "Nor does it compare the programme with evening openings at other museums.",
+      "paragraph": "F",
+      "explanation": "The account gives neither comparative costs nor a comparison with other museum programmes.",
+      "trap": "A manageable programme is not necessarily a cheaper programme.",
+      "tip": "Check the whole claim, including qualifiers. FALSE needs contrary evidence; NOT GIVEN needs an information gap.",
+      "analysis": {
+        "keyEvidence": "Nor does it compare the programme with evening openings at other museums",
+        "questionKeywords": [
+          "cheaper ... than"
+        ],
+        "passageKeywords": [
+          "does not compare ... other museums"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "cheaper ... than",
+            "passage": "does not compare ... other museums",
+            "relationship": "NOT_STATED"
+          }
+        ],
+        "optionReasons": {},
+        "mistakeType": "FALSE_NOT_GIVEN_CONFUSION",
+        "group": "",
+        "selectCount": 1,
+        "absenceExplanation": "The account gives neither comparative costs nor a comparison with other museum programmes."
+      }
+    },
+    {
+      "id": "reading-real-tfng-01-q8",
+      "order": 8,
+      "type": "TRUE_FALSE_NOT_GIVEN",
+      "question": "The next review was intended to include people who had not used the programme.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "TRUE",
+      "acceptedAnswers": [],
+      "instructions": "Do the following statements agree with the information in the passage? Choose TRUE, FALSE or NOT GIVEN.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "The next stage would seek views from people who had not attended, including people outside the museum's existing contact lists.",
+      "paragraph": "G",
+      "explanation": "The next stage would seek non-attendees’ views, including those outside existing contact lists.",
+      "trap": "Do not limit the next stage to the previous questionnaire respondents.",
+      "tip": "Check the whole claim, including qualifiers. FALSE needs contrary evidence; NOT GIVEN needs an information gap.",
+      "analysis": {
+        "keyEvidence": "seek views from people who had not attended",
+        "questionKeywords": [
+          "had not used the programme"
+        ],
+        "passageKeywords": [
+          "had not attended"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "had not used the programme",
+            "passage": "had not attended",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {},
+        "mistakeType": "KEYWORD_TRAP",
+        "group": "",
+        "selectCount": 1
+      }
+    }
+  ]
+}

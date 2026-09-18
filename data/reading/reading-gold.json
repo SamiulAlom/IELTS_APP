@@ -1,0 +1,3704 @@
+[
+  {
+    "id": "reading-gold-tfng",
+    "title": "A roof that stores the rain",
+    "family": "TFNG",
+    "difficultyLevel": "FOUNDATION",
+    "passageNumberEquivalent": 1,
+    "topic": "Urban environment",
+    "content": "A community workshop has installed a planted roof above its meeting room. Unlike an ordinary roof, which sends rain directly to a drain, this roof holds some water in a shallow growing layer. Water not retained by the plants or the layer flows into a storage tank. The project is a small demonstration, rather than a test of every kind of green roof. Its organisers want visitors to understand what happens between rain arriving and water reaching a street drain.\n\nThe team compares the planted roof with an adjacent bare roof of the same area. During light showers, the planted roof releases water more slowly than the bare roof. During prolonged heavy rain, however, the growing layer becomes saturated and the difference is much smaller. The team measures the volume leaving each roof, as well as the time at which flow begins. Temperature sensors were considered but were not included in the current installation.\n\nSome plants survived the first dry summer without additional watering; others needed water from the tank. The volunteers recorded survival, but did not compare the cost of different plant species. Nor did they measure how the roof affected the meeting room beneath it. Those questions would require a different monitoring programme. Visitors sometimes assume that every benefit associated with planted roofs has been demonstrated here, although the measurements support a narrower conclusion.\n\nThe organisers publish both the observations and the gaps in their evidence. They describe the roof as a useful way to delay some runoff, not as a system that prevents all flooding. A tank can be full before a storm arrives, and a growing layer has finite capacity. Understanding such limits helps a visitor decide what the demonstration can reasonably tell them.",
+    "sourceType": "ORIGINAL",
+    "difficulty": "FOUNDATION",
+    "setNumber": 1,
+    "isFullMockPassage": false,
+    "timeLimitMinutes": 20,
+    "metadata": {
+      "purpose": "To explain what a small planted-roof demonstration can and cannot establish.",
+      "scanTarget": "Find the equipment that was considered but not installed.",
+      "scanAnswer": "Temperature sensors",
+      "keyword": {
+        "prompt": "releases water more slowly",
+        "answer": "delays the outflow",
+        "options": [
+          "delays the outflow",
+          "eliminates every flood",
+          "increases the outflow",
+          "stores unlimited water"
+        ],
+        "explanation": "A slower release delays outflow; it does not prove that every flood is prevented."
+      }
+    },
+    "questions": [
+      {
+        "id": "reading-gold-tfng-q1",
+        "order": 1,
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "question": "The two roofs being compared have equal areas.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "answer": "TRUE",
+        "acceptedAnswers": [],
+        "instructions": "Choose TRUE if supported, FALSE if contradicted, or NOT GIVEN if the information is insufficient.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The comparison explicitly uses equal roof areas.",
+        "evidence": "The team compares the planted roof with an adjacent bare roof of the same area.",
+        "paragraph": "B",
+        "trap": "Do not confuse the different surfaces with different sizes.",
+        "tip": "Compare the full claim, including quantities and limits. Missing information is not a contradiction.",
+        "analysis": {
+          "keyEvidence": "the same area",
+          "questionKeywords": [
+            "equal areas"
+          ],
+          "passageKeywords": [
+            "the same area"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "equal areas",
+              "passage": "the same area",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "OVERINFERENCE",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-gold-tfng-q2",
+        "order": 2,
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "question": "The planted roof has a large advantage during every kind of rainfall.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "answer": "FALSE",
+        "acceptedAnswers": [],
+        "instructions": "Choose TRUE if supported, FALSE if contradicted, or NOT GIVEN if the information is insufficient.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The claim says every kind; prolonged heavy rain is an explicit exception.",
+        "evidence": "During prolonged heavy rain, however, the growing layer becomes saturated and the difference is much smaller.",
+        "paragraph": "B",
+        "trap": "The qualifier every is stronger than the measured result.",
+        "tip": "Compare the full claim, including quantities and limits. Missing information is not a contradiction.",
+        "analysis": {
+          "keyEvidence": "the difference is much smaller",
+          "questionKeywords": [
+            "every kind"
+          ],
+          "passageKeywords": [
+            "prolonged heavy rain"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "every kind",
+              "passage": "prolonged heavy rain",
+              "relationship": "CONTRADICTION"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "MISSED_QUALIFIER",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-gold-tfng-q3",
+        "order": 3,
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "question": "Every plant survived the dry summer without extra water.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "answer": "FALSE",
+        "acceptedAnswers": [],
+        "instructions": "Choose TRUE if supported, FALSE if contradicted, or NOT GIVEN if the information is insufficient.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The second clause directly contradicts the claim about every plant.",
+        "evidence": "Some plants survived the first dry summer without additional watering; others needed water from the tank.",
+        "paragraph": "C",
+        "trap": "Matching survived while ignoring some and others reverses the conclusion.",
+        "tip": "Compare the full claim, including quantities and limits. Missing information is not a contradiction.",
+        "analysis": {
+          "keyEvidence": "others needed water",
+          "questionKeywords": [
+            "Every plant"
+          ],
+          "passageKeywords": [
+            "Some plants"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "Every plant",
+              "passage": "Some plants",
+              "relationship": "CONTRADICTION"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "MISSED_QUALIFIER",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-gold-tfng-q4",
+        "order": 4,
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "question": "The plants that needed watering were more expensive.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "answer": "NOT GIVEN",
+        "acceptedAnswers": [],
+        "instructions": "Choose TRUE if supported, FALSE if contradicted, or NOT GIVEN if the information is insufficient.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Survival was recorded, but no relative prices are supplied. Neither higher nor lower prices can be established.",
+        "evidence": "The volunteers recorded survival, but did not compare the cost of different plant species.",
+        "paragraph": "C",
+        "trap": "A plant needing more care does not prove that it costs more.",
+        "tip": "Compare the full claim, including quantities and limits. Missing information is not a contradiction.",
+        "analysis": {
+          "keyEvidence": "did not compare the cost",
+          "questionKeywords": [
+            "more expensive"
+          ],
+          "passageKeywords": [
+            "did not compare the cost"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "more expensive",
+              "passage": "did not compare the cost",
+              "relationship": "NOT_STATED"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "OVERINFERENCE",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-gold-tfng-q5",
+        "order": 5,
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "question": "The meeting room became cooler after the roof was installed.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "answer": "NOT GIVEN",
+        "acceptedAnswers": [],
+        "instructions": "Choose TRUE if supported, FALSE if contradicted, or NOT GIVEN if the information is insufficient.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The text reports no measurement or other evidence of a temperature change in the room.",
+        "evidence": "Nor did they measure how the roof affected the meeting room beneath it.",
+        "paragraph": "C",
+        "trap": "Knowledge about typical green roofs cannot supply a missing result for this building.",
+        "tip": "Compare the full claim, including quantities and limits. Missing information is not a contradiction.",
+        "analysis": {
+          "keyEvidence": "did they measure",
+          "questionKeywords": [
+            "became cooler"
+          ],
+          "passageKeywords": [
+            "how the roof affected the meeting room"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "became cooler",
+              "passage": "how the roof affected the meeting room",
+              "relationship": "NOT_STATED"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "OVERINFERENCE",
+          "selectCount": 1,
+          "group": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "reading-gold-ynng",
+    "title": "Should every museum object be on display?",
+    "family": "YNNG",
+    "difficultyLevel": "DEVELOPING",
+    "passageNumberEquivalent": 3,
+    "topic": "Culture",
+    "content": "A museum store can look, from the outside, like a place where public resources disappear. Most objects are not in galleries, and visitors may reasonably wonder why. Several campaigners therefore argue that museums should display everything they own. The appeal of that demand is clear, but the demand itself mistakes visibility for access. An object can be exposed to view while remaining almost impossible to understand.\n\nA crowded case may contain many objects and communicate very little. Labels compete for attention, related items become hard to compare, and a visitor cannot tell which details matter. Selective display is not necessarily a failure of public responsibility. When selection is explained, it can make a collection more intelligible. Museums should disclose why particular objects were chosen and make information about stored objects easy to find.\n\nStorage also supports research. A small difference between two otherwise similar tools may interest a specialist even when it would be difficult to explain in a general exhibition. One museum reports that it photographs every new acquisition before placing it in storage. This procedure provides a record of appearance, but the report gives no comparison of the costs of photography and conventional written cataloguing.\n\nDigitisation offers another route into a collection. It should supplement opportunities to encounter objects, rather than automatically replace them. A photograph cannot reliably convey every aspect of scale, surface or weight. Equally, a screen may reveal a detail that gallery lighting conceals. Treating either form of access as universally superior would be unhelpful. The appropriate question is which combination serves a particular audience and purpose.",
+    "sourceType": "ORIGINAL",
+    "difficulty": "INTERMEDIATE",
+    "setNumber": 6,
+    "isFullMockPassage": false,
+    "timeLimitMinutes": 20,
+    "metadata": {
+      "purpose": "To argue for explained selection and complementary forms of museum access.",
+      "scanTarget": "Locate the procedure used for every new acquisition.",
+      "scanAnswer": "photographs",
+      "keyword": {
+        "prompt": "supplement",
+        "answer": "add to",
+        "options": [
+          "add to",
+          "make identical",
+          "remove from",
+          "replace entirely"
+        ],
+        "explanation": "To supplement something is to add to it, not to replace it."
+      }
+    },
+    "questions": [
+      {
+        "id": "reading-gold-ynng-q1",
+        "order": 1,
+        "type": "YES_NO_NOT_GIVEN",
+        "question": "Displaying every object necessarily gives the public meaningful access.",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ],
+        "answer": "NO",
+        "acceptedAnswers": [],
+        "instructions": "Choose YES if the statement agrees with the writer, NO if it contradicts the writer, or NOT GIVEN if the writer's position is not stated.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The writer rejects the equation of visibility with meaningful access.",
+        "evidence": "An object can be exposed to view while remaining almost impossible to understand.",
+        "paragraph": "A",
+        "trap": "The campaigners support total display; the writer does not.",
+        "tip": "Separate what a person reports from what the writer endorses. Do not invent the writer's opinion.",
+        "analysis": {
+          "keyEvidence": "almost impossible to understand",
+          "questionKeywords": [
+            "meaningful access"
+          ],
+          "passageKeywords": [
+            "understand"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "meaningful access",
+              "passage": "understand",
+              "relationship": "CONTRADICTION"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "YES_NO_CONFUSION",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-gold-ynng-q2",
+        "order": 2,
+        "type": "YES_NO_NOT_GIVEN",
+        "question": "Museums ought to explain their choices of displayed objects.",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ],
+        "answer": "YES",
+        "acceptedAnswers": [],
+        "instructions": "Choose YES if the statement agrees with the writer, NO if it contradicts the writer, or NOT GIVEN if the writer's position is not stated.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Should expresses the writer’s recommendation to explain selection.",
+        "evidence": "Museums should disclose why particular objects were chosen and make information about stored objects easy to find.",
+        "paragraph": "B",
+        "trap": "A report of existing museum practice would not alone establish a recommendation.",
+        "tip": "Separate what a person reports from what the writer endorses. Do not invent the writer's opinion.",
+        "analysis": {
+          "keyEvidence": "should disclose why",
+          "questionKeywords": [
+            "explain their choices"
+          ],
+          "passageKeywords": [
+            "disclose why particular objects were chosen"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "explain their choices",
+              "passage": "disclose why particular objects were chosen",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "OVERINFERENCE",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-gold-ynng-q3",
+        "order": 3,
+        "type": "YES_NO_NOT_GIVEN",
+        "question": "The writer considers photography cheaper than written cataloguing.",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ],
+        "answer": "NOT GIVEN",
+        "acceptedAnswers": [],
+        "instructions": "Choose YES if the statement agrees with the writer, NO if it contradicts the writer, or NOT GIVEN if the writer's position is not stated.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "A photographic procedure is described, but the writer makes no judgement about which method is cheaper.",
+        "evidence": "This procedure provides a record of appearance, but the report gives no comparison of the costs of photography and conventional written cataloguing.",
+        "paragraph": "C",
+        "trap": "A factual mention of photographs is not an opinion about their relative cost.",
+        "tip": "Separate what a person reports from what the writer endorses. Do not invent the writer's opinion.",
+        "analysis": {
+          "keyEvidence": "no comparison of the costs",
+          "questionKeywords": [
+            "cheaper"
+          ],
+          "passageKeywords": [
+            "no comparison of the costs"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "cheaper",
+              "passage": "no comparison of the costs",
+              "relationship": "NOT_STATED"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "OVERINFERENCE",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-gold-ynng-q4",
+        "order": 4,
+        "type": "YES_NO_NOT_GIVEN",
+        "question": "Digital access should be used alongside physical encounters with objects.",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ],
+        "answer": "YES",
+        "acceptedAnswers": [],
+        "instructions": "Choose YES if the statement agrees with the writer, NO if it contradicts the writer, or NOT GIVEN if the writer's position is not stated.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The writer advocates a complementary role, rather than replacement.",
+        "evidence": "It should supplement opportunities to encounter objects, rather than automatically replace them.",
+        "paragraph": "D",
+        "trap": "Do not interpret a benefit of screens as an endorsement of screens alone.",
+        "tip": "Separate what a person reports from what the writer endorses. Do not invent the writer's opinion.",
+        "analysis": {
+          "keyEvidence": "supplement",
+          "questionKeywords": [
+            "alongside"
+          ],
+          "passageKeywords": [
+            "supplement"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "alongside",
+              "passage": "supplement",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "OVERINFERENCE",
+          "selectCount": 1,
+          "group": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "reading-gold-headings",
+    "title": "The changing job of the public clock",
+    "family": "MATCHING",
+    "difficultyLevel": "DEVELOPING",
+    "passageNumberEquivalent": 2,
+    "topic": "History of technology",
+    "content": "Before precise personal timekeeping was common, a public clock gave a town a shared reference. Its most important service was not telling each person exactly how many seconds had passed. It allowed markets, meetings and collective duties to be organised around signals that many people could recognise. A bell could reach workers who could not see a clock face. Shared use mattered even when the mechanism was imperfect.\n\nAs long-distance travel became more regular, neighbouring towns could no longer treat their time signals as entirely local matters. A timetable connecting several places needed a consistent reference. Small differences that had once attracted little attention now caused confusion. The problem was organisational as much as mechanical: a more accurate clock in each town would not help unless the towns agreed what their clocks should show.\n\nPublic clocks remain visible even though many people carry a more precise device. Their faces can form part of a familiar skyline, and their bells can mark an occasion rather than a practical deadline. Restoring a clock may therefore be justified by its cultural role. To assess it only against the accuracy of a phone would miss the reason people wish to keep it.\n\nMaintenance presents a less romantic problem. A historic clock may need a specially made part, and few technicians may know the original mechanism. Replacing it with an electric unit simplifies upkeep but changes what is being preserved. Conservators must decide whether continuity of appearance is enough, or whether keeping the old mechanism working is itself an essential part of the project.",
+    "sourceType": "ORIGINAL",
+    "difficulty": "INTERMEDIATE",
+    "setNumber": 6,
+    "isFullMockPassage": false,
+    "timeLimitMinutes": 20,
+    "metadata": {
+      "purpose": "To trace changes in the functions and preservation of public clocks.",
+      "scanTarget": "Find the modern device used as a comparison for accuracy.",
+      "scanAnswer": "phone",
+      "keyword": {
+        "prompt": "a shared reference",
+        "answer": "a common standard",
+        "options": [
+          "a common standard",
+          "a hidden instruction",
+          "a private opinion",
+          "an unrelated example"
+        ],
+        "explanation": "Shared and common both describe something used together as a reference."
+      }
+    },
+    "questions": [
+      {
+        "id": "reading-gold-headings-q1",
+        "order": 1,
+        "type": "MATCHING_HEADINGS",
+        "question": "Choose the best heading for paragraph A.",
+        "options": [
+          "i. A shared signal for local coordination",
+          "ii. Why connected places needed agreement",
+          "iii. Cultural value beyond precise timekeeping",
+          "iv. A choice about what restoration should preserve",
+          "v. How bells became more accurate than clock faces",
+          "vi. The disappearance of all public clocks"
+        ],
+        "answer": "i",
+        "acceptedAnswers": [],
+        "instructions": "Choose one heading (i–vi) for each paragraph. There are two unused headings.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The paragraph explains the coordinating function of a common local signal.",
+        "evidence": "Shared use mattered even when the mechanism was imperfect.",
+        "paragraph": "A",
+        "trap": "A vivid example or repeated noun is not automatically the main idea.",
+        "tip": "Choose the purpose of the whole paragraph; a repeated word may be only a supporting detail.",
+        "analysis": {
+          "keyEvidence": "Shared use",
+          "questionKeywords": [
+            "paragraph purpose"
+          ],
+          "passageKeywords": [
+            "A shared signal for local coordination"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "paragraph purpose",
+              "passage": "A shared signal for local coordination",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "i": "The paragraph centres on coordinating town activities through a shared signal.",
+            "ii": "It mentions one town, not agreement across connected towns.",
+            "iii": "Heritage value is discussed later, not in this paragraph.",
+            "iv": "There is no restoration decision here.",
+            "v": "The bell extends reach; it is not claimed to be more accurate.",
+            "vi": "The paragraph describes a useful public clock, not its disappearance."
+          },
+          "mistakeType": "MATCHING_HEADING_ERROR",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-gold-headings-q2",
+        "order": 2,
+        "type": "MATCHING_HEADINGS",
+        "question": "Choose the best heading for paragraph B.",
+        "options": [
+          "i. A shared signal for local coordination",
+          "ii. Why connected places needed agreement",
+          "iii. Cultural value beyond precise timekeeping",
+          "iv. A choice about what restoration should preserve",
+          "v. How bells became more accurate than clock faces",
+          "vi. The disappearance of all public clocks"
+        ],
+        "answer": "ii",
+        "acceptedAnswers": [],
+        "instructions": "Choose one heading (i–vi) for each paragraph. There are two unused headings.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The paragraph explains why linked timetables require towns to agree on time.",
+        "evidence": "The problem was organisational as much as mechanical: a more accurate clock in each town would not help unless the towns agreed what their clocks should show.",
+        "paragraph": "B",
+        "trap": "A vivid example or repeated noun is not automatically the main idea.",
+        "tip": "Choose the purpose of the whole paragraph; a repeated word may be only a supporting detail.",
+        "analysis": {
+          "keyEvidence": "agreed",
+          "questionKeywords": [
+            "paragraph purpose"
+          ],
+          "passageKeywords": [
+            " Why connected places needed agreement"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "paragraph purpose",
+              "passage": " Why connected places needed agreement",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "i": "Local signals are background to the new problem of connecting places.",
+            "ii": "The main point is that connected timetables need an agreed reference.",
+            "iii": "The reason here is coordination, not heritage.",
+            "iv": "Restoration and old mechanisms are absent.",
+            "v": "No comparison of bells and faces appears.",
+            "vi": "Confusion about time does not mean public clocks disappeared."
+          },
+          "mistakeType": "MATCHING_HEADING_ERROR",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-gold-headings-q3",
+        "order": 3,
+        "type": "MATCHING_HEADINGS",
+        "question": "Choose the best heading for paragraph C.",
+        "options": [
+          "i. A shared signal for local coordination",
+          "ii. Why connected places needed agreement",
+          "iii. Cultural value beyond precise timekeeping",
+          "iv. A choice about what restoration should preserve",
+          "v. How bells became more accurate than clock faces",
+          "vi. The disappearance of all public clocks"
+        ],
+        "answer": "iii",
+        "acceptedAnswers": [],
+        "instructions": "Choose one heading (i–vi) for each paragraph. There are two unused headings.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The paragraph argues that clocks retain cultural value despite personal devices.",
+        "evidence": "To assess it only against the accuracy of a phone would miss the reason people wish to keep it.",
+        "paragraph": "C",
+        "trap": "A vivid example or repeated noun is not automatically the main idea.",
+        "tip": "Choose the purpose of the whole paragraph; a repeated word may be only a supporting detail.",
+        "analysis": {
+          "keyEvidence": "wish to keep",
+          "questionKeywords": [
+            "paragraph purpose"
+          ],
+          "passageKeywords": [
+            ". Cultural value beyond precise timekeeping"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "paragraph purpose",
+              "passage": ". Cultural value beyond precise timekeeping",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "i": "Collective scheduling is the earlier role, not this paragraph’s focus.",
+            "ii": "Agreement between towns is not discussed here.",
+            "iii": "Skyline, occasions and restoration show cultural value beyond precision.",
+            "iv": "The paragraph justifies preservation, but does not compare restoration methods.",
+            "v": "A bell marking an occasion is not a claim about better accuracy.",
+            "vi": "The opening says public clocks remain visible."
+          },
+          "mistakeType": "MATCHING_HEADING_ERROR",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-gold-headings-q4",
+        "order": 4,
+        "type": "MATCHING_HEADINGS",
+        "question": "Choose the best heading for paragraph D.",
+        "options": [
+          "i. A shared signal for local coordination",
+          "ii. Why connected places needed agreement",
+          "iii. Cultural value beyond precise timekeeping",
+          "iv. A choice about what restoration should preserve",
+          "v. How bells became more accurate than clock faces",
+          "vi. The disappearance of all public clocks"
+        ],
+        "answer": "iv",
+        "acceptedAnswers": [],
+        "instructions": "Choose one heading (i–vi) for each paragraph. There are two unused headings.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The paragraph compares preserving an appearance with preserving a working mechanism.",
+        "evidence": "Conservators must decide whether continuity of appearance is enough, or whether keeping the old mechanism working is itself an essential part of the project.",
+        "paragraph": "D",
+        "trap": "A vivid example or repeated noun is not automatically the main idea.",
+        "tip": "Choose the purpose of the whole paragraph; a repeated word may be only a supporting detail.",
+        "analysis": {
+          "keyEvidence": "essential part",
+          "questionKeywords": [
+            "paragraph purpose"
+          ],
+          "passageKeywords": [
+            " A choice about what restoration should preserve"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "paragraph purpose",
+              "passage": " A choice about what restoration should preserve",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "i": "Shared signals are not the subject of the maintenance decision.",
+            "ii": "There is no dispute over time between towns here.",
+            "iii": "Cultural value is background; the paragraph focuses on restoration choices.",
+            "iv": "Electric replacement versus keeping the mechanism defines what is preserved.",
+            "v": "Clock faces are mentioned as appearance, not as an accuracy comparison.",
+            "vi": "Scarce technicians make maintenance difficult, not all clocks extinct."
+          },
+          "mistakeType": "MATCHING_HEADING_ERROR",
+          "selectCount": 1,
+          "group": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "reading-gold-matching",
+    "title": "Three ways to study a travelling seed",
+    "family": "MATCHING",
+    "difficultyLevel": "EXAM",
+    "passageNumberEquivalent": 2,
+    "topic": "Biology",
+    "content": "A seed can travel far from its parent plant, but observing the journey is difficult. Three fictional field teams approach that difficulty differently. Team A attaches tiny numbered tags to large seeds and asks volunteers to report where the seeds are found. This approach can connect a recovered seed to an individual release point. It misses seeds that no one finds, so a map of reports is not a complete map of movement.\n\nTeam B places collectors at fixed distances from a stand of trees. The collectors catch seeds falling into their openings. Their positions are measured carefully, allowing comparisons between sampling locations. However, a seed blown across an opening without falling into it is not counted. The method records arrival in a small sampled area rather than every journey through that area.\n\nTeam C examines the inherited characteristics of seedlings that have already established themselves. By comparing them with nearby adult plants, the team can identify likely parents without watching seeds travel. This approach concerns successful establishment, not simply arrival. A seed that reached a site but failed to grow leaves no seedling for the researchers to examine.\n\nThese methods answer related but different questions. An apparent disagreement between their maps need not show that one team made a mistake. A map of volunteer discoveries, a map of captured arrivals and a map of established seedlings describe different filters on movement. Before comparing the maps, the reader must ask which part of the journey each method can actually observe.",
+    "sourceType": "ORIGINAL",
+    "difficulty": "INTERMEDIATE",
+    "setNumber": 11,
+    "isFullMockPassage": false,
+    "timeLimitMinutes": 20,
+    "metadata": {
+      "purpose": "To explain how seed-tracking methods observe different stages of movement.",
+      "scanTarget": "Find what Team B uses to catch falling seeds.",
+      "scanAnswer": "collectors",
+      "keyword": {
+        "prompt": "successful establishment",
+        "answer": "growth that has taken hold",
+        "options": [
+          "arrival without growth",
+          "discovery of a tag",
+          "growth that has taken hold",
+          "movement across an opening"
+        ],
+        "explanation": "Establishment here means that a seed has grown successfully, rather than merely arriving."
+      }
+    },
+    "questions": [
+      {
+        "id": "reading-gold-matching-q1",
+        "order": 1,
+        "type": "MATCHING_INFORMATION",
+        "question": "Which paragraph explains why different maps can all be valid?",
+        "options": [
+          "A. Paragraph A",
+          "B. Paragraph B",
+          "C. Paragraph C",
+          "D. Paragraph D"
+        ],
+        "answer": "D",
+        "acceptedAnswers": [],
+        "instructions": "Which paragraph contains the following information? Choose the correct letter, A–D.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Paragraph D reconciles the different maps by explaining the different filters.",
+        "evidence": "An apparent disagreement between their maps need not show that one team made a mistake.",
+        "paragraph": "D",
+        "trap": "Descriptions of individual equipment do not explain the overall disagreement.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "need not show",
+          "questionKeywords": [
+            "different maps can all be valid"
+          ],
+          "passageKeywords": [
+            "need not show that one team made a mistake"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "different maps can all be valid",
+              "passage": "need not show that one team made a mistake",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "A describes tags and missing discoveries, not a comparison of all three maps.",
+            "B": "B describes collectors only.",
+            "C": "C explains parent identification, not why maps disagree.",
+            "D": "D explicitly says disagreement need not indicate an error."
+          },
+          "mistakeType": "DISTRACTOR",
+          "selectCount": 1,
+          "group": "",
+          "matchingGroup": {
+            "id": "reading-gold-matching-information",
+            "optionsTitle": "Paragraphs",
+            "reuseAllowed": true
+          }
+        }
+      },
+      {
+        "id": "reading-gold-matching-q2",
+        "order": 2,
+        "type": "MATCHING_FEATURES",
+        "question": "Which team relies on reports from members of the public?",
+        "options": [
+          "A. Team A",
+          "B. Team B",
+          "C. Team C"
+        ],
+        "answer": "A",
+        "acceptedAnswers": [],
+        "instructions": "Choose the best option. Options may be used more than once unless stated otherwise.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Team A collects volunteer reports of tagged seeds.",
+        "evidence": "Team A attaches tiny numbered tags to large seeds and asks volunteers to report where the seeds are found.",
+        "paragraph": "A",
+        "trap": "All teams study movement, but only A uses public reports.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "asks volunteers to report",
+          "questionKeywords": [
+            "members of the public"
+          ],
+          "passageKeywords": [
+            "volunteers"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "members of the public",
+              "passage": "volunteers",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "Volunteers report finds to Team A.",
+            "B": "Team B uses fixed collectors rather than reports.",
+            "C": "Team C compares inherited characteristics."
+          },
+          "mistakeType": "DISTRACTOR",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-gold-matching-q3",
+        "order": 3,
+        "type": "MATCHING_FEATURES",
+        "question": "Which team studies only seeds that have successfully grown?",
+        "options": [
+          "A. Team A",
+          "B. Team B",
+          "C. Team C"
+        ],
+        "answer": "C",
+        "acceptedAnswers": [],
+        "instructions": "Choose the best option. Options may be used more than once unless stated otherwise.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The paragraph about Team C studies seedlings, excluding seeds that failed to grow.",
+        "evidence": "This approach concerns successful establishment, not simply arrival.",
+        "paragraph": "C",
+        "trap": "Arriving at a collector is not the same as becoming established.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "successful establishment",
+          "questionKeywords": [
+            "successfully grown"
+          ],
+          "passageKeywords": [
+            "successful establishment"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "successfully grown",
+              "passage": "successful establishment",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "A can recover a tagged seed whether or not it grows.",
+            "B": "B catches seeds before establishment is known.",
+            "C": "C examines established seedlings."
+          },
+          "mistakeType": "DISTRACTOR",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-gold-matching-q4",
+        "order": 4,
+        "type": "MATCHING_SENTENCE_ENDINGS",
+        "question": "A seed passing over a collector without falling in ...",
+        "options": [
+          "A. is automatically assigned a parent.",
+          "B. is omitted from the arrival count.",
+          "C. receives a numbered tag."
+        ],
+        "answer": "B",
+        "acceptedAnswers": [],
+        "instructions": "Choose the best option. Options may be used more than once unless stated otherwise.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Team B counts seeds captured inside the opening, not every seed passing overhead.",
+        "evidence": "However, a seed blown across an opening without falling into it is not counted.",
+        "paragraph": "B",
+        "trap": "The phrase across an opening is different from into it.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "is not counted",
+          "questionKeywords": [
+            "passing over"
+          ],
+          "passageKeywords": [
+            "blown across"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "passing over",
+              "passage": "blown across",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "Parent identification belongs to Team C and requires a seedling.",
+            "B": "The text explicitly says such a seed is not counted.",
+            "C": "Tags are used by Team A, not assigned by crossing a collector."
+          },
+          "mistakeType": "DISTRACTOR",
+          "selectCount": 1,
+          "group": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "reading-gold-completion",
+    "title": "Making a durable clay tile",
+    "family": "COMPLETION",
+    "difficultyLevel": "FOUNDATION",
+    "passageNumberEquivalent": 1,
+    "topic": "Materials",
+    "content": "A demonstration workshop makes small tiles from clay containing coarse fragments. First, the dry material passes through a sieve to remove stones. Water is then added gradually until the mixture can be pressed without cracking. Adding too much water makes the mixture easier to spread, but increases the amount that must later evaporate. The instructor therefore asks learners to record the quantity they add.\n\nEach portion is pressed into a wooden mould. A straight edge removes extra clay so that the upper surface is level. The tile remains in the mould briefly, then is lifted onto a drying rack. A label beside each tile identifies its batch. This makes it possible to compare tiles made with different quantities of water without relying on memory.\n\nThe drying rack is kept in shade. Direct heat can dry the outer surface before moisture has escaped from the centre, increasing the risk of cracks. Only after drying are the tiles placed in a kiln. Heating changes the material, so a fired tile does not simply turn back into workable clay when wetted. The finished tiles are inspected for cracks and compared with the records made during preparation.",
+    "sourceType": "ORIGINAL",
+    "difficulty": "FOUNDATION",
+    "setNumber": 1,
+    "isFullMockPassage": false,
+    "timeLimitMinutes": 20,
+    "metadata": {
+      "purpose": "To describe tile preparation and explain why controlled drying matters.",
+      "scanTarget": "Locate the device that heats the dried tiles.",
+      "scanAnswer": "kiln",
+      "keyword": {
+        "prompt": "increases the risk",
+        "answer": "makes the problem more likely",
+        "options": [
+          "makes the problem more likely",
+          "measures the problem’s size",
+          "prevents the problem",
+          "proves the problem is certain"
+        ],
+        "explanation": "An increased risk is greater likelihood, not certainty."
+      }
+    },
+    "questions": [
+      {
+        "id": "reading-gold-completion-q1",
+        "order": 1,
+        "type": "SENTENCE_COMPLETION",
+        "question": "Before water is added, stones are removed using a _____.",
+        "options": [],
+        "answer": "sieve",
+        "acceptedAnswers": [],
+        "instructions": "ONE WORD ONLY from the passage.",
+        "wordLimit": 1,
+        "numberAllowed": false,
+        "explanation": "The instrument after through a supplies the singular noun sieve.",
+        "evidence": "First, the dry material passes through a sieve to remove stones.",
+        "paragraph": "A",
+        "trap": "Do not write remove stones; the blank asks for equipment.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "a sieve",
+          "questionKeywords": [
+            "stones are removed"
+          ],
+          "passageKeywords": [
+            "remove stones"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "stones are removed",
+              "passage": "remove stones",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "GRAMMAR_FORM",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-gold-completion-q2",
+        "order": 2,
+        "type": "SUMMARY_COMPLETION",
+        "question": "Forming the tile: clay is pressed into a _____ before its surface is levelled.",
+        "options": [],
+        "answer": "wooden mould",
+        "acceptedAnswers": [
+          "mould"
+        ],
+        "instructions": "NO MORE THAN TWO WORDS from the passage.",
+        "wordLimit": 2,
+        "numberAllowed": false,
+        "explanation": "The material and object form the two-word noun phrase wooden mould.",
+        "evidence": "Each portion is pressed into a wooden mould.",
+        "paragraph": "B",
+        "trap": "The straight edge levels the surface but does not hold the tile.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "wooden mould",
+          "questionKeywords": [
+            "Forming"
+          ],
+          "passageKeywords": [
+            "pressed into"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "Forming",
+              "passage": "pressed into",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "GRAMMAR_FORM",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-gold-completion-q3",
+        "order": 3,
+        "type": "NOTE_COMPLETION",
+        "question": "Batch identification: a _____ is placed beside each tile.",
+        "options": [],
+        "answer": "label",
+        "acceptedAnswers": [],
+        "instructions": "ONE WORD ONLY from the passage.",
+        "wordLimit": 1,
+        "numberAllowed": false,
+        "explanation": "Label is the object recording the batch identity.",
+        "evidence": "A label beside each tile identifies its batch.",
+        "paragraph": "B",
+        "trap": "Batch is what the label identifies, not the object placed beside the tile.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "A label",
+          "questionKeywords": [
+            "Batch identification"
+          ],
+          "passageKeywords": [
+            "identifies its batch"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "Batch identification",
+              "passage": "identifies its batch",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "GRAMMAR_FORM",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-gold-completion-q4",
+        "order": 4,
+        "type": "TABLE_COMPLETION",
+        "question": "Complete the table: Stage = drying; location = in _____.",
+        "options": [],
+        "answer": "shade",
+        "acceptedAnswers": [],
+        "instructions": "ONE WORD ONLY from the passage.",
+        "wordLimit": 1,
+        "numberAllowed": false,
+        "explanation": "The preposition in is already supplied, so the answer is shade.",
+        "evidence": "The drying rack is kept in shade.",
+        "paragraph": "C",
+        "trap": "Including in again would duplicate the preposition and exceed the one-word limit.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "in shade",
+          "questionKeywords": [
+            "location"
+          ],
+          "passageKeywords": [
+            "kept in"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "location",
+              "passage": "kept in",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "GRAMMAR_FORM",
+          "selectCount": 1,
+          "group": "Stage | Location\nDrying | in _____"
+        }
+      },
+      {
+        "id": "reading-gold-completion-q5",
+        "order": 5,
+        "type": "FLOW_CHART_COMPLETION",
+        "question": "Complete the final stage: sieve → mould → dry → heat in a _____.",
+        "options": [],
+        "answer": "kiln",
+        "acceptedAnswers": [],
+        "instructions": "ONE WORD ONLY from the passage.",
+        "wordLimit": 1,
+        "numberAllowed": false,
+        "explanation": "The kiln follows drying. A drying rack belongs to the previous stage.",
+        "evidence": "Only after drying are the tiles placed in a kiln.",
+        "paragraph": "C",
+        "trap": "Do not confuse the rack with the heating equipment.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "after drying",
+          "questionKeywords": [
+            "heat"
+          ],
+          "passageKeywords": [
+            "kiln"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "heat",
+              "passage": "kiln",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "GRAMMAR_FORM",
+          "selectCount": 1,
+          "group": "Sieve → mould → dry → heat in a _____"
+        }
+      },
+      {
+        "id": "reading-gold-completion-q6",
+        "order": 6,
+        "type": "SUMMARY_COMPLETION",
+        "question": "Choose the word completing the summary: Uncontrolled drying increases the risk of _____.",
+        "options": [
+          "A. labels",
+          "B. cracks",
+          "C. stones",
+          "D. moulds"
+        ],
+        "answer": "B",
+        "acceptedAnswers": [],
+        "instructions": "Choose ONE letter from the list to complete the summary.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Uneven drying raises the risk of cracks; the other options concern different stages or objects.",
+        "evidence": "Direct heat can dry the outer surface before moisture has escaped from the centre, increasing the risk of cracks.",
+        "paragraph": "C",
+        "trap": "The gap requires the name of the defect, not equipment or identification.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "increasing the risk of cracks",
+          "questionKeywords": [
+            "Uncontrolled drying"
+          ],
+          "passageKeywords": [
+            "Direct heat"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "Uncontrolled drying",
+              "passage": "Direct heat",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "Labels identify batches, not drying damage.",
+            "B": "The text explicitly names cracks as the risk.",
+            "C": "Stones are removed before forming the tile.",
+            "D": "Moulds are equipment used before drying."
+          },
+          "mistakeType": "DISTRACTOR",
+          "selectCount": 1,
+          "group": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "reading-gold-mc",
+    "title": "When a quieter street is not an empty street",
+    "family": "MULTIPLE_CHOICE",
+    "difficultyLevel": "EXAM",
+    "passageNumberEquivalent": 2,
+    "topic": "Transport",
+    "content": "A fictional town tests a restriction on through traffic in one residential street. Residents and delivery vehicles may still enter. Automatic counters record fewer vehicles after the restriction begins, while a survey records more people saying that the street feels pleasant. These are encouraging observations, but they do not answer every question the council faces. In particular, a change inside one street may also affect routes beyond it.\n\nThe council therefore examines adjacent streets before deciding whether to extend the scheme. Some drivers may change their route rather than stop driving. Counting vehicles only in the restricted street could make a transfer of traffic appear to be a reduction across the whole district. The wider counts are intended to distinguish those possibilities. They are not designed to measure how visitors judge the appearance of the street.\n\nShopkeepers raise a different concern: fewer passing vehicles might mean fewer customers. To investigate, the council asks shops to record visits as well as deliveries. The two totals cannot be treated as interchangeable. A vehicle carrying stock supplies a shop, but it does not represent a shopping visit. Nor does a pedestrian necessarily enter a shop. The evidence needs to match the question being asked.\n\nA favourable result would still leave choices about street design. Removing through traffic does not by itself decide where trees, seating or loading spaces should go. The trial can inform a decision without settling every detail of it. The council’s report accordingly separates measured changes from proposals that have yet to be evaluated.",
+    "sourceType": "ORIGINAL",
+    "difficulty": "INTERMEDIATE",
+    "setNumber": 11,
+    "isFullMockPassage": false,
+    "timeLimitMinutes": 20,
+    "metadata": {
+      "purpose": "To explain why a street trial needs measurements matched to different questions.",
+      "scanTarget": "Find the two shop measures that must not be treated as interchangeable.",
+      "scanAnswer": "visits as well as deliveries",
+      "keyword": {
+        "prompt": "change their route",
+        "answer": "take a different path",
+        "options": [
+          "arrive at the same time",
+          "retain the same path",
+          "stop every journey",
+          "take a different path"
+        ],
+        "explanation": "A route change means using a different path; it does not imply abandoning the trip."
+      }
+    },
+    "questions": [
+      {
+        "id": "reading-gold-mc-q1",
+        "order": 1,
+        "type": "MULTIPLE_CHOICE",
+        "question": "Why does the council count vehicles on adjacent streets?",
+        "options": [
+          "A. To assess how attractive the street has become.",
+          "B. To distinguish traffic displacement from a wider reduction.",
+          "C. To calculate the number of shop deliveries.",
+          "D. To decide where every tree should be planted."
+        ],
+        "answer": "B",
+        "acceptedAnswers": [],
+        "instructions": "Choose the best option. Options may be used more than once unless stated otherwise.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The extra counts check whether traffic was displaced rather than removed from the district.",
+        "evidence": "Some drivers may change their route rather than stop driving.",
+        "paragraph": "B",
+        "trap": "A pleasant street is reported, but appearance is not the purpose of these counters.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "change their route",
+          "questionKeywords": [
+            "adjacent streets"
+          ],
+          "passageKeywords": [
+            "change their route"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "adjacent streets",
+              "passage": "change their route",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "Appearance is explicitly excluded from the purpose of the wider counts.",
+            "B": "A route change could reduce the local count without reducing district traffic.",
+            "C": "Delivery records are collected separately from shopkeepers.",
+            "D": "Tree placement remains a design choice the trial does not settle."
+          },
+          "mistakeType": "DISTRACTOR",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-gold-mc-q2",
+        "order": 2,
+        "type": "MULTIPLE_ANSWER",
+        "question": "Which TWO conclusions are supported by the passage?",
+        "options": [
+          "A. Residents retain access to the restricted street.",
+          "B. Every driver in the district has stopped using a car.",
+          "C. Further design decisions remain after the trial.",
+          "D. Each delivery represents a shopping visit."
+        ],
+        "answer": "A,C",
+        "acceptedAnswers": [],
+        "instructions": "Choose TWO letters. Each correct selection earns one mark; extra selections earn no marks.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "A is supported by the opening access rule; C follows from the final paragraph. Neither all driving nor every design choice is resolved.",
+        "evidence": "The trial can inform a decision without settling every detail of it.",
+        "paragraph": "D",
+        "trap": "Combine two supported conclusions; do not choose a third merely because it sounds beneficial.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "without settling every detail",
+          "questionKeywords": [
+            "inform a decision"
+          ],
+          "passageKeywords": [
+            "without settling every detail"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "inform a decision",
+              "passage": "without settling every detail",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "Paragraph A explicitly retains access for residents.",
+            "B": "Paragraph B allows for drivers simply changing routes.",
+            "C": "Paragraph D leaves tree, seating and loading arrangements undecided.",
+            "D": "Paragraph C explicitly separates deliveries from shopping visits."
+          },
+          "mistakeType": "DISTRACTOR",
+          "selectCount": 2,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-gold-mc-q3",
+        "order": 3,
+        "type": "MULTIPLE_CHOICE",
+        "question": "What is the main lesson about measuring shop activity?",
+        "options": [
+          "A. Delivery totals are always larger than visitor totals.",
+          "B. Every pedestrian becomes a customer.",
+          "C. Traffic counts alone settle the economic question.",
+          "D. Distinct activities need distinct measurements."
+        ],
+        "answer": "D",
+        "acceptedAnswers": [],
+        "instructions": "Choose the best option. Options may be used more than once unless stated otherwise.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Different measurements answer different questions: deliveries are not customer visits.",
+        "evidence": "The evidence needs to match the question being asked.",
+        "paragraph": "C",
+        "trap": "A measurement can be accurate yet irrelevant to the intended question.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "match the question",
+          "questionKeywords": [
+            "measuring shop activity"
+          ],
+          "passageKeywords": [
+            "evidence needs to match"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "measuring shop activity",
+              "passage": "evidence needs to match",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "No relative totals are given.",
+            "B": "The writer explicitly says pedestrians need not enter a shop.",
+            "C": "The council collects shop records because street traffic alone is insufficient.",
+            "D": "The examples distinguish stock deliveries, pedestrians and shopping visits."
+          },
+          "mistakeType": "DISTRACTOR",
+          "selectCount": 1,
+          "group": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "reading-gold-diagram",
+    "title": "A simple rainwater filter",
+    "family": "SHORT_DIAGRAM",
+    "difficultyLevel": "DEVELOPING",
+    "passageNumberEquivalent": 1,
+    "topic": "Engineering",
+    "content": "The following teaching model demonstrates filtration; its output is not presented as safe drinking water. Rainwater enters a covered container through an inlet pipe. A removable screen immediately below the inlet catches leaves. Beneath the screen is a layer of gravel, which spreads the incoming water across the next layer rather than allowing one narrow stream to cut through it.\n\nBelow the gravel, sand traps smaller suspended particles. A support plate holds the sand above an empty collection chamber. The water leaves that chamber through an outlet pipe near the base of the container. The sequence is therefore screen, gravel, sand, support plate and collection chamber. Each component performs a different job; substituting one name for another would misdescribe the design.\n\nThe model is maintained by removing accumulated material from the screen and inspecting the sand. Clear-looking water can still contain substances that this arrangement does not remove. The demonstration is useful because the path of the water and the position of each layer can be observed, not because it establishes a complete treatment system.",
+    "sourceType": "ORIGINAL",
+    "difficulty": "INTERMEDIATE",
+    "setNumber": 6,
+    "isFullMockPassage": false,
+    "timeLimitMinutes": 20,
+    "metadata": {
+      "purpose": "To explain the arrangement and limits of a demonstration water filter.",
+      "scanTarget": "Find the component supporting the sand.",
+      "scanAnswer": "support plate",
+      "keyword": {
+        "prompt": "traps smaller suspended particles",
+        "answer": "catches small material carried in water",
+        "options": [
+          "adds large stones",
+          "catches small material carried in water",
+          "dissolves every substance",
+          "heats the incoming water"
+        ],
+        "explanation": "Traps means catches; suspended particles are small pieces carried in the water."
+      }
+    },
+    "questions": [
+      {
+        "id": "reading-gold-diagram-q1",
+        "order": 1,
+        "type": "SHORT_ANSWER",
+        "question": "Which removable component catches leaves?",
+        "options": [],
+        "answer": "screen",
+        "acceptedAnswers": [],
+        "instructions": "ONE WORD ONLY from the passage.",
+        "wordLimit": 1,
+        "numberAllowed": false,
+        "explanation": "Screen names the removable component; inlet pipe names the component above it.",
+        "evidence": "A removable screen immediately below the inlet catches leaves.",
+        "paragraph": "A",
+        "trap": "Use the object doing the catching, not the nearby pipe.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "removable screen",
+          "questionKeywords": [
+            "catches leaves"
+          ],
+          "passageKeywords": [
+            "screen"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "catches leaves",
+              "passage": "screen",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "GRAMMAR_FORM",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-gold-diagram-q2",
+        "order": 2,
+        "type": "DIAGRAM_LABEL",
+        "question": "Label the missing layer in the cross-section.",
+        "options": [],
+        "answer": "sand",
+        "acceptedAnswers": [],
+        "instructions": "ONE WORD ONLY from the passage.",
+        "wordLimit": 1,
+        "numberAllowed": false,
+        "explanation": "The blank lies below gravel and above the support plate, so it is sand.",
+        "evidence": "Below the gravel, sand traps smaller suspended particles.",
+        "paragraph": "B",
+        "trap": "Gravel spreads flow; sand catches smaller suspended particles.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "sand traps",
+          "questionKeywords": [
+            "missing layer below gravel"
+          ],
+          "passageKeywords": [
+            "Below the gravel"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "missing layer below gravel",
+              "passage": "Below the gravel",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "GRAMMAR_FORM",
+          "selectCount": 1,
+          "group": "",
+          "diagram": {
+            "title": "Filter cross-section — water flows down",
+            "stages": [
+              "Inlet and screen",
+              "Gravel",
+              "?",
+              "Support plate",
+              "Collection chamber"
+            ],
+            "blank": 2
+          }
+        }
+      },
+      {
+        "id": "reading-gold-diagram-q3",
+        "order": 3,
+        "type": "SHORT_ANSWER",
+        "question": "Through what does water leave the collection chamber?",
+        "options": [],
+        "answer": "outlet pipe",
+        "acceptedAnswers": [],
+        "instructions": "NO MORE THAN TWO WORDS from the passage.",
+        "wordLimit": 2,
+        "numberAllowed": false,
+        "explanation": "The two-word phrase identifies the exit route.",
+        "evidence": "The water leaves that chamber through an outlet pipe near the base of the container.",
+        "paragraph": "B",
+        "trap": "The inlet pipe is where water enters, so inlet reverses the direction.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "outlet pipe",
+          "questionKeywords": [
+            "leave"
+          ],
+          "passageKeywords": [
+            "outlet"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "leave",
+              "passage": "outlet",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "GRAMMAR_FORM",
+          "selectCount": 1,
+          "group": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "reading-gold-mixed",
+    "title": "The work beneath a restored river",
+    "family": "MIXED",
+    "difficultyLevel": "EXAM",
+    "passageNumberEquivalent": 2,
+    "topic": "Environment",
+    "content": "A river restoration project is often introduced through a pair of photographs: a straight channel before the work and a winding stream afterwards. The contrast is easy to understand, but it can obscure the reasoning behind the change. In this fictional valley project, engineers and ecologists began by examining how water, sediment and living organisms moved through the channel. They did not assume that a winding outline would automatically produce a healthy river. A restored shape could only be useful if it suited the material through which the river flowed and the pressures on the surrounding land. The visible channel was one part of a larger system.\n\nThe original channel had been straightened to move water quickly away from farmland. Its banks were steep, and floodwater rarely spread into the adjoining low ground. That arrangement worked reasonably well for draining individual fields, yet it left little room for water during sustained rainfall. Increasing the speed of flow in one reach could also transfer a problem downstream. The restoration team therefore proposed reconnecting the river with a limited area of its former floodplain. The proposal did not remove the possibility of flooding; it changed where some water could temporarily be held. Landowners needed that distinction explained before they could assess the plan.\n\nSediment presented a separate challenge. Water carries particles of different sizes, and a change in flow can change where they settle. The team placed marked stones on the riverbed and recorded their positions after high flows. Some stones moved only a short distance, while others left the surveyed reach. These observations did not track every grain in the river. They offered a practical indication of movement at selected locations. Treating the stones as a complete account of sediment transport would have given the measurements a precision they did not possess.\n\nChanges to the banks were intended to create varied conditions. Sheltered edges could provide places for young fish, while areas of faster water might favour different organisms. A single count immediately after construction could not show whether such habitats would persist. The team planned repeated surveys across several seasons, including periods of low flow. Construction disturbed the channel, so an early decline in visible organisms would not necessarily establish a long-term failure. Equally, an early increase would not prove that all the project’s ecological aims had been met.\n\nPublic access raised questions that ecological measurements alone could not answer. Some residents wanted a continuous path beside the water. Others valued the quiet of places that were difficult to reach. Rather than treating one preference as the inevitable result of restoration, planners separated access decisions from measurements of channel function. A short path was proposed along the village reach, with other sections left without a formal route. The consultation recorded reasons as well as totals, because the same vote could reflect concerns about safety, disturbance or convenience. Counting supporters without understanding their concerns would have concealed useful differences.\n\nMonitoring was designed to distinguish several kinds of success. Water-level records would describe how the reconnected floodplain behaved during storms. Repeated habitat surveys would test whether varied conditions remained available. Interviews would explore how residents used and understood the changed place. None of these measures could substitute completely for the others. A popular path could coexist with disappointing habitat results; an ecologically varied reach could still cause problems for neighbouring land. The team’s report therefore kept the measures separate instead of compressing them into a single attractive score.\n\nThe project illustrates why restoration is better understood as a testable set of decisions than as a return to a perfect past. Historical maps helped identify former channels, but they could not specify an arrangement suited to every present demand. Roads, buildings and land uses had changed. The most defensible claim was that the new design addressed certain documented problems and would be monitored for unintended effects. That is a more limited promise than recovering an original river, but it provides a clearer basis for deciding what to maintain, modify or abandon.",
+    "sourceType": "ORIGINAL",
+    "difficulty": "INTERMEDIATE",
+    "setNumber": 11,
+    "isFullMockPassage": false,
+    "timeLimitMinutes": 20,
+    "metadata": {
+      "purpose": "To explain why river restoration needs several distinct measures of success.",
+      "scanTarget": "Find the objects used to indicate riverbed movement.",
+      "scanAnswer": "marked stones",
+      "keyword": {
+        "prompt": "could not substitute completely",
+        "answer": "could not fully replace",
+        "options": [
+          "could always duplicate",
+          "could not fully replace",
+          "could not measure anything",
+          "could remove every difference"
+        ],
+        "explanation": "Substitute and replace express the same relationship; completely corresponds to fully."
+      }
+    },
+    "questions": [
+      {
+        "id": "reading-gold-mixed-q1",
+        "order": 1,
+        "type": "MATCHING_HEADINGS",
+        "question": "Which heading best fits paragraph B?",
+        "options": [
+          "A. Explaining the original drainage trade-off",
+          "B. Tracking movement without claiming complete coverage",
+          "C. Reconciling different preferences for access",
+          "D. Returning every river to an unchanged past"
+        ],
+        "answer": "A",
+        "acceptedAnswers": [],
+        "instructions": "Choose the best option. Options may be used more than once unless stated otherwise.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Paragraph B explains the drainage benefit and flood-management trade-off behind reconnecting the floodplain.",
+        "evidence": "The proposal did not remove the possibility of flooding; it changed where some water could temporarily be held.",
+        "paragraph": "B",
+        "trap": "The word restoration does not imply an unchanged past.",
+        "tip": "Choose the purpose of the whole paragraph; a repeated word may be only a supporting detail.",
+        "analysis": {
+          "keyEvidence": "changed where some water",
+          "questionKeywords": [
+            "drainage trade-off"
+          ],
+          "passageKeywords": [
+            "changed where some water"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "drainage trade-off",
+              "passage": "changed where some water",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "B weighs field drainage against where floodwater can be held.",
+            "B": "Marked stones and measurement coverage are the focus of C.",
+            "C": "Access preferences appear in E.",
+            "D": "B proposes a limited reconnection, not a complete return to the past."
+          },
+          "mistakeType": "MATCHING_HEADING_ERROR",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-gold-mixed-q2",
+        "order": 2,
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "question": "All marked stones stayed inside the surveyed reach.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "answer": "FALSE",
+        "acceptedAnswers": [],
+        "instructions": "Choose TRUE if supported, FALSE if contradicted, or NOT GIVEN if the information is insufficient.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Others explicitly left the surveyed area, contradicting all stayed.",
+        "evidence": "Some stones moved only a short distance, while others left the surveyed reach.",
+        "paragraph": "C",
+        "trap": "The opening reference to short movements does not apply to every stone.",
+        "tip": "Compare the full claim, including quantities and limits. Missing information is not a contradiction.",
+        "analysis": {
+          "keyEvidence": "others left",
+          "questionKeywords": [
+            "All stayed"
+          ],
+          "passageKeywords": [
+            "others left"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "All stayed",
+              "passage": "others left",
+              "relationship": "CONTRADICTION"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "MISSED_QUALIFIER",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-gold-mixed-q3",
+        "order": 3,
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "question": "An immediate increase in organisms would establish that every ecological aim had been achieved.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "answer": "FALSE",
+        "acceptedAnswers": [],
+        "instructions": "Choose TRUE if supported, FALSE if contradicted, or NOT GIVEN if the information is insufficient.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The passage explicitly denies the sufficiency of an early increase.",
+        "evidence": "Equally, an early increase would not prove that all the project’s ecological aims had been met.",
+        "paragraph": "D",
+        "trap": "A positive observation is not proof of every aim.",
+        "tip": "Compare the full claim, including quantities and limits. Missing information is not a contradiction.",
+        "analysis": {
+          "keyEvidence": "would not prove",
+          "questionKeywords": [
+            "would establish"
+          ],
+          "passageKeywords": [
+            "would not prove"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "would establish",
+              "passage": "would not prove",
+              "relationship": "CONTRADICTION"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "MISSED_NEGATIVE",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-gold-mixed-q4",
+        "order": 4,
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "question": "Most village residents preferred a continuous riverside path.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "answer": "NOT GIVEN",
+        "acceptedAnswers": [],
+        "instructions": "Choose TRUE if supported, FALSE if contradicted, or NOT GIVEN if the information is insufficient.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The text identifies two preferences but supplies no proportions. Some cannot establish most.",
+        "evidence": "Some residents wanted a continuous path beside the water. Others valued the quiet of places that were difficult to reach.",
+        "paragraph": "E",
+        "trap": "Do not infer the majority from which preference is mentioned first.",
+        "tip": "Compare the full claim, including quantities and limits. Missing information is not a contradiction.",
+        "analysis": {
+          "keyEvidence": "Some residents",
+          "questionKeywords": [
+            "Most"
+          ],
+          "passageKeywords": [
+            "Some"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "Most",
+              "passage": "Some",
+              "relationship": "NOT_STATED"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "OVERINFERENCE",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-gold-mixed-q5",
+        "order": 5,
+        "type": "SUMMARY_COMPLETION",
+        "question": "During storms, _____ would describe the behaviour of the reconnected floodplain.",
+        "options": [],
+        "answer": "water-level records",
+        "acceptedAnswers": [],
+        "instructions": "NO MORE THAN TWO WORDS from the passage.",
+        "wordLimit": 2,
+        "numberAllowed": false,
+        "explanation": "The hyphenated adjective and noun make the two-word answer water-level records.",
+        "evidence": "Water-level records would describe how the reconnected floodplain behaved during storms.",
+        "paragraph": "F",
+        "trap": "Habitat surveys measure ecological conditions rather than water behaviour during storms.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "Water-level records",
+          "questionKeywords": [
+            "behaviour"
+          ],
+          "passageKeywords": [
+            "behaved"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "behaviour",
+              "passage": "behaved",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "GRAMMAR_FORM",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-gold-mixed-q6",
+        "order": 6,
+        "type": "SUMMARY_COMPLETION",
+        "question": "Residents’ experiences would be explored through _____.",
+        "options": [],
+        "answer": "interviews",
+        "acceptedAnswers": [],
+        "instructions": "ONE WORD ONLY from the passage.",
+        "wordLimit": 1,
+        "numberAllowed": false,
+        "explanation": "Interviews examine residents’ uses and understanding.",
+        "evidence": "Interviews would explore how residents used and understood the changed place.",
+        "paragraph": "F",
+        "trap": "Do not substitute measurements of water level for people’s experiences.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "Interviews",
+          "questionKeywords": [
+            "experiences"
+          ],
+          "passageKeywords": [
+            "used and understood"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "experiences",
+              "passage": "used and understood",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "GRAMMAR_FORM",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-gold-mixed-q7",
+        "order": 7,
+        "type": "MULTIPLE_CHOICE",
+        "question": "Why did the team avoid a single overall success score?",
+        "options": [
+          "A. No numerical measurements could be collected.",
+          "B. Residents opposed all forms of monitoring.",
+          "C. Distinct outcomes could not fully stand in for each other.",
+          "D. Historical maps supplied a sufficient score already."
+        ],
+        "answer": "C",
+        "acceptedAnswers": [],
+        "instructions": "Choose the best option. Options may be used more than once unless stated otherwise.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Different outcomes could move in different directions; one score would hide those differences.",
+        "evidence": "None of these measures could substitute completely for the others.",
+        "paragraph": "F",
+        "trap": "The passage does not say that numerical records are impossible.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "substitute completely",
+          "questionKeywords": [
+            "single overall score"
+          ],
+          "passageKeywords": [
+            "None of these measures could substitute"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "single overall score",
+              "passage": "None of these measures could substitute",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "Water-level records and surveys are explicitly planned.",
+            "B": "Residents have access preferences, not a stated objection to all monitoring.",
+            "C": "F explains that popularity, habitat and neighbouring land can show different results.",
+            "D": "G says maps cannot specify a design for every present demand."
+          },
+          "mistakeType": "DISTRACTOR",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-gold-mixed-q8",
+        "order": 8,
+        "type": "SHORT_ANSWER",
+        "question": "What helped identify the river’s former channels?",
+        "options": [],
+        "answer": "historical maps",
+        "acceptedAnswers": [],
+        "instructions": "NO MORE THAN TWO WORDS from the passage.",
+        "wordLimit": 2,
+        "numberAllowed": false,
+        "explanation": "The maps identify past channels while leaving current design choices open.",
+        "evidence": "Historical maps helped identify former channels, but they could not specify an arrangement suited to every present demand.",
+        "paragraph": "G",
+        "trap": "Copy only the identifying resource, not the whole sentence.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "Historical maps",
+          "questionKeywords": [
+            "former channels"
+          ],
+          "passageKeywords": [
+            "Historical maps"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "former channels",
+              "passage": "Historical maps",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "GRAMMAR_FORM",
+          "selectCount": 1,
+          "group": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "reading-mock-01-p1",
+    "title": "What a seed library lends",
+    "family": "MIXED",
+    "difficultyLevel": "EXAM",
+    "passageNumberEquivalent": 1,
+    "topic": "Agriculture",
+    "content": "A library normally expects the item it lends to be returned. A community seed library works differently. Gardeners take a small packet, grow the plants and, where practical, bring back newly harvested seed. The original seed cannot be returned because it has become a plant. This distinction makes the scheme more than a borrowing service with unusual stock. The library must help people understand a cycle of growing, selecting, collecting and storing. The following account describes a fictional community scheme and the decisions involved in keeping it useful. It is not a claim that every crop can be saved in the same way or that every gardener will obtain the same result.\n\nThe organisers began with a collection of donated packets. Some carried careful notes about the parent plants, while others had only a common name written on the envelope. An attractive name did not establish where the seed had come from or how it had been handled. The first task was therefore to create a consistent record. Each accepted packet received a batch number, and its donor was asked to record the year of harvest. The scheme kept the donor’s description separate from characteristics that volunteers later observed. This distinction prevented an enthusiastic claim about a plant from acquiring the appearance of an independently checked result merely by being copied into a catalogue.\n\nStorage was another concern. Seeds remain living material even when no visible growth is taking place. For the kinds selected by this project, warm and damp conditions could shorten useful storage life. Volunteers placed dried seed in paper envelopes and kept the envelopes in sealed boxes in a cool room. They inspected the boxes regularly for signs of moisture. The project did not attempt to store every type of seed: some plants produce seeds that tolerate drying poorly, and those required arrangements beyond the group’s resources. Selecting manageable material was a practical limit on the project, rather than evidence that excluded plants lacked value.\n\nBefore distribution, volunteers checked a sample from each batch. They placed the sample on moist paper and counted how many seeds germinated over an agreed observation period. A high result was useful, but it did not guarantee that every seed would grow in an outdoor garden. The test described one sample under particular conditions. Soil, weather, planting depth and later care would differ among gardeners. The packet therefore showed the test result and its date rather than promising a harvest. If few sampled seeds germinated, the batch could be retested or withheld. Simply filling more envelopes would not solve a problem with the material inside them.\n\nThe return stage was more difficult than the distribution stage. Some crops release their seed after a part of the plant that gardeners would normally eat has been left to mature. Saving seed may therefore require leaving a few plants unharvested. Other crops can cross with nearby plants, so the next generation may differ from the parent that the gardener admired. The library offered crop-specific notes and encouraged new participants to begin with a small number of suitable varieties. It did not require every borrower to return seed. A failed crop could provide a useful observation, and a gardener without space for seed production could still learn from the scheme.\n\nReports from participants gradually improved the catalogue. A description such as performed well was less useful than a note specifying the growing conditions and the feature observed. One gardener might value early maturity; another might be interested in flavour or the ability to remain productive during a dry period. The organisers asked contributors to record what they meant rather than combining these preferences into a single ranking. Reports from different gardens were not treated as a controlled experiment. They could suggest questions worth investigating without proving that one variety was universally superior. Keeping the context attached to a report made the information more useful to the next person reading it.\n\nThe scheme also changed the role of the volunteers. Counting packets was straightforward, but it gave only a partial picture of what had been achieved. A packet taken from a shelf might never be planted; a single successful planting might teach someone a skill they used for years. The group therefore tracked participation in workshops as well as the movement of seed. It kept those records separate, recognising that distribution and learning were related outcomes rather than identical ones. Its most realistic ambition was to make growing knowledge and suitable plant material easier to share. That aim was more demanding, and more informative, than trying to maximise the number of envelopes handed out.",
+    "sourceType": "ORIGINAL",
+    "difficulty": "INTERMEDIATE",
+    "setNumber": 1,
+    "isFullMockPassage": true,
+    "timeLimitMinutes": 20,
+    "metadata": {
+      "purpose": "To explain the practical and informational work required by a community seed library.",
+      "scanTarget": "Find the identifier assigned to each accepted packet.",
+      "scanAnswer": "batch number"
+    },
+    "questions": [
+      {
+        "id": "reading-mock-01-p1-q1",
+        "order": 1,
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "question": "Borrowers return the same physical seeds that they originally took.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "answer": "FALSE",
+        "acceptedAnswers": [],
+        "instructions": "Choose TRUE if supported, FALSE if contradicted, or NOT GIVEN if the information is insufficient.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The return consists of newly harvested seed, not the original physical seed.",
+        "evidence": "The original seed cannot be returned because it has become a plant.",
+        "paragraph": "A",
+        "trap": "The ordinary meaning of lending is explicitly modified here.",
+        "tip": "Compare the full claim, including quantities and limits. Missing information is not a contradiction.",
+        "analysis": {
+          "keyEvidence": "cannot be returned",
+          "questionKeywords": [
+            "same physical seeds"
+          ],
+          "passageKeywords": [
+            "cannot be returned"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "same physical seeds",
+              "passage": "cannot be returned",
+              "relationship": "CONTRADICTION"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "OVERINFERENCE",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p1-q2",
+        "order": 2,
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "question": "Every donated packet initially included a detailed history.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "answer": "FALSE",
+        "acceptedAnswers": [],
+        "instructions": "Choose TRUE if supported, FALSE if contradicted, or NOT GIVEN if the information is insufficient.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Only some packets had careful notes; others lacked that detail.",
+        "evidence": "Some carried careful notes about the parent plants, while others had only a common name written on the envelope.",
+        "paragraph": "B",
+        "trap": "Some cannot be extended to every packet.",
+        "tip": "Compare the full claim, including quantities and limits. Missing information is not a contradiction.",
+        "analysis": {
+          "keyEvidence": "others had only a common name",
+          "questionKeywords": [
+            "Every"
+          ],
+          "passageKeywords": [
+            "Some"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "Every",
+              "passage": "Some",
+              "relationship": "CONTRADICTION"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "MISSED_QUALIFIER",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p1-q3",
+        "order": 3,
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "question": "The library stored every type of seed offered to it.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "answer": "FALSE",
+        "acceptedAnswers": [],
+        "instructions": "Choose TRUE if supported, FALSE if contradicted, or NOT GIVEN if the information is insufficient.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The project explicitly limited which kinds it stored.",
+        "evidence": "The project did not attempt to store every type of seed: some plants produce seeds that tolerate drying poorly, and those required arrangements beyond the group’s resources.",
+        "paragraph": "C",
+        "trap": "A storage method suited to selected kinds does not apply to all kinds.",
+        "tip": "Compare the full claim, including quantities and limits. Missing information is not a contradiction.",
+        "analysis": {
+          "keyEvidence": "did not attempt to store every type",
+          "questionKeywords": [
+            "every type"
+          ],
+          "passageKeywords": [
+            "did not attempt"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "every type",
+              "passage": "did not attempt",
+              "relationship": "CONTRADICTION"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "MISSED_NEGATIVE",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p1-q4",
+        "order": 4,
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "question": "Most borrowers already had experience of collecting seed.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "answer": "NOT GIVEN",
+        "acceptedAnswers": [],
+        "instructions": "Choose TRUE if supported, FALSE if contradicted, or NOT GIVEN if the information is insufficient.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "New participants are mentioned, but their share of all borrowers and their previous experience are not given.",
+        "evidence": "The library offered crop-specific notes and encouraged new participants to begin with a small number of suitable varieties.",
+        "paragraph": "E",
+        "trap": "The existence of guidance does not establish how experienced most borrowers were.",
+        "tip": "Compare the full claim, including quantities and limits. Missing information is not a contradiction.",
+        "analysis": {
+          "keyEvidence": "new participants",
+          "questionKeywords": [
+            "Most borrowers"
+          ],
+          "passageKeywords": [
+            "new participants"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "Most borrowers",
+              "passage": "new participants",
+              "relationship": "NOT_STATED"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "OVERINFERENCE",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p1-q5",
+        "order": 5,
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "question": "Returning seed was compulsory for every borrower.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "answer": "FALSE",
+        "acceptedAnswers": [],
+        "instructions": "Choose TRUE if supported, FALSE if contradicted, or NOT GIVEN if the information is insufficient.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The sentence directly rejects a universal return requirement.",
+        "evidence": "It did not require every borrower to return seed.",
+        "paragraph": "E",
+        "trap": "An encouraged activity is not necessarily compulsory.",
+        "tip": "Compare the full claim, including quantities and limits. Missing information is not a contradiction.",
+        "analysis": {
+          "keyEvidence": "did not require",
+          "questionKeywords": [
+            "compulsory"
+          ],
+          "passageKeywords": [
+            "did not require"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "compulsory",
+              "passage": "did not require",
+              "relationship": "CONTRADICTION"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "MISSED_NEGATIVE",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p1-q6",
+        "order": 6,
+        "type": "SENTENCE_COMPLETION",
+        "question": "Each accepted packet was assigned a _____.",
+        "options": [],
+        "answer": "batch number",
+        "acceptedAnswers": [],
+        "instructions": "NO MORE THAN TWO WORDS from the passage.",
+        "wordLimit": 2,
+        "numberAllowed": false,
+        "explanation": "The assigned identifier is a batch number.",
+        "evidence": "Each accepted packet received a batch number, and its donor was asked to record the year of harvest.",
+        "paragraph": "B",
+        "trap": "The year of harvest is a separate requested detail.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "batch number",
+          "questionKeywords": [
+            "assigned"
+          ],
+          "passageKeywords": [
+            "received"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "assigned",
+              "passage": "received",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "GRAMMAR_FORM",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p1-q7",
+        "order": 7,
+        "type": "NOTE_COMPLETION",
+        "question": "Storage location: sealed boxes in a _____.",
+        "options": [],
+        "answer": "cool room",
+        "acceptedAnswers": [],
+        "instructions": "NO MORE THAN TWO WORDS from the passage.",
+        "wordLimit": 2,
+        "numberAllowed": false,
+        "explanation": "Cool room is the location containing the sealed boxes.",
+        "evidence": "Volunteers placed dried seed in paper envelopes and kept the envelopes in sealed boxes in a cool room.",
+        "paragraph": "C",
+        "trap": "Paper envelopes are packaging inside the boxes, not the requested room.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "cool room",
+          "questionKeywords": [
+            "Storage location"
+          ],
+          "passageKeywords": [
+            "in a cool room"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "Storage location",
+              "passage": "in a cool room",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "GRAMMAR_FORM",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p1-q8",
+        "order": 8,
+        "type": "TABLE_COMPLETION",
+        "question": "Germination check | sample placed on | _____.",
+        "options": [],
+        "answer": "moist paper",
+        "acceptedAnswers": [],
+        "instructions": "NO MORE THAN TWO WORDS from the passage.",
+        "wordLimit": 2,
+        "numberAllowed": false,
+        "explanation": "The supporting material for the sample is moist paper.",
+        "evidence": "They placed the sample on moist paper and counted how many seeds germinated over an agreed observation period.",
+        "paragraph": "D",
+        "trap": "The observation period describes time rather than the test surface.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "moist paper",
+          "questionKeywords": [
+            "sample placed on"
+          ],
+          "passageKeywords": [
+            "on moist paper"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "sample placed on",
+              "passage": "on moist paper",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "GRAMMAR_FORM",
+          "selectCount": 1,
+          "group": "Check | Surface\nGermination | _____"
+        }
+      },
+      {
+        "id": "reading-mock-01-p1-q9",
+        "order": 9,
+        "type": "SHORT_ANSWER",
+        "question": "Besides seed movement, what activity did the group track participation in?",
+        "options": [],
+        "answer": "workshops",
+        "acceptedAnswers": [],
+        "instructions": "ONE WORD ONLY from the passage.",
+        "wordLimit": 1,
+        "numberAllowed": false,
+        "explanation": "Workshops provide a measure of learning participation alongside distribution.",
+        "evidence": "The group therefore tracked participation in workshops as well as the movement of seed.",
+        "paragraph": "G",
+        "trap": "Packets measure seed movement; the question asks for the other activity.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "participation in workshops",
+          "questionKeywords": [
+            "activity"
+          ],
+          "passageKeywords": [
+            "workshops"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "activity",
+              "passage": "workshops",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "GRAMMAR_FORM",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p1-q10",
+        "order": 10,
+        "type": "MULTIPLE_CHOICE",
+        "question": "Why were donor descriptions kept separate from volunteers’ observations?",
+        "options": [
+          "A. To ensure all donations received identical names.",
+          "B. To remove every personal description from the catalogue.",
+          "C. To avoid presenting unverified claims as checked findings.",
+          "D. To prevent volunteers from observing plants."
+        ],
+        "answer": "C",
+        "acceptedAnswers": [],
+        "instructions": "Choose the best option. Options may be used more than once unless stated otherwise.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The separation makes clear which claims have actually been checked.",
+        "evidence": "This distinction prevented an enthusiastic claim about a plant from acquiring the appearance of an independently checked result merely by being copied into a catalogue.",
+        "paragraph": "B",
+        "trap": "A consistent catalogue must not disguise the status of evidence.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "independently checked result",
+          "questionKeywords": [
+            "kept separate"
+          ],
+          "passageKeywords": [
+            "distinction"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "kept separate",
+              "passage": "distinction",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "Common names are mentioned, but uniform naming is not the reason given.",
+            "B": "Descriptions are retained separately, not all removed.",
+            "C": "The sentence explicitly warns against making a copied claim look independently checked.",
+            "D": "Volunteers’ observations are recorded, so they are not prohibited."
+          },
+          "mistakeType": "DISTRACTOR",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p1-q11",
+        "order": 11,
+        "type": "MULTIPLE_CHOICE",
+        "question": "What does the germination test establish?",
+        "options": [
+          "A. A guaranteed harvest for every borrower.",
+          "B. The behaviour of a sample under specified conditions.",
+          "C. The best planting depth in every garden.",
+          "D. The flavour of the resulting crop."
+        ],
+        "answer": "B",
+        "acceptedAnswers": [],
+        "instructions": "Choose the best option. Options may be used more than once unless stated otherwise.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The test supplies limited evidence about the tested sample, not a guaranteed outdoor outcome.",
+        "evidence": "The test described one sample under particular conditions.",
+        "paragraph": "D",
+        "trap": "Conditions in gardens can differ from test conditions.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "one sample under particular conditions",
+          "questionKeywords": [
+            "establish"
+          ],
+          "passageKeywords": [
+            "described one sample"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "establish",
+              "passage": "described one sample",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "The packet does not promise a harvest.",
+            "B": "This is the stated scope of the test.",
+            "C": "Planting depth is a varying garden condition, not a universal finding.",
+            "D": "Germination does not test flavour."
+          },
+          "mistakeType": "DISTRACTOR",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p1-q12",
+        "order": 12,
+        "type": "MULTIPLE_CHOICE",
+        "question": "Why should contributors explain what performed well means?",
+        "options": [
+          "A. Only early maturity is a legitimate aim.",
+          "B. Flavour can be measured by packet counts.",
+          "C. Reports are all controlled experiments.",
+          "D. They may be evaluating different characteristics."
+        ],
+        "answer": "D",
+        "acceptedAnswers": [],
+        "instructions": "Choose the best option. Options may be used more than once unless stated otherwise.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Different contributors may judge performance by different features.",
+        "evidence": "One gardener might value early maturity; another might be interested in flavour or the ability to remain productive during a dry period.",
+        "paragraph": "F",
+        "trap": "The same positive phrase can conceal different criteria.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "One gardener might value",
+          "questionKeywords": [
+            "performed well"
+          ],
+          "passageKeywords": [
+            "value"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "performed well",
+              "passage": "value",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "Several preferences are presented without choosing one as the only valid aim.",
+            "B": "Packet counts do not measure flavour.",
+            "C": "The paragraph explicitly denies treating reports as controlled experiments.",
+            "D": "Early maturity, flavour and dry-period productivity are distinct characteristics."
+          },
+          "mistakeType": "DISTRACTOR",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p1-q13",
+        "order": 13,
+        "type": "MULTIPLE_CHOICE",
+        "question": "What is the main point of the final paragraph?",
+        "options": [
+          "A. Distribution counts capture only part of the scheme’s value.",
+          "B. Volunteers should stop counting packets entirely.",
+          "C. Every distributed packet will be planted.",
+          "D. Workshops and seed distribution are identical outcomes."
+        ],
+        "answer": "A",
+        "acceptedAnswers": [],
+        "instructions": "Choose the best option. Options may be used more than once unless stated otherwise.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Distribution totals cannot fully represent learning and knowledge sharing.",
+        "evidence": "Counting packets was straightforward, but it gave only a partial picture of what had been achieved.",
+        "paragraph": "G",
+        "trap": "An easy count should not be mistaken for a complete measure of success.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "only a partial picture",
+          "questionKeywords": [
+            "main point"
+          ],
+          "passageKeywords": [
+            "partial picture"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "main point",
+              "passage": "partial picture",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "The paragraph adds learning participation because packet counts are incomplete.",
+            "B": "Counts are kept, alongside separate learning records.",
+            "C": "The text says a packet might never be planted.",
+            "D": "The text explicitly calls the outcomes related rather than identical."
+          },
+          "mistakeType": "DISTRACTOR",
+          "selectCount": 1,
+          "group": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "reading-mock-01-p2",
+    "title": "Designing a market’s cool room",
+    "family": "MIXED",
+    "difficultyLevel": "EXAM",
+    "passageNumberEquivalent": 2,
+    "topic": "Engineering and trade",
+    "content": "Fresh produce does not stop changing when it reaches a market. Leaves lose water, soft fruit can be damaged by handling, and a delay before sale may turn useful stock into waste. A shared cool room appears to offer a simple response: put the produce behind an insulated door and lower the temperature. Yet a room is only one component of a handling system. This fictional market study follows the planning of a shared store, concentrating on the decisions that measurements can support. Its central problem is not finding the lowest possible temperature. It is deciding how a limited facility can fit the varied routines of people bringing, storing and selling different goods.\n\nThe planners first traced the route taken by a crate. Some produce arrived before sunrise and waited outside a closed building. Other deliveries came while the entrance was crowded with customers. A large store would provide little benefit if crates spent most of their waiting time in direct sun before reaching it. The team therefore recorded waiting times at several points, rather than measuring conditions only inside the proposed room. This route-based approach changed the project brief. Shade and a clear receiving area became part of the design, even though neither feature would appear in a specification describing only refrigeration equipment. The planners had identified a process problem before selecting a machine.\n\nDifferent goods complicated the temperature decision. A condition suitable for one product could damage another, and a very cold room could not be assumed to serve every stall equally well. Packaging also affected the rate at which produce changed temperature. Tightly stacked containers restricted the movement of air, while gaps allowed it to circulate. The design team compared possible arrangements with the goods and containers actually used at the market. It did not treat a temperature displayed beside the door as proof that every item in the room had reached that temperature. Measuring the air and measuring the produce were related tasks, but they answered different questions.\n\nCapacity was discussed in equally practical terms. The maximum number of crates that could physically fit inside was not the same as the number that could be handled effectively. Staff needed space to identify a consignment and remove it without repeatedly shifting other stock. A layout packed from wall to wall could slow retrieval and keep the door open longer. The team used an empty building to rehearse movements with ordinary crates. This inexpensive exercise revealed conflicts between storage density and access. It also allowed stallholders to suggest changes before shelving was fixed in place, when an alteration would have been more disruptive and costly.\n\nReliable power mattered, but buying backup equipment did not remove every operational risk. Someone would have to notice a failure, decide what to do and know whether the backup system was ready. The proposed operating guide therefore named a person responsible for each routine check. It also specified where observations should be recorded. A log showing repeated small departures from expected conditions could reveal a maintenance problem before a complete breakdown occurred. The planners regarded these records as working tools, not as paperwork to be completed only for inspection. Equipment and responsibility needed to be designed together if a shared facility was to remain dependable.\n\nCharging for the room introduced a different set of choices. A fee based only on the number of crates would be simple to calculate, but crates differed in size and in the time they occupied space. Charging by volume and duration could reflect use more closely, while creating a more complicated recording task. The market committee had to weigh fairness, administrative effort and the risk that complicated rules would discourage participation. There was no physical measurement that could decide the preferred balance on its own. Technical information could make the consequences clearer, but the final rule required an explicit judgement about how the shared service should operate.\n\nThe proposed evaluation reflected this range of concerns. The team would record losses, energy use, waiting times and actual participation rather than announcing success as soon as the room became cold. Changes would be compared with records from before the opening, while acknowledging that weather and delivery patterns could also vary. A fall in recorded waste would be encouraging, but attributing every part of it to the new room would require more evidence. The project’s strength lay in making its assumptions visible. If use remained low, or if delays simply moved to another point in the route, the records could guide a revision of the service rather than merely decorate a report celebrating the building.",
+    "sourceType": "ORIGINAL",
+    "difficulty": "INTERMEDIATE",
+    "setNumber": 1,
+    "isFullMockPassage": true,
+    "timeLimitMinutes": 20,
+    "metadata": {
+      "purpose": "To explain why a shared cool room must be designed as part of a handling service.",
+      "scanTarget": "Find the place used to rehearse crate movements.",
+      "scanAnswer": "empty building"
+    },
+    "questions": [
+      {
+        "id": "reading-mock-01-p2-q1",
+        "order": 1,
+        "type": "MATCHING_HEADINGS",
+        "question": "Choose the best heading for paragraph B.",
+        "options": [
+          "i. Following goods to identify delays",
+          "ii. Why one reading cannot describe every item",
+          "iii. Testing the balance between space and access",
+          "iv. Assigning responsibility alongside equipment",
+          "v. Choosing a charging rule involves judgement",
+          "vi. Achieving the lowest possible temperature",
+          "vii. Eliminating every external influence on results"
+        ],
+        "answer": "i",
+        "acceptedAnswers": [],
+        "instructions": "Choose one heading (i–vii) for each paragraph. Two headings are unused.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "B locates delays along the handling route before choosing machinery.",
+        "evidence": "The planners had identified a process problem before selecting a machine.",
+        "paragraph": "B",
+        "trap": "Match the whole paragraph’s purpose, not a technical term repeated in an option.",
+        "tip": "Choose the purpose of the whole paragraph; a repeated word may be only a supporting detail.",
+        "analysis": {
+          "keyEvidence": "process problem",
+          "questionKeywords": [
+            "paragraph purpose"
+          ],
+          "passageKeywords": [
+            "Following goods to identify delays"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "paragraph purpose",
+              "passage": "Following goods to identify delays",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "i": "B follows a crate and records delays along its route.",
+            "ii": "B concerns waiting at different points, not the distinction between air and produce temperature.",
+            "iii": "Crate layout is tested in D.",
+            "iv": "Responsibility for equipment appears in E.",
+            "v": "Charging is discussed in F.",
+            "vi": "B adds shade and receiving space instead of pursuing the lowest temperature.",
+            "vii": "No claim is made that outside influences can all be eliminated."
+          },
+          "mistakeType": "MATCHING_HEADING_ERROR",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p2-q2",
+        "order": 2,
+        "type": "MATCHING_HEADINGS",
+        "question": "Choose the best heading for paragraph C.",
+        "options": [
+          "i. Following goods to identify delays",
+          "ii. Why one reading cannot describe every item",
+          "iii. Testing the balance between space and access",
+          "iv. Assigning responsibility alongside equipment",
+          "v. Choosing a charging rule involves judgement",
+          "vi. Achieving the lowest possible temperature",
+          "vii. Eliminating every external influence on results"
+        ],
+        "answer": "ii",
+        "acceptedAnswers": [],
+        "instructions": "Choose one heading (i–vii) for each paragraph. Two headings are unused.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "C distinguishes a measurement of room air from the condition of all produce.",
+        "evidence": "Measuring the air and measuring the produce were related tasks, but they answered different questions.",
+        "paragraph": "C",
+        "trap": "Match the whole paragraph’s purpose, not a technical term repeated in an option.",
+        "tip": "Choose the purpose of the whole paragraph; a repeated word may be only a supporting detail.",
+        "analysis": {
+          "keyEvidence": "different questions",
+          "questionKeywords": [
+            "paragraph purpose"
+          ],
+          "passageKeywords": [
+            " Why one reading cannot describe every item"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "paragraph purpose",
+              "passage": " Why one reading cannot describe every item",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "i": "C discusses goods and temperature, not delivery queues.",
+            "ii": "A door display measures air, not necessarily every product.",
+            "iii": "Access and storage density are central to D.",
+            "iv": "Routine checks and named responsibility are in E.",
+            "v": "No charging rule is chosen in C.",
+            "vi": "C explicitly rejects one very cold condition for every product.",
+            "vii": "The paragraph does not discuss eliminating external influences."
+          },
+          "mistakeType": "MATCHING_HEADING_ERROR",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p2-q3",
+        "order": 3,
+        "type": "MATCHING_HEADINGS",
+        "question": "Choose the best heading for paragraph D.",
+        "options": [
+          "i. Following goods to identify delays",
+          "ii. Why one reading cannot describe every item",
+          "iii. Testing the balance between space and access",
+          "iv. Assigning responsibility alongside equipment",
+          "v. Choosing a charging rule involves judgement",
+          "vi. Achieving the lowest possible temperature",
+          "vii. Eliminating every external influence on results"
+        ],
+        "answer": "iii",
+        "acceptedAnswers": [],
+        "instructions": "Choose one heading (i–vii) for each paragraph. Two headings are unused.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "D uses a rehearsal to reveal the trade-off between dense storage and usable access.",
+        "evidence": "This inexpensive exercise revealed conflicts between storage density and access.",
+        "paragraph": "D",
+        "trap": "Match the whole paragraph’s purpose, not a technical term repeated in an option.",
+        "tip": "Choose the purpose of the whole paragraph; a repeated word may be only a supporting detail.",
+        "analysis": {
+          "keyEvidence": "storage density and access",
+          "questionKeywords": [
+            "paragraph purpose"
+          ],
+          "passageKeywords": [
+            ". Testing the balance between space and access"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "paragraph purpose",
+              "passage": ". Testing the balance between space and access",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "i": "D rehearses retrieval inside a layout rather than tracing the delivery route.",
+            "ii": "Air and produce measurements are the focus of C.",
+            "iii": "D compares physical capacity with effective access through a rehearsal.",
+            "iv": "The issue here is layout, not named routine responsibility.",
+            "v": "Fees appear in F.",
+            "vi": "Temperature is not the objective of the rehearsal.",
+            "vii": "Rehearsing crates does not eliminate external influences."
+          },
+          "mistakeType": "MATCHING_HEADING_ERROR",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p2-q4",
+        "order": 4,
+        "type": "MATCHING_HEADINGS",
+        "question": "Choose the best heading for paragraph E.",
+        "options": [
+          "i. Following goods to identify delays",
+          "ii. Why one reading cannot describe every item",
+          "iii. Testing the balance between space and access",
+          "iv. Assigning responsibility alongside equipment",
+          "v. Choosing a charging rule involves judgement",
+          "vi. Achieving the lowest possible temperature",
+          "vii. Eliminating every external influence on results"
+        ],
+        "answer": "iv",
+        "acceptedAnswers": [],
+        "instructions": "Choose one heading (i–vii) for each paragraph. Two headings are unused.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "E argues that working responsibility must accompany equipment.",
+        "evidence": "Equipment and responsibility needed to be designed together if a shared facility was to remain dependable.",
+        "paragraph": "E",
+        "trap": "Match the whole paragraph’s purpose, not a technical term repeated in an option.",
+        "tip": "Choose the purpose of the whole paragraph; a repeated word may be only a supporting detail.",
+        "analysis": {
+          "keyEvidence": "Equipment and responsibility",
+          "questionKeywords": [
+            "paragraph purpose"
+          ],
+          "passageKeywords": [
+            " Assigning responsibility alongside equipment"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "paragraph purpose",
+              "passage": " Assigning responsibility alongside equipment",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "i": "E concerns routine operation after installation, not arrival delays.",
+            "ii": "E discusses recording departures, not air versus produce readings.",
+            "iii": "The storage-layout trade-off was described in D.",
+            "iv": "E pairs backup equipment with named checks and working records.",
+            "v": "No price is discussed in E.",
+            "vi": "The objective is dependable operation, not the lowest temperature.",
+            "vii": "E says backup does not remove every operational risk."
+          },
+          "mistakeType": "MATCHING_HEADING_ERROR",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p2-q5",
+        "order": 5,
+        "type": "MATCHING_HEADINGS",
+        "question": "Choose the best heading for paragraph F.",
+        "options": [
+          "i. Following goods to identify delays",
+          "ii. Why one reading cannot describe every item",
+          "iii. Testing the balance between space and access",
+          "iv. Assigning responsibility alongside equipment",
+          "v. Choosing a charging rule involves judgement",
+          "vi. Achieving the lowest possible temperature",
+          "vii. Eliminating every external influence on results"
+        ],
+        "answer": "v",
+        "acceptedAnswers": [],
+        "instructions": "Choose one heading (i–vii) for each paragraph. Two headings are unused.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "F shows that a charging rule balances values as well as measurements.",
+        "evidence": "Technical information could make the consequences clearer, but the final rule required an explicit judgement about how the shared service should operate.",
+        "paragraph": "F",
+        "trap": "Match the whole paragraph’s purpose, not a technical term repeated in an option.",
+        "tip": "Choose the purpose of the whole paragraph; a repeated word may be only a supporting detail.",
+        "analysis": {
+          "keyEvidence": "explicit judgement",
+          "questionKeywords": [
+            "paragraph purpose"
+          ],
+          "passageKeywords": [
+            "Choosing a charging rule involves judgement"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "paragraph purpose",
+              "passage": "Choosing a charging rule involves judgement",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "i": "F compares charging methods, not the route of goods.",
+            "ii": "The distinction is between fee rules, not temperature readings.",
+            "iii": "The capacity rehearsal is in D.",
+            "iv": "F assigns no routine check to a named person.",
+            "v": "F weighs fairness and effort, saying measurement cannot choose the balance.",
+            "vi": "Temperature is not the charging criterion described.",
+            "vii": "A fee rule cannot eliminate changing weather or deliveries."
+          },
+          "mistakeType": "MATCHING_HEADING_ERROR",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p2-q6",
+        "order": 6,
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "question": "The greatest possible number of stored crates necessarily gives the most effective handling capacity.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "answer": "FALSE",
+        "acceptedAnswers": [],
+        "instructions": "Choose TRUE if supported, FALSE if contradicted, or NOT GIVEN if the information is insufficient.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Physical packing capacity is explicitly distinguished from effective handling.",
+        "evidence": "The maximum number of crates that could physically fit inside was not the same as the number that could be handled effectively.",
+        "paragraph": "D",
+        "trap": "Maximum packing can obstruct access.",
+        "tip": "Compare the full claim, including quantities and limits. Missing information is not a contradiction.",
+        "analysis": {
+          "keyEvidence": "was not the same",
+          "questionKeywords": [
+            "necessarily gives"
+          ],
+          "passageKeywords": [
+            "was not the same"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "necessarily gives",
+              "passage": "was not the same",
+              "relationship": "CONTRADICTION"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "OVERINFERENCE",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p2-q7",
+        "order": 7,
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "question": "Backup equipment eliminates every operational risk.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "answer": "FALSE",
+        "acceptedAnswers": [],
+        "instructions": "Choose TRUE if supported, FALSE if contradicted, or NOT GIVEN if the information is insufficient.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The passage directly denies elimination of all risk.",
+        "evidence": "Reliable power mattered, but buying backup equipment did not remove every operational risk.",
+        "paragraph": "E",
+        "trap": "Backup still requires checks and an operational response.",
+        "tip": "Compare the full claim, including quantities and limits. Missing information is not a contradiction.",
+        "analysis": {
+          "keyEvidence": "did not remove every",
+          "questionKeywords": [
+            "eliminates every"
+          ],
+          "passageKeywords": [
+            "did not remove every"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "eliminates every",
+              "passage": "did not remove every",
+              "relationship": "CONTRADICTION"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "MISSED_QUALIFIER",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p2-q8",
+        "order": 8,
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "question": "All stallholders preferred charging by volume and duration.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "answer": "NOT GIVEN",
+        "acceptedAnswers": [],
+        "instructions": "Choose TRUE if supported, FALSE if contradicted, or NOT GIVEN if the information is insufficient.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Possible advantages and disadvantages are given, but no unanimous preference is reported.",
+        "evidence": "Charging by volume and duration could reflect use more closely, while creating a more complicated recording task.",
+        "paragraph": "F",
+        "trap": "A more representative measure does not prove everyone prefers it.",
+        "tip": "Compare the full claim, including quantities and limits. Missing information is not a contradiction.",
+        "analysis": {
+          "keyEvidence": "could reflect use more closely",
+          "questionKeywords": [
+            "All preferred"
+          ],
+          "passageKeywords": [
+            "could reflect use"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "All preferred",
+              "passage": "could reflect use",
+              "relationship": "NOT_STATED"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "OVERINFERENCE",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p2-q9",
+        "order": 9,
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "question": "The evaluation would compare conditions before and after opening.",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ],
+        "answer": "TRUE",
+        "acceptedAnswers": [],
+        "instructions": "Choose TRUE if supported, FALSE if contradicted, or NOT GIVEN if the information is insufficient.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The planned comparison explicitly includes earlier records.",
+        "evidence": "Changes would be compared with records from before the opening, while acknowledging that weather and delivery patterns could also vary.",
+        "paragraph": "G",
+        "trap": "Acknowledging other changes does not mean no before/after comparison is made.",
+        "tip": "Compare the full claim, including quantities and limits. Missing information is not a contradiction.",
+        "analysis": {
+          "keyEvidence": "records from before the opening",
+          "questionKeywords": [
+            "before and after"
+          ],
+          "passageKeywords": [
+            "records from before"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "before and after",
+              "passage": "records from before",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "OVERINFERENCE",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p2-q10",
+        "order": 10,
+        "type": "SENTENCE_COMPLETION",
+        "question": "The planners rehearsed crate movements in an _____.",
+        "options": [],
+        "answer": "empty building",
+        "acceptedAnswers": [],
+        "instructions": "NO MORE THAN TWO WORDS from the passage.",
+        "wordLimit": 2,
+        "numberAllowed": false,
+        "explanation": "The rehearsal took place in an empty building before shelving was installed.",
+        "evidence": "The team used an empty building to rehearse movements with ordinary crates.",
+        "paragraph": "D",
+        "trap": "Ordinary crates are the objects moved, not the place used.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "empty building",
+          "questionKeywords": [
+            "rehearsed"
+          ],
+          "passageKeywords": [
+            "to rehearse"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "rehearsed",
+              "passage": "to rehearse",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "GRAMMAR_FORM",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p2-q11",
+        "order": 11,
+        "type": "NOTE_COMPLETION",
+        "question": "Temperature adjustment: tightly stacked containers limited the movement of _____.",
+        "options": [],
+        "answer": "air",
+        "acceptedAnswers": [],
+        "instructions": "ONE WORD ONLY from the passage.",
+        "wordLimit": 1,
+        "numberAllowed": false,
+        "explanation": "Air circulation was restricted by tight stacking.",
+        "evidence": "Tightly stacked containers restricted the movement of air, while gaps allowed it to circulate.",
+        "paragraph": "C",
+        "trap": "Gaps enable circulation; they are not what moves.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "movement of air",
+          "questionKeywords": [
+            "limited"
+          ],
+          "passageKeywords": [
+            "restricted"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "limited",
+              "passage": "restricted",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "GRAMMAR_FORM",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p2-q12",
+        "order": 12,
+        "type": "SHORT_ANSWER",
+        "question": "What could repeated small departures in the log reveal before a breakdown?",
+        "options": [],
+        "answer": "maintenance problem",
+        "acceptedAnswers": [],
+        "instructions": "NO MORE THAN TWO WORDS from the passage.",
+        "wordLimit": 2,
+        "numberAllowed": false,
+        "explanation": "Repeated deviations can indicate a maintenance problem ahead of full failure.",
+        "evidence": "A log showing repeated small departures from expected conditions could reveal a maintenance problem before a complete breakdown occurred.",
+        "paragraph": "E",
+        "trap": "Complete breakdown is the later outcome, not the early warning.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "maintenance problem",
+          "questionKeywords": [
+            "reveal before"
+          ],
+          "passageKeywords": [
+            "before a complete breakdown"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "reveal before",
+              "passage": "before a complete breakdown",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "GRAMMAR_FORM",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p2-q13",
+        "order": 13,
+        "type": "SUMMARY_COMPLETION",
+        "question": "The assessment would record losses, energy use, waiting times and actual _____.",
+        "options": [],
+        "answer": "participation",
+        "acceptedAnswers": [],
+        "instructions": "ONE WORD ONLY from the passage.",
+        "wordLimit": 1,
+        "numberAllowed": false,
+        "explanation": "Participation is the fourth distinct evaluation measure listed.",
+        "evidence": "The team would record losses, energy use, waiting times and actual participation rather than announcing success as soon as the room became cold.",
+        "paragraph": "G",
+        "trap": "Temperature alone is explicitly insufficient as a success measure.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "actual participation",
+          "questionKeywords": [
+            "assessment"
+          ],
+          "passageKeywords": [
+            "record"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "assessment",
+              "passage": "record",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "GRAMMAR_FORM",
+          "selectCount": 1,
+          "group": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "reading-mock-01-p3",
+    "title": "Can a model settle a city’s future?",
+    "family": "MIXED",
+    "difficultyLevel": "ADVANCED",
+    "passageNumberEquivalent": 3,
+    "topic": "Urban planning",
+    "content": "A city deciding where to add housing is not choosing among futures that can all be observed in advance. It must reason about possibilities. Computer models help by making some of those possibilities explicit: a proposed development can be represented, assumptions supplied, and likely consequences explored. The attraction is considerable. A table or map gives discussion a focus that a broad promise about improvement may lack. The danger begins when the model’s output is treated as a decision delivered by the future itself. A model is an organised argument about relationships, not a place outside argument. Its usefulness depends partly on whether people can examine how that argument has been assembled.\n\nConsider a fictional planning office comparing housing sites. One model estimates travel demand by applying relationships observed in an earlier period. This is a reasonable starting point when the relationships remain relevant. It becomes less reliable if the proposed policy changes the behaviour those relationships describe. A new transport service, a different pattern of working hours or a change in the cost of travel could alter choices. The point is not that past observations are worthless. It is that using them involves a judgement about continuity. That judgement should remain visible instead of disappearing behind the apparent precision of a numerical result. More decimal places cannot establish that tomorrow will preserve yesterday’s relationships.\n\nA second source of disagreement concerns the outcome being measured. Two models can represent the same proposal accurately within their own terms and still rank it differently because they answer different questions. One may minimise total journey time. Another may examine whether people with limited mobility can reach essential services. An improvement in the first measure does not logically guarantee an improvement in the second. Describing the disagreement merely as a competition between a good model and a bad model would miss the choice of objective. The community still has to decide which outcomes matter, how they should be weighed and whose experience might be hidden by an overall average.\n\nAdvocates of detailed modelling sometimes respond by adding more variables. Additional detail can be valuable when it represents an important relationship and can be supported with suitable information. Yet complexity is not a quality certificate. A larger model may contain more uncertain assumptions, take longer to inspect and be harder to explain to participants. A simpler model can sometimes expose a decisive trade-off more clearly. This is not a recommendation to use the fewest variables in every case. It is an argument for making each addition earn its place through the question it helps answer. The appropriate level of detail is a design judgement, not a contest to produce the largest description.\n\nUncertainty is often communicated as a range around a forecast. Such a range can be useful, but it does not necessarily include every reason the forecast might be wrong. The calculation may vary a set of parameters while leaving the structure of the model unchanged. If that structure omits an important response, the range can look reassuring without covering the omission. This does not make ranges meaningless. It makes a clear account of what was varied, and what was held fixed, essential to interpretation. A reader needs to know whether the uncertainty concerns measured inputs, behavioural assumptions, the choice of model structure or some combination of these.\n\nPublic participation can improve this process, though not simply by asking people whether they like the final map. Residents may know about an inaccessible crossing, an informal route or a service used at hours absent from the available data. Their contribution can reveal an omission or suggest a different question. Such knowledge should be examined critically, just as other information is examined; it should not be accepted or dismissed solely because of who supplied it. Participation is most informative when the model can be revised in response. Inviting comments after the important assumptions have become untouchable offers a weaker form of involvement, however impressive the presentation may be.\n\nThere are limits to what this account establishes. It gives reasons for transparent modelling and revisable assumptions, but it does not supply a universal formula for allocating decision-making power between specialists, elected representatives and residents. Nor does it establish that one software package produces fairer decisions than another. Those claims would require different evidence. An evaluation of a planning model should distinguish its technical performance from the process through which its results are used. A model that estimates an outcome well can still be used to conceal a contested objective. Conversely, disagreement about a public objective does not by itself demonstrate a numerical error.\n\nThe best case for modelling is therefore neither that it removes judgement nor that it merely dresses existing preferences in numbers. Used carefully, a model can force assumptions into the open, reveal consequences that were overlooked and show where further observation could change a decision. Its limitations are then part of its contribution to public reasoning. The planning office should be able to explain what a result depends on and what could make it reconsider. A credible answer may sometimes be that the available evidence cannot distinguish two options confidently. Recognising that limit is more useful than converting a close and uncertain comparison into a spurious declaration of inevitability.",
+    "sourceType": "ORIGINAL",
+    "difficulty": "ADVANCED",
+    "setNumber": 1,
+    "isFullMockPassage": true,
+    "timeLimitMinutes": 20,
+    "metadata": {
+      "purpose": "To argue that planning models support public judgement when their assumptions and limits remain open to examination.",
+      "scanTarget": "Find the measure contrasted with access for people with limited mobility.",
+      "scanAnswer": "total journey time"
+    },
+    "questions": [
+      {
+        "id": "reading-mock-01-p3-q1",
+        "order": 1,
+        "type": "YES_NO_NOT_GIVEN",
+        "question": "A model can produce a planning decision that is independent of judgement.",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ],
+        "answer": "NO",
+        "acceptedAnswers": [],
+        "instructions": "Choose YES if the statement agrees with the writer, NO if it contradicts the writer, or NOT GIVEN if the writer's position is not stated.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The writer places modelling within reasoning and judgement, rather than outside them.",
+        "evidence": "A model is an organised argument about relationships, not a place outside argument.",
+        "paragraph": "A",
+        "trap": "Explicit output does not make the underlying choices judgement-free.",
+        "tip": "Separate what a person reports from what the writer endorses. Do not invent the writer's opinion.",
+        "analysis": {
+          "keyEvidence": "not a place outside argument",
+          "questionKeywords": [
+            "independent of judgement"
+          ],
+          "passageKeywords": [
+            "not a place outside argument"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "independent of judgement",
+              "passage": "not a place outside argument",
+              "relationship": "CONTRADICTION"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "YES_NO_CONFUSION",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p3-q2",
+        "order": 2,
+        "type": "YES_NO_NOT_GIVEN",
+        "question": "Historical observations have no useful role in travel modelling.",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ],
+        "answer": "NO",
+        "acceptedAnswers": [],
+        "instructions": "Choose YES if the statement agrees with the writer, NO if it contradicts the writer, or NOT GIVEN if the writer's position is not stated.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The writer explicitly preserves their value while questioning assumptions of continuity.",
+        "evidence": "The point is not that past observations are worthless.",
+        "paragraph": "B",
+        "trap": "A limitation is not a complete rejection.",
+        "tip": "Separate what a person reports from what the writer endorses. Do not invent the writer's opinion.",
+        "analysis": {
+          "keyEvidence": "not that past observations are worthless",
+          "questionKeywords": [
+            "no useful role"
+          ],
+          "passageKeywords": [
+            "not ... worthless"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "no useful role",
+              "passage": "not ... worthless",
+              "relationship": "CONTRADICTION"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "MISSED_NEGATIVE",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p3-q3",
+        "order": 3,
+        "type": "YES_NO_NOT_GIVEN",
+        "question": "Adding variables always improves the quality of a model.",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ],
+        "answer": "NO",
+        "acceptedAnswers": [],
+        "instructions": "Choose YES if the statement agrees with the writer, NO if it contradicts the writer, or NOT GIVEN if the writer's position is not stated.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Extra detail can be useful, but the writer denies that complexity guarantees quality.",
+        "evidence": "Yet complexity is not a quality certificate.",
+        "paragraph": "D",
+        "trap": "Can be valuable is weaker than always improves.",
+        "tip": "Separate what a person reports from what the writer endorses. Do not invent the writer's opinion.",
+        "analysis": {
+          "keyEvidence": "not a quality certificate",
+          "questionKeywords": [
+            "always improves"
+          ],
+          "passageKeywords": [
+            "not a quality certificate"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "always improves",
+              "passage": "not a quality certificate",
+              "relationship": "CONTRADICTION"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "MISSED_QUALIFIER",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p3-q4",
+        "order": 4,
+        "type": "YES_NO_NOT_GIVEN",
+        "question": "Residents’ information should be evaluated critically.",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ],
+        "answer": "YES",
+        "acceptedAnswers": [],
+        "instructions": "Choose YES if the statement agrees with the writer, NO if it contradicts the writer, or NOT GIVEN if the writer's position is not stated.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The writer explicitly recommends applying critical evaluation to this information too.",
+        "evidence": "Such knowledge should be examined critically, just as other information is examined; it should not be accepted or dismissed solely because of who supplied it.",
+        "paragraph": "F",
+        "trap": "Critical evaluation is not automatic dismissal.",
+        "tip": "Separate what a person reports from what the writer endorses. Do not invent the writer's opinion.",
+        "analysis": {
+          "keyEvidence": "should be examined critically",
+          "questionKeywords": [
+            "evaluated critically"
+          ],
+          "passageKeywords": [
+            "examined critically"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "evaluated critically",
+              "passage": "examined critically",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "OVERINFERENCE",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p3-q5",
+        "order": 5,
+        "type": "YES_NO_NOT_GIVEN",
+        "question": "The writer believes elected representatives should hold exactly half the decision-making power.",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ],
+        "answer": "NOT GIVEN",
+        "acceptedAnswers": [],
+        "instructions": "Choose YES if the statement agrees with the writer, NO if it contradicts the writer, or NOT GIVEN if the writer's position is not stated.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "No proportion or formula allocating power is endorsed.",
+        "evidence": "It gives reasons for transparent modelling and revisable assumptions, but it does not supply a universal formula for allocating decision-making power between specialists, elected representatives and residents.",
+        "paragraph": "G",
+        "trap": "Support for participation cannot determine an exact share of authority.",
+        "tip": "Separate what a person reports from what the writer endorses. Do not invent the writer's opinion.",
+        "analysis": {
+          "keyEvidence": "does not supply a universal formula",
+          "questionKeywords": [
+            "exactly half"
+          ],
+          "passageKeywords": [
+            "does not supply a universal formula"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "exactly half",
+              "passage": "does not supply a universal formula",
+              "relationship": "NOT_STATED"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "OVERINFERENCE",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p3-q6",
+        "order": 6,
+        "type": "MATCHING_INFORMATION",
+        "question": "Where does the writer distinguish uncertainty in inputs from uncertainty in model structure?",
+        "options": [
+          "A. Paragraph A",
+          "B. Paragraph B",
+          "C. Paragraph C",
+          "D. Paragraph D",
+          "E. Paragraph E",
+          "F. Paragraph F",
+          "G. Paragraph G",
+          "H. Paragraph H"
+        ],
+        "answer": "E",
+        "acceptedAnswers": [],
+        "instructions": "Which paragraph contains the following information? Choose the correct letter, A–H.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Paragraph E explains that parameter ranges can leave structural omissions untested.",
+        "evidence": "The calculation may vary a set of parameters while leaving the structure of the model unchanged.",
+        "paragraph": "E",
+        "trap": "Several paragraphs discuss limits, but only E identifies this particular distinction.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "leaving the structure of the model unchanged",
+          "questionKeywords": [
+            "inputs versus structure"
+          ],
+          "passageKeywords": [
+            "parameters ... structure"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "inputs versus structure",
+              "passage": "parameters ... structure",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "B": "B examines whether historical relationships continue.",
+            "C": "C contrasts objectives used to rank a proposal.",
+            "E": "E explicitly distinguishes varied parameters from unchanged structure.",
+            "G": "G distinguishes technical performance from decision-making use.",
+            "A": "Paragraph A does not contain the specific information described in this question; compare it with the evidence in paragraph E.",
+            "D": "Paragraph D does not contain the specific information described in this question; compare it with the evidence in paragraph E.",
+            "F": "Paragraph F does not contain the specific information described in this question; compare it with the evidence in paragraph E.",
+            "H": "Paragraph H does not contain the specific information described in this question; compare it with the evidence in paragraph E."
+          },
+          "mistakeType": "DISTRACTOR",
+          "selectCount": 1,
+          "group": "",
+          "matchingGroup": {
+            "id": "reading-mock-01-p3-information",
+            "optionsTitle": "Paragraphs",
+            "reuseAllowed": true
+          }
+        }
+      },
+      {
+        "id": "reading-mock-01-p3-q7",
+        "order": 7,
+        "type": "MATCHING_INFORMATION",
+        "question": "Where is the assumption that past relationships will continue examined?",
+        "options": [
+          "A. Paragraph A",
+          "B. Paragraph B",
+          "C. Paragraph C",
+          "D. Paragraph D",
+          "E. Paragraph E",
+          "F. Paragraph F",
+          "G. Paragraph G",
+          "H. Paragraph H"
+        ],
+        "answer": "B",
+        "acceptedAnswers": [],
+        "instructions": "Which paragraph contains the following information? Choose the correct letter, A–H.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Paragraph B addresses the continuity assumption underlying reuse of historical observations.",
+        "evidence": "It is that using them involves a judgement about continuity.",
+        "paragraph": "B",
+        "trap": "The question concerns time, not a choice between different public objectives.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "judgement about continuity",
+          "questionKeywords": [
+            "will continue"
+          ],
+          "passageKeywords": [
+            "continuity"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "will continue",
+              "passage": "continuity",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "B": "B explicitly describes a judgement about continuity.",
+            "C": "C concerns different objectives at the same proposal.",
+            "E": "E concerns uncertainty ranges and structure.",
+            "G": "G concerns how technical results are used.",
+            "A": "Paragraph A does not contain the specific information described in this question; compare it with the evidence in paragraph B.",
+            "D": "Paragraph D does not contain the specific information described in this question; compare it with the evidence in paragraph B.",
+            "F": "Paragraph F does not contain the specific information described in this question; compare it with the evidence in paragraph B.",
+            "H": "Paragraph H does not contain the specific information described in this question; compare it with the evidence in paragraph B."
+          },
+          "mistakeType": "DISTRACTOR",
+          "selectCount": 1,
+          "group": "",
+          "matchingGroup": {
+            "id": "reading-mock-01-p3-information",
+            "optionsTitle": "Paragraphs",
+            "reuseAllowed": true
+          }
+        }
+      },
+      {
+        "id": "reading-mock-01-p3-q8",
+        "order": 8,
+        "type": "MATCHING_INFORMATION",
+        "question": "Where are two different measures of a proposal’s success contrasted?",
+        "options": [
+          "A. Paragraph A",
+          "B. Paragraph B",
+          "C. Paragraph C",
+          "D. Paragraph D",
+          "E. Paragraph E",
+          "F. Paragraph F",
+          "G. Paragraph G",
+          "H. Paragraph H"
+        ],
+        "answer": "C",
+        "acceptedAnswers": [],
+        "instructions": "Which paragraph contains the following information? Choose the correct letter, A–H.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Paragraph C contrasts aggregate journey time with accessibility for a particular group.",
+        "evidence": "One may minimise total journey time. Another may examine whether people with limited mobility can reach essential services.",
+        "paragraph": "C",
+        "trap": "A disagreement over goals is not automatically a numerical mistake.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "Another may examine",
+          "questionKeywords": [
+            "two measures"
+          ],
+          "passageKeywords": [
+            "One ... Another"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "two measures",
+              "passage": "One ... Another",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "B": "B concerns the relevance of historical data.",
+            "C": "C gives the two distinct evaluation measures.",
+            "E": "E analyses the scope of uncertainty ranges.",
+            "G": "G discusses limits on claims about decision-making power.",
+            "A": "Paragraph A does not contain the specific information described in this question; compare it with the evidence in paragraph C.",
+            "D": "Paragraph D does not contain the specific information described in this question; compare it with the evidence in paragraph C.",
+            "F": "Paragraph F does not contain the specific information described in this question; compare it with the evidence in paragraph C.",
+            "H": "Paragraph H does not contain the specific information described in this question; compare it with the evidence in paragraph C."
+          },
+          "mistakeType": "DISTRACTOR",
+          "selectCount": 1,
+          "group": "",
+          "matchingGroup": {
+            "id": "reading-mock-01-p3-information",
+            "optionsTitle": "Paragraphs",
+            "reuseAllowed": true
+          }
+        }
+      },
+      {
+        "id": "reading-mock-01-p3-q9",
+        "order": 9,
+        "type": "MATCHING_INFORMATION",
+        "question": "Where is a technically accurate model distinguished from the way it is used?",
+        "options": [
+          "A. Paragraph A",
+          "B. Paragraph B",
+          "C. Paragraph C",
+          "D. Paragraph D",
+          "E. Paragraph E",
+          "F. Paragraph F",
+          "G. Paragraph G",
+          "H. Paragraph H"
+        ],
+        "answer": "G",
+        "acceptedAnswers": [],
+        "instructions": "Which paragraph contains the following information? Choose the correct letter, A–H.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Paragraph G separates estimation quality from the public process using the estimate.",
+        "evidence": "A model that estimates an outcome well can still be used to conceal a contested objective.",
+        "paragraph": "G",
+        "trap": "Accuracy alone does not establish the legitimacy of a chosen objective.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "estimates an outcome well",
+          "questionKeywords": [
+            "technically accurate"
+          ],
+          "passageKeywords": [
+            "estimates an outcome well"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "technically accurate",
+              "passage": "estimates an outcome well",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "B": "B considers whether predictions rely on continuity.",
+            "C": "C introduces competing objectives but does not make this explicit accuracy/use distinction.",
+            "E": "E considers the coverage of uncertainty ranges.",
+            "G": "G explicitly contrasts estimating well with concealing an objective.",
+            "A": "Paragraph A does not contain the specific information described in this question; compare it with the evidence in paragraph G.",
+            "D": "Paragraph D does not contain the specific information described in this question; compare it with the evidence in paragraph G.",
+            "F": "Paragraph F does not contain the specific information described in this question; compare it with the evidence in paragraph G.",
+            "H": "Paragraph H does not contain the specific information described in this question; compare it with the evidence in paragraph G."
+          },
+          "mistakeType": "DISTRACTOR",
+          "selectCount": 1,
+          "group": "",
+          "matchingGroup": {
+            "id": "reading-mock-01-p3-information",
+            "optionsTitle": "Paragraphs",
+            "reuseAllowed": true
+          }
+        }
+      },
+      {
+        "id": "reading-mock-01-p3-q10",
+        "order": 10,
+        "type": "MULTIPLE_CHOICE",
+        "question": "Why can extra decimal places be misleading?",
+        "options": [
+          "A. Historical data are always recorded without numbers.",
+          "B. They do not prove that underlying relationships will remain valid.",
+          "C. They prevent the model from representing travel.",
+          "D. They ensure a model uses too few variables."
+        ],
+        "answer": "B",
+        "acceptedAnswers": [],
+        "instructions": "Choose the best option. Options may be used more than once unless stated otherwise.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Numerical precision does not validate the assumption that the modelled relationships will continue.",
+        "evidence": "More decimal places cannot establish that tomorrow will preserve yesterday’s relationships.",
+        "paragraph": "B",
+        "trap": "Precision in presentation is distinct from validity of assumptions.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "cannot establish",
+          "questionKeywords": [
+            "extra decimal places"
+          ],
+          "passageKeywords": [
+            "preserve yesterday’s relationships"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "extra decimal places",
+              "passage": "preserve yesterday’s relationships",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "The text does not claim historical observations lack numbers.",
+            "B": "This restates the distinction between precision and continuity.",
+            "C": "Travel can still be represented; reliability of assumptions is the issue.",
+            "D": "Decimal precision does not determine the number of variables."
+          },
+          "mistakeType": "DISTRACTOR",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p3-q11",
+        "order": 11,
+        "type": "MULTIPLE_CHOICE",
+        "question": "What is the writer’s position on simpler models?",
+        "options": [
+          "A. They should always replace more detailed models.",
+          "B. They are useful only when no data exist.",
+          "C. They may clarify an important trade-off in some situations.",
+          "D. They eliminate the need to choose an objective."
+        ],
+        "answer": "C",
+        "acceptedAnswers": [],
+        "instructions": "Choose the best option. Options may be used more than once unless stated otherwise.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The writer permits a useful role for simplicity in some cases, without making it universally preferable.",
+        "evidence": "A simpler model can sometimes expose a decisive trade-off more clearly.",
+        "paragraph": "D",
+        "trap": "Sometimes must not be replaced with always.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "can sometimes",
+          "questionKeywords": [
+            "simpler models"
+          ],
+          "passageKeywords": [
+            "can sometimes"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "simpler models",
+              "passage": "can sometimes",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "The next sentence explicitly denies recommending the fewest variables in every case.",
+            "B": "No absence-of-data condition is stated.",
+            "C": "This preserves both the potential benefit and its limited scope.",
+            "D": "Choice of objective remains a public judgement."
+          },
+          "mistakeType": "DISTRACTOR",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p3-q12",
+        "order": 12,
+        "type": "MULTIPLE_CHOICE",
+        "question": "When is public participation most informative?",
+        "options": [
+          "A. When contributions can lead to revisions.",
+          "B. When all public claims are accepted without checking.",
+          "C. Only after assumptions become fixed.",
+          "D. When residents are asked only to admire a final map."
+        ],
+        "answer": "A",
+        "acceptedAnswers": [],
+        "instructions": "Choose the best option. Options may be used more than once unless stated otherwise.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Participation can improve the reasoning when contributions can change assumptions or questions.",
+        "evidence": "Participation is most informative when the model can be revised in response.",
+        "paragraph": "F",
+        "trap": "Comments on an untouchable final map have less influence.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "can be revised in response",
+          "questionKeywords": [
+            "most informative"
+          ],
+          "passageKeywords": [
+            "revised in response"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "most informative",
+              "passage": "revised in response",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "The writer explicitly links informative participation to revision.",
+            "B": "The writer requires critical examination of residents’ information.",
+            "C": "Fixed assumptions make involvement weaker.",
+            "D": "The writer rejects merely asking people about the final map as sufficient."
+          },
+          "mistakeType": "DISTRACTOR",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p3-q13",
+        "order": 13,
+        "type": "MULTIPLE_CHOICE",
+        "question": "What can be concluded about competing software packages?",
+        "options": [
+          "A. The largest package is necessarily the fairest.",
+          "B. Every package produces identical decisions.",
+          "C. A particular unnamed package is recommended.",
+          "D. Their relative fairness is not established here."
+        ],
+        "answer": "D",
+        "acceptedAnswers": [],
+        "instructions": "Choose the best option. Options may be used more than once unless stated otherwise.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The account supplies no evidence for a comparative fairness ranking of packages.",
+        "evidence": "Nor does it establish that one software package produces fairer decisions than another.",
+        "paragraph": "G",
+        "trap": "A general argument for transparency is not a tested software comparison.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "does it establish",
+          "questionKeywords": [
+            "competing software"
+          ],
+          "passageKeywords": [
+            "one software package"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "competing software",
+              "passage": "one software package",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "Complexity was explicitly denied the status of a quality certificate.",
+            "B": "Absence of a comparison does not prove equality.",
+            "C": "No package is recommended.",
+            "D": "This matches the explicit limit on what the account establishes."
+          },
+          "mistakeType": "DISTRACTOR",
+          "selectCount": 1,
+          "group": ""
+        }
+      },
+      {
+        "id": "reading-mock-01-p3-q14",
+        "order": 14,
+        "type": "MULTIPLE_CHOICE",
+        "question": "Which outcome does the final paragraph regard as credible?",
+        "options": [
+          "A. Declaring one future inevitable whenever outputs differ slightly.",
+          "B. Avoiding all use of models because they have limits.",
+          "C. Acknowledging that available evidence may not separate two options.",
+          "D. Hiding assumptions to make a decision appear decisive."
+        ],
+        "answer": "C",
+        "acceptedAnswers": [],
+        "instructions": "Choose the best option. Options may be used more than once unless stated otherwise.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "An honest conclusion can be that the evidence is insufficient to rank close options confidently.",
+        "evidence": "A credible answer may sometimes be that the available evidence cannot distinguish two options confidently.",
+        "paragraph": "H",
+        "trap": "The writer values acknowledging limits over manufacturing certainty.",
+        "tip": "Locate the relevant statement, match its meaning, then check grammar and the answer instructions.",
+        "analysis": {
+          "keyEvidence": "cannot distinguish two options confidently",
+          "questionKeywords": [
+            "credible outcome"
+          ],
+          "passageKeywords": [
+            "cannot distinguish"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "credible outcome",
+              "passage": "cannot distinguish",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "The paragraph rejects spurious inevitability from a close comparison.",
+            "B": "It gives a positive case for careful modelling.",
+            "C": "This is the explicitly described credible answer.",
+            "D": "The positive case is to force assumptions into the open."
+          },
+          "mistakeType": "DISTRACTOR",
+          "selectCount": 1,
+          "group": ""
+        }
+      }
+    ]
+  }
+]

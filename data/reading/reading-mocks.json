@@ -1,0 +1,18 @@
+[
+  {
+    "id": "reading-mock-01",
+    "title": "Academic Reading 01 · Seeds, systems and cities",
+    "passageIds": ["reading-mock-01-p1", "reading-mock-01-p2", "reading-mock-01-p3"],
+    "bandTable": [
+      {"minimum": 39, "band": 9}, {"minimum": 37, "band": 8.5},
+      {"minimum": 35, "band": 8}, {"minimum": 33, "band": 7.5},
+      {"minimum": 30, "band": 7}, {"minimum": 27, "band": 6.5},
+      {"minimum": 23, "band": 6}, {"minimum": 19, "band": 5.5},
+      {"minimum": 15, "band": 5}, {"minimum": 13, "band": 4.5},
+      {"minimum": 10, "band": 4}, {"minimum": 8, "band": 3.5},
+      {"minimum": 6, "band": 3}, {"minimum": 4, "band": 2.5},
+      {"minimum": 3, "band": 2}, {"minimum": 2, "band": 1.5},
+      {"minimum": 1, "band": 1}, {"minimum": 0, "band": 0}
+    ]
+  }
+]

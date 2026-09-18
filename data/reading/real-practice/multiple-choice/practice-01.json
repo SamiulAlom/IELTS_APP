@@ -1,0 +1,304 @@
+{
+  "id": "reading-real-multiple-choice-01",
+  "title": "The journey of a returnable cup",
+  "content": "Returnable takeaway cups offer a simple image of a circular system: a customer receives a drink, returns the cup and allows it to be used again. In practice, the environmental outcome depends on a sequence of less visible actions. A cup must reach a collection point, survive handling, be washed effectively and return to a place where it can replace a disposable one. A district-wide trial therefore focused on the organisation of reuse rather than on promoting a particular material. The organisers wanted to know which arrangements kept cups moving through the system, not merely whether customers liked the idea.\n\nSeveral independent cafés joined the trial. Customers paid a deposit that was refunded when they returned a cup to any participating café, regardless of where the drink had been bought. This shared return rule was intended to make returning a cup compatible with an ordinary journey. It also created an imbalance: a café near a transport stop received many returns but sold comparatively few drinks in returnable cups. Counting only sales would have hidden its contribution and the work involved. The organisers arranged collections according to the accumulation of cups rather than dividing visits equally among the cafés.\n\nA washing contractor offered capacity on a route already serving local businesses. Using that route avoided creating a separate journey for every small batch, but it did not make transport irrelevant. An unscheduled collection could still require additional travel, and clean cups sometimes waited at the depot because cafés had not ordered replacements in time. The system needed a way to anticipate demand as well as remove used cups. A full collection bin and an empty cupboard could occur at the same café: one indicated successful returns, while the other could force staff to hand out disposable cups.\n\nThe organisers recorded the number of times each marked cup completed a return-and-wash cycle. They also counted cups withdrawn because they were damaged or permanently stained. A high return rate was encouraging, but it did not guarantee a long working life. Conversely, a robust cup that remained in a customer's kitchen was physically intact without contributing another use. The useful measure was the number of actual cycles, considered alongside losses and washing requirements. Choosing a durable material mattered, but durability could not compensate for a collection system that failed to recover it.\n\nCustomers were invited to comment at the cafés and through a short online form. Many comments concerned convenience rather than environmental claims. A larger deposit was suggested as a way to encourage returns, yet the organisers were cautious: it could also discourage a first purchase by customers with little spare cash. They retained the existing deposit during the trial rather than changing several parts of the scheme at once. This decision left the effect of a larger deposit unresolved. Positive comments about reuse were not interpreted as proof that customers would accept any price or level of inconvenience.\n\nFor the final evaluation, the organisers compared the observed system with plausible alternatives. A returned cup did not always replace a disposable cup; some customers would otherwise have brought their own. The washing equipment's energy use also varied with how fully it was loaded. Instead of publishing a single saving for every drink, the report showed how the conclusion changed under different assumptions about replacement, transport and washing. This made the message less convenient for a poster but more useful for deciding where the scheme could improve.\n\nThe trial ended with a recommendation to expand the network gradually while monitoring collection points and stock. The cafés had shown that a shared scheme could operate, but the report distinguished that operational finding from a universal environmental claim. A different district might have longer journeys, fewer participating shops or less suitable washing capacity. The lesson was to examine the whole route through which a cup becomes available for another use. Reuse is an achievement of that route, not a property that a container acquires simply by being labelled returnable.",
+  "topic": "Reuse and logistics",
+  "sourceType": "ORIGINAL",
+  "source": "Original IELTS Academic-style practice written for IELTS 7.5 Lab. The case study and organisations are illustrative; this is not an official test or a report of published research.",
+  "family": "MULTIPLE_CHOICE",
+  "questionFamily": "MULTIPLE_CHOICE",
+  "practiceType": "REAL_PRACTICE",
+  "sourceStyle": "Environment",
+  "difficulty": "INTERMEDIATE",
+  "difficultyLevel": "EXAM",
+  "setNumber": 1,
+  "passageNumberEquivalent": 2,
+  "timeLimitMinutes": 20,
+  "isFullMockPassage": false,
+  "questions": [
+    {
+      "id": "reading-real-multiple-choice-01-q1",
+      "order": 1,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What was the trial primarily designed to investigate?",
+      "options": [
+        "A. Which cup material customers found most attractive",
+        "B. Whether environmental advertising increased drink sales",
+        "C. How reuse could be organised in everyday operation",
+        "D. Whether every customer supported a deposit"
+      ],
+      "answer": "C",
+      "acceptedAnswers": [],
+      "instructions": "Choose the correct letter, A, B, C or D.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "The organisers wanted to know which arrangements kept cups moving through the system, not merely whether customers liked the idea.",
+      "paragraph": "A",
+      "explanation": "The organisers investigated the arrangements that kept cups circulating.",
+      "trap": "A true detail from a different part of the process may not answer the question asked.",
+      "tip": "Locate the supporting sentence, compare the complete meaning and check the answer instructions.",
+      "analysis": {
+        "keyEvidence": "which arrangements kept cups moving through the system",
+        "questionKeywords": [
+          "primarily designed"
+        ],
+        "passageKeywords": [
+          "arrangements kept cups moving"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "primarily designed",
+            "passage": "arrangements kept cups moving",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {
+          "A": "No comparison of material appearance is described.",
+          "B": "The trial concerned organisation, not an advertising experiment.",
+          "C": "The organisers investigated the arrangements that kept cups circulating.",
+          "D": "Customers’ opinions were collected, but universal deposit support was not the central question."
+        },
+        "mistakeType": "DISTRACTOR",
+        "group": "",
+        "selectCount": 1
+      }
+    },
+    {
+      "id": "reading-real-multiple-choice-01-q2",
+      "order": 2,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Why did the organisers change how collections were scheduled?",
+      "options": [
+        "A. The busiest sellers refused to accept returns",
+        "B. The return workload was unevenly distributed",
+        "C. Every café had identical storage capacity",
+        "D. Customers could only return cups where they bought drinks"
+      ],
+      "answer": "B",
+      "acceptedAnswers": [],
+      "instructions": "Choose the correct letter, A, B, C or D.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "The organisers arranged collections according to the accumulation of cups rather than dividing visits equally among the cafés.",
+      "paragraph": "B",
+      "explanation": "A café near transport received many returns despite relatively few sales, so equal collections would ignore its workload.",
+      "trap": "A true detail from a different part of the process may not answer the question asked.",
+      "tip": "Locate the supporting sentence, compare the complete meaning and check the answer instructions.",
+      "analysis": {
+        "keyEvidence": "according to the accumulation of cups rather than dividing visits equally",
+        "questionKeywords": [
+          "unevenly distributed"
+        ],
+        "passageKeywords": [
+          "accumulation of cups"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "unevenly distributed",
+            "passage": "accumulation of cups",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {
+          "A": "The passage gives no refusal by high-selling cafés.",
+          "B": "A café near transport received many returns despite relatively few sales, so equal collections would ignore its workload.",
+          "C": "Identical storage capacities are not stated.",
+          "D": "The rule explicitly allowed returns at any participating café."
+        },
+        "mistakeType": "DISTRACTOR",
+        "group": "",
+        "selectCount": 1
+      }
+    },
+    {
+      "id": "reading-real-multiple-choice-01-q3",
+      "order": 3,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What does the example of a full bin and an empty cupboard illustrate?",
+      "options": [
+        "A. Washing always used more energy than manufacturing",
+        "B. Customers had stopped returning cups",
+        "C. Transport arrangements had become unnecessary",
+        "D. Successful returns did not ensure a supply of clean cups"
+      ],
+      "answer": "D",
+      "acceptedAnswers": [],
+      "instructions": "Choose the correct letter, A, B, C or D.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "A full collection bin and an empty cupboard could occur at the same café: one indicated successful returns, while the other could force staff to hand out disposable cups.",
+      "paragraph": "C",
+      "explanation": "Used cups could accumulate while a shortage of clean stock forced the café to use disposables.",
+      "trap": "A true detail from a different part of the process may not answer the question asked.",
+      "tip": "Locate the supporting sentence, compare the complete meaning and check the answer instructions.",
+      "analysis": {
+        "keyEvidence": "force staff to hand out disposable cups",
+        "questionKeywords": [
+          "supply of clean cups"
+        ],
+        "passageKeywords": [
+          "an empty cupboard"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "supply of clean cups",
+            "passage": "an empty cupboard",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {
+          "A": "The example does not compare washing and manufacturing energy.",
+          "B": "A full bin indicates returns, not their absence.",
+          "C": "Transport and ordering remain necessary to move clean cups.",
+          "D": "Used cups could accumulate while a shortage of clean stock forced the café to use disposables."
+        },
+        "mistakeType": "DISTRACTOR",
+        "group": "",
+        "selectCount": 1
+      }
+    },
+    {
+      "id": "reading-real-multiple-choice-01-q4",
+      "order": 4,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What can be concluded about increasing the deposit?",
+      "options": [
+        "A. Its effect was not established by this trial",
+        "B. It was proved to exclude every low-income customer",
+        "C. It increased returns without affecting purchases",
+        "D. It was the main reason the scheme failed"
+      ],
+      "answer": "A",
+      "acceptedAnswers": [],
+      "instructions": "Choose the correct letter, A, B, C or D.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "This decision left the effect of a larger deposit unresolved.",
+      "paragraph": "E",
+      "explanation": "The deposit was retained, so the effect of an increase remained unresolved.",
+      "trap": "A true detail from a different part of the process may not answer the question asked.",
+      "tip": "Locate the supporting sentence, compare the complete meaning and check the answer instructions.",
+      "analysis": {
+        "keyEvidence": "left the effect of a larger deposit unresolved",
+        "questionKeywords": [
+          "can be concluded"
+        ],
+        "passageKeywords": [
+          "effect ... unresolved"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "can be concluded",
+            "passage": "effect ... unresolved",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {
+          "A": "The deposit was retained, so the effect of an increase remained unresolved.",
+          "B": "Possible discouragement is a concern, not a finding about every customer.",
+          "C": "The higher deposit was not tested, so this result is not available.",
+          "D": "The passage does not describe a failed scheme or attribute failure to a changed deposit."
+        },
+        "mistakeType": "DISTRACTOR",
+        "group": "",
+        "selectCount": 1
+      }
+    },
+    {
+      "id": "reading-real-multiple-choice-01-q5",
+      "order": 5,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Why did the report present several possible environmental outcomes?",
+      "options": [
+        "A. Staff had forgotten to record completed cycles",
+        "B. The result depended on how the system operated and what it replaced",
+        "C. All returnable cups were known to have identical impacts",
+        "D. The cafés requested a simpler advertising slogan"
+      ],
+      "answer": "B",
+      "acceptedAnswers": [],
+      "instructions": "Choose the correct letter, A, B, C or D.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "Instead of publishing a single saving for every drink, the report showed how the conclusion changed under different assumptions about replacement, transport and washing.",
+      "paragraph": "F",
+      "explanation": "Replacement behaviour, washing loads and travel affect the calculation.",
+      "trap": "A true detail from a different part of the process may not answer the question asked.",
+      "tip": "Locate the supporting sentence, compare the complete meaning and check the answer instructions.",
+      "analysis": {
+        "keyEvidence": "different assumptions about replacement, transport and washing",
+        "questionKeywords": [
+          "depended on"
+        ],
+        "passageKeywords": [
+          "different assumptions"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "depended on",
+            "passage": "different assumptions",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {
+          "A": "Cycles were recorded; their absence is not the reason.",
+          "B": "Replacement behaviour, washing loads and travel affect the calculation.",
+          "C": "The report explicitly avoids a universal saving.",
+          "D": "Multiple scenarios made the poster message less convenient, not simpler."
+        },
+        "mistakeType": "DISTRACTOR",
+        "group": "",
+        "selectCount": 1
+      }
+    },
+    {
+      "id": "reading-real-multiple-choice-01-q6",
+      "order": 6,
+      "type": "MULTIPLE_ANSWER",
+      "question": "Which TWO limitations of judging success from returns or durability alone are identified?",
+      "options": [
+        "A. Durable materials cannot be washed",
+        "B. A returned cup can still have a short working life",
+        "C. Cup markings always disappear after washing",
+        "D. Keeping a cup at home was prohibited",
+        "E. An intact cup may never complete another use"
+      ],
+      "answer": "B,E",
+      "acceptedAnswers": [],
+      "instructions": "Choose TWO letters, A–E.",
+      "wordLimit": null,
+      "numberAllowed": false,
+      "evidence": "A high return rate was encouraging, but it did not guarantee a long working life. Conversely, a robust cup that remained in a customer's kitchen was physically intact without contributing another use.",
+      "paragraph": "D",
+      "explanation": "B is supported by the possibility of withdrawal after return; E is supported by an intact cup remaining in a customer’s kitchen.",
+      "trap": "Do not substitute manufacturing claims or a supposed ban on home use for the stated limits.",
+      "tip": "Locate the supporting sentence, compare the complete meaning and check the answer instructions.",
+      "analysis": {
+        "keyEvidence": "A high return rate was encouraging, but it did not guarantee a long working life.",
+        "questionKeywords": [
+          "returns or durability alone"
+        ],
+        "passageKeywords": [
+          "did not guarantee a long working life"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "returns or durability alone",
+            "passage": "did not guarantee a long working life",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {
+          "A": "No inability to wash durable materials is stated.",
+          "B": "Correct: returning does not prevent damage or staining from ending a cup’s working life.",
+          "C": "Permanent loss of markings is not stated.",
+          "D": "The text describes cups kept at home but states no prohibition.",
+          "E": "Correct: a robust cup in a customer’s kitchen remains intact without contributing another use."
+        },
+        "mistakeType": "DISTRACTOR",
+        "group": "",
+        "selectCount": 2
+      }
+    }
+  ]
+}

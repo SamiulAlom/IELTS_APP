@@ -1,0 +1,4 @@
+import { reading } from "@/lib/reading/service";
+import { apiError, readJson, ApiError } from "@/lib/http";
+export async function GET(request:Request){try{const url=new URL(request.url);const id=url.searchParams.get("attemptId");return Response.json(id?await reading.get(id):await reading.catalog());}catch(error){return apiError(error);}}
+export async function POST(request:Request){try{const action=new URL(request.url).searchParams.get("action");const body=await readJson(request);const handler=action==="start"?reading.start:action==="save"?reading.save:action==="help"?reading.help:action==="classify"?reading.classify:action==="retry"?reading.retry:action==="import"?reading.importPassage:action==="capture"?reading.capture:null;if(!handler)throw new ApiError(400,"Unknown reading action.");return Response.json(await handler(body));}catch(error){return apiError(error);}}

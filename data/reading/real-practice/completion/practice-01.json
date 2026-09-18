@@ -1,0 +1,331 @@
+{
+  "id": "reading-real-completion-01",
+  "title": "Making old weather records usable",
+  "content": "At a regional records centre, a collection of weather registers has become a test of what digitisation can reasonably promise. The registers were written by observers who recorded conditions beside their ordinary work at farms, schools and small ports. Researchers want to compare observations across places and years, but the centre also serves local people who value the books as objects. A readable image is therefore only one product of the project. Information about where a register came from, how it was arranged and which pages have been altered matters as much as the speed with which a visitor can retrieve a temperature.\n\nBefore a register reaches the camera, a conservator examines its binding and records damage on an assessment sheet. Pages with active mould are isolated; photographing them immediately would risk carrying contamination into the shared workspace. Loose surface dirt is removed with a soft brush when the paper is strong enough to tolerate it. Staff do not attempt to make every page look new. A stain may obscure a measurement, but removing it could also disturb an entry or eliminate evidence of how the book was used. Decisions about treatment are recorded rather than concealed in a polished final image.\n\nThe camera station is designed around the book instead of requiring the book to lie flat. A padded cradle supports bindings that cannot safely open all the way. Staff adjust the camera position and lighting before beginning a volume, then keep the arrangement stable while taking the images. At the start of each session, they photograph a colour target alongside the register. This reference helps later users distinguish a change in the paper from a change in the lighting. It does not allow them to reconstruct a colour that the original photograph failed to capture.\n\nImages are assigned filenames from a persistent identifier and a page sequence. The identifier follows the physical register even if a catalogue description changes. A small card is inserted temporarily when a leaf is missing so that a sequence of images cannot silently suggest that the text is complete. The main image is stored as a TIFF file; the public website displays a smaller derivative. Researchers can request the larger file, but routine browsing does not require transferring every detail preserved in the master image. Keeping the two versions separate also lets the centre replace its website without photographing the books again.\n\nTurning handwriting into searchable data introduces a different kind of uncertainty. A transcription program offers suggestions, but a human reader reviews each page. When a second reader cannot resolve a disputed figure, the entry is marked uncertain instead of being replaced by the value that seems most plausible. The original mark remains visible through a link from the data table to the image. This matters because an unusual temperature could be a copying error, an instrument fault or a genuine event. Correcting every unusual value would make the series tidier while possibly removing the observations that a researcher most needs to investigate.\n\nThe centre uses two distinct checks before releasing a batch. A sequence check looks for missing or repeated page images. A checksum is then calculated for each master file so that later changes to the stored data can be detected. The checksum cannot show whether a page was photographed sharply, so staff also inspect sample images at full size. A copy is held at a second site, and restoration is tested rather than assumed to work. These procedures address different failures: an intact backup of a blurred photograph still contains a blurred photograph.\n\nAccess remains a continuing task after the first release. Visitors can suggest corrections without editing the master transcription directly, and accepted changes retain a record of the previous reading. The centre keeps physical volumes available by appointment because some questions involve bindings, watermarks or the order in which entries were added. Digital access can reduce routine handling, but it does not remove the need to preserve the objects. The project is successful when it makes the records easier to use while keeping uncertainty and editorial intervention visible.",
+  "topic": "Archives and digitisation",
+  "sourceType": "ORIGINAL",
+  "source": "Original IELTS Academic-style practice written for IELTS 7.5 Lab. The case study and organisations are illustrative; this is not an official test or a report of published research.",
+  "family": "COMPLETION",
+  "questionFamily": "COMPLETION",
+  "practiceType": "REAL_PRACTICE",
+  "sourceStyle": "History",
+  "difficulty": "INTERMEDIATE",
+  "difficultyLevel": "EXAM",
+  "setNumber": 1,
+  "passageNumberEquivalent": 2,
+  "timeLimitMinutes": 20,
+  "isFullMockPassage": false,
+  "questions": [
+    {
+      "id": "reading-real-completion-01-q1",
+      "order": 1,
+      "type": "SENTENCE_COMPLETION",
+      "question": "Damage is recorded on an ___ before a register is photographed.",
+      "options": [],
+      "answer": "assessment sheet",
+      "acceptedAnswers": [],
+      "instructions": "Choose NO MORE THAN TWO WORDS from the passage.",
+      "wordLimit": 2,
+      "numberAllowed": false,
+      "evidence": "Before a register reaches the camera, a conservator examines its binding and records damage on an assessment sheet.",
+      "paragraph": "B",
+      "explanation": "The sentence identifies assessment sheet as the required information. A singular noun phrase; the article an is already supplied.",
+      "trap": "Adding an article or a unit already supplied by the question can exceed the limit or break the grammar.",
+      "tip": "Locate the supporting sentence, compare the complete meaning and check the answer instructions.",
+      "analysis": {
+        "keyEvidence": "records damage on an assessment sheet",
+        "questionKeywords": [
+          "Damage is recorded on an the missing expression before a register is photographed."
+        ],
+        "passageKeywords": [
+          "records damage on an assessment sheet"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "Damage is recorded on an the missing expression before a register is photographed.",
+            "passage": "records damage on an assessment sheet",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {},
+        "mistakeType": "MISSED_PARAPHRASE",
+        "group": "",
+        "selectCount": 1,
+        "answerGrammar": "A singular noun phrase; the article an is already supplied."
+      }
+    },
+    {
+      "id": "reading-real-completion-01-q2",
+      "order": 2,
+      "type": "SENTENCE_COMPLETION",
+      "question": "Loose dirt may be removed with a ___.",
+      "options": [],
+      "answer": "soft brush",
+      "acceptedAnswers": [],
+      "instructions": "Choose NO MORE THAN TWO WORDS from the passage.",
+      "wordLimit": 2,
+      "numberAllowed": false,
+      "evidence": "Loose surface dirt is removed with a soft brush when the paper is strong enough to tolerate it.",
+      "paragraph": "B",
+      "explanation": "The sentence identifies soft brush as the required information. A singular noun phrase describing the cleaning implement.",
+      "trap": "Adding an article or a unit already supplied by the question can exceed the limit or break the grammar.",
+      "tip": "Locate the supporting sentence, compare the complete meaning and check the answer instructions.",
+      "analysis": {
+        "keyEvidence": "removed with a soft brush",
+        "questionKeywords": [
+          "Loose dirt may be removed with a the missing expression."
+        ],
+        "passageKeywords": [
+          "removed with a soft brush"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "Loose dirt may be removed with a the missing expression.",
+            "passage": "removed with a soft brush",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {},
+        "mistakeType": "MISSED_PARAPHRASE",
+        "group": "",
+        "selectCount": 1,
+        "answerGrammar": "A singular noun phrase describing the cleaning implement."
+      }
+    },
+    {
+      "id": "reading-real-completion-01-q3",
+      "order": 3,
+      "type": "SUMMARY_COMPLETION",
+      "question": "Bindings that cannot open fully are supported by a ___.",
+      "options": [],
+      "answer": "padded cradle",
+      "acceptedAnswers": [],
+      "instructions": "Choose NO MORE THAN TWO WORDS from the passage.",
+      "wordLimit": 2,
+      "numberAllowed": false,
+      "evidence": "A padded cradle supports bindings that cannot safely open all the way.",
+      "paragraph": "C",
+      "explanation": "The sentence identifies padded cradle as the required information. A singular noun phrase naming the support.",
+      "trap": "Adding an article or a unit already supplied by the question can exceed the limit or break the grammar.",
+      "tip": "Locate the supporting sentence, compare the complete meaning and check the answer instructions.",
+      "analysis": {
+        "keyEvidence": "A padded cradle supports bindings",
+        "questionKeywords": [
+          "Bindings that cannot open fully are supported by a the missing expression."
+        ],
+        "passageKeywords": [
+          "A padded cradle supports bindings"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "Bindings that cannot open fully are supported by a the missing expression.",
+            "passage": "A padded cradle supports bindings",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {},
+        "mistakeType": "MISSED_PARAPHRASE",
+        "group": "Preparing a register for photography",
+        "selectCount": 1,
+        "answerGrammar": "A singular noun phrase naming the support."
+      }
+    },
+    {
+      "id": "reading-real-completion-01-q4",
+      "order": 4,
+      "type": "SUMMARY_COMPLETION",
+      "question": "To compare colours across sessions, staff first photograph a ___.",
+      "options": [],
+      "answer": "colour target",
+      "acceptedAnswers": [],
+      "instructions": "Choose NO MORE THAN TWO WORDS from the passage.",
+      "wordLimit": 2,
+      "numberAllowed": false,
+      "evidence": "At the start of each session, they photograph a colour target alongside the register.",
+      "paragraph": "C",
+      "explanation": "The sentence identifies colour target as the required information. A singular noun phrase; retain the source spelling.",
+      "trap": "Adding an article or a unit already supplied by the question can exceed the limit or break the grammar.",
+      "tip": "Locate the supporting sentence, compare the complete meaning and check the answer instructions.",
+      "analysis": {
+        "keyEvidence": "photograph a colour target alongside the register",
+        "questionKeywords": [
+          "To compare colours across sessions, staff first photograph a the missing expression."
+        ],
+        "passageKeywords": [
+          "photograph a colour target alongside the register"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "To compare colours across sessions, staff first photograph a the missing expression.",
+            "passage": "photograph a colour target alongside the register",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {},
+        "mistakeType": "MISSED_PARAPHRASE",
+        "group": "Preparing a register for photography",
+        "selectCount": 1,
+        "answerGrammar": "A singular noun phrase; retain the source spelling."
+      }
+    },
+    {
+      "id": "reading-real-completion-01-q5",
+      "order": 5,
+      "type": "NOTE_COMPLETION",
+      "question": "The physical register keeps its ___ even when its description changes.",
+      "options": [],
+      "answer": "identifier",
+      "acceptedAnswers": [],
+      "instructions": "Choose ONE WORD ONLY from the passage.",
+      "wordLimit": 1,
+      "numberAllowed": false,
+      "evidence": "The identifier follows the physical register even if a catalogue description changes.",
+      "paragraph": "D",
+      "explanation": "The sentence identifies identifier as the required information. One singular noun.",
+      "trap": "Adding an article or a unit already supplied by the question can exceed the limit or break the grammar.",
+      "tip": "Locate the supporting sentence, compare the complete meaning and check the answer instructions.",
+      "analysis": {
+        "keyEvidence": "The identifier follows the physical register",
+        "questionKeywords": [
+          "The physical register keeps its the missing expression even when its description changes."
+        ],
+        "passageKeywords": [
+          "The identifier follows the physical register"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "The physical register keeps its the missing expression even when its description changes.",
+            "passage": "The identifier follows the physical register",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {},
+        "mistakeType": "MISSED_PARAPHRASE",
+        "group": "",
+        "selectCount": 1,
+        "answerGrammar": "One singular noun.",
+        "noteGroup": {
+          "id": "record-notes",
+          "title": "Image and catalogue management",
+          "section": "Identity",
+          "before": "The physical register keeps its",
+          "after": "even when its catalogue description changes."
+        }
+      }
+    },
+    {
+      "id": "reading-real-completion-01-q6",
+      "order": 6,
+      "type": "TABLE_COMPLETION",
+      "question": "File versions: master image — ___ file; website — smaller derivative.",
+      "options": [],
+      "answer": "TIFF",
+      "acceptedAnswers": [],
+      "instructions": "Choose ONE WORD ONLY from the passage.",
+      "wordLimit": 1,
+      "numberAllowed": false,
+      "evidence": "The main image is stored as a TIFF file; the public website displays a smaller derivative.",
+      "paragraph": "D",
+      "explanation": "The sentence identifies TIFF as the required information. One file-format name; case is ignored.",
+      "trap": "Adding an article or a unit already supplied by the question can exceed the limit or break the grammar.",
+      "tip": "Locate the supporting sentence, compare the complete meaning and check the answer instructions.",
+      "analysis": {
+        "keyEvidence": "The main image is stored as a TIFF file",
+        "questionKeywords": [
+          "File versions: master image — the missing expression file; website — smaller derivative."
+        ],
+        "passageKeywords": [
+          "The main image is stored as a TIFF file"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "File versions: master image — the missing expression file; website — smaller derivative.",
+            "passage": "The main image is stored as a TIFF file",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {},
+        "mistakeType": "MISSED_PARAPHRASE",
+        "group": "Version | Format or size\nMaster image | ___ file\nWebsite copy | Smaller derivative",
+        "selectCount": 1,
+        "answerGrammar": "One file-format name; case is ignored."
+      }
+    },
+    {
+      "id": "reading-real-completion-01-q7",
+      "order": 7,
+      "type": "TABLE_COMPLETION",
+      "question": "Transcription status: unresolved disputed figure — marked ___.",
+      "options": [],
+      "answer": "uncertain",
+      "acceptedAnswers": [],
+      "instructions": "Choose ONE WORD ONLY from the passage.",
+      "wordLimit": 1,
+      "numberAllowed": false,
+      "evidence": "When a second reader cannot resolve a disputed figure, the entry is marked uncertain instead of being replaced by the value that seems most plausible.",
+      "paragraph": "E",
+      "explanation": "The sentence identifies uncertain as the required information. One adjective describing the status.",
+      "trap": "Adding an article or a unit already supplied by the question can exceed the limit or break the grammar.",
+      "tip": "Locate the supporting sentence, compare the complete meaning and check the answer instructions.",
+      "analysis": {
+        "keyEvidence": "the entry is marked uncertain",
+        "questionKeywords": [
+          "Transcription status: unresolved disputed figure — marked the missing expression."
+        ],
+        "passageKeywords": [
+          "the entry is marked uncertain"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "Transcription status: unresolved disputed figure — marked the missing expression.",
+            "passage": "the entry is marked uncertain",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {},
+        "mistakeType": "MISSED_PARAPHRASE",
+        "group": "Situation | Status\nDisputed figure not resolved by a second reader | ___",
+        "selectCount": 1,
+        "answerGrammar": "One adjective describing the status."
+      }
+    },
+    {
+      "id": "reading-real-completion-01-q8",
+      "order": 8,
+      "type": "FLOW_CHART_COMPLETION",
+      "question": "Sequence check → calculate a ___ for each master → inspect sample images.",
+      "options": [],
+      "answer": "checksum",
+      "acceptedAnswers": [],
+      "instructions": "Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage.",
+      "wordLimit": 3,
+      "numberAllowed": true,
+      "evidence": "A checksum is then calculated for each master file so that later changes to the stored data can be detected.",
+      "paragraph": "F",
+      "explanation": "The sentence identifies checksum as the required information. One singular noun naming a data-integrity check.",
+      "trap": "Adding an article or a unit already supplied by the question can exceed the limit or break the grammar.",
+      "tip": "Locate the supporting sentence, compare the complete meaning and check the answer instructions.",
+      "analysis": {
+        "keyEvidence": "A checksum is then calculated for each master file",
+        "questionKeywords": [
+          "Sequence check → calculate a the missing expression for each master → inspect sample images."
+        ],
+        "passageKeywords": [
+          "A checksum is then calculated for each master file"
+        ],
+        "paraphrasePairs": [
+          {
+            "question": "Sequence check → calculate a the missing expression for each master → inspect sample images.",
+            "passage": "A checksum is then calculated for each master file",
+            "relationship": "EQUIVALENCE"
+          }
+        ],
+        "optionReasons": {},
+        "mistakeType": "MISSED_PARAPHRASE",
+        "group": "Release checks\nCheck the page sequence → Calculate a ___ → Inspect sample images → Test restoration",
+        "selectCount": 1,
+        "answerGrammar": "One singular noun naming a data-integrity check."
+      }
+    }
+  ]
+}

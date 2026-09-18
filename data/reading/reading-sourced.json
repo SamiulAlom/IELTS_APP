@@ -1,0 +1,1552 @@
+[
+  {
+    "id": "reading-gold-source-coral",
+    "title": "How coral reefs form — Darwin extracts",
+    "content": "The theory that has been most generally received is, that atolls are based on submarine craters; but when we consider the form and size of some, the number, proximity, and relative positions of others, this idea loses its plausible character: thus Suadiva atoll is 44 geographical miles in diameter in one line, by 34 miles in another line; Rimsky is 54 by 20 miles across, and it has a strangely sinuous margin; Bow atoll is 30 miles long, and on an average only 6 in width; Menchicoff atoll consists of three atolls united or tied together. This theory, moreover, is totally inapplicable to the northern Maldiva atolls in the Indian Ocean (one of which is 88 miles in length, and between 10 and 20 in breadth), for they are not bounded like ordinary atolls by narrow reefs, but by a vast number of separate little atolls; other little atolls rising out of the great central lagoon-like spaces.\n\nA third and better theory was advanced by Chamisso, who thought that from the corals growing more vigorously where exposed to the open sea, as undoubtedly is the case, the outer edges would grow up from the general foundation before any other part, and that this would account for the ring or cup-shaped structure. But we shall immediately see, that in this, as well as in the crater-theory, a most important consideration has been overlooked, namely, on what have the reef-building corals, which cannot live at a great depth, based their massive structures?\n\nNumerous soundings were carefully taken by Captain Fitz Roy on the steep outside of Keeling atoll, and it was found that within ten fathoms, the prepared tallow at the bottom of the lead, invariably came up marked with the impression of living corals, but as perfectly clean as if it had been dropped on a carpet of turf; as the depth increased, the impressions became less numerous, but the adhering particles of sand more and more numerous, until at last it was evident that the bottom consisted of a smooth sandy layer: to carry on the analogy of the turf, the blades of grass grew thinner and thinner, till at last the soil was so sterile, that nothing sprang from it. From these observations, confirmed by many others, it may be safely inferred that the utmost depth at which corals can construct reefs is between 20 and 30 fathoms.\n\nIt is improbable in the highest degree that broad, lofty, isolated, steep-sided banks of sediment, arranged in groups and lines hundreds of leagues in length, could have been deposited in the central and profoundest parts of the Pacific and Indian Oceans, at an immense distance from any continent, and where the water is perfectly limpid. It is equally improbable that the elevatory forces should have uplifted throughout the above vast areas, innumerable great rocky banks within 20 to 30 fathoms, or 120 to 180 feet, of the surface of the sea, and not one single point above that level; for where on the whole surface of the globe can we find a single chain of mountains, even a few hundred miles in length, with their many summits rising within a few feet of a given level, and not one pinnacle above it? If then the foundations, whence the atoll-building corals sprang, were not formed of sediment, and if they were not lifted up to the required level, they must of necessity have subsided into it; and this at once solves the difficulty. For as mountain after mountain, and island after island, slowly sank beneath the water, fresh bases would be successively afforded for the growth of the corals.\n\nBefore explaining how atoll-formed reefs acquire their peculiar structure, we must turn to the second great class, namely, Barrier-reefs. These either extend in straight lines in front of the shores of a continent or of a large island, or they encircle smaller islands; in both cases, being separated from the land by a broad and rather deep channel of water, analogous to the lagoon within an atoll. Encircling barrier-reefs are of all sizes, from three miles to no less than forty-four miles in diameter; and that which fronts one side, and encircles both ends, of New Caledonia, is 400 miles long. Each reef includes one, two, or several rocky islands of various heights; and in one instance, even as many as twelve separate islands. The reef runs at a greater or less distance from the included land; in the Society archipelago generally from one to three or four miles; but at Hogoleu the reef is 20 miles on the southern side, and 14 miles on the opposite or northern side, from the included islands.\n\nIt may be asked, whether I can offer any direct evidence of the subsidence of barrier-reefs or atolls; but it must be borne in mind how difficult it must ever be to detect a movement, the tendency of which is to hide under water the part affected. Nevertheless, at Keeling atoll I observed on all sides of the lagoon old cocoa-nut trees undermined and falling; and in one place the foundation-posts of a shed, which the inhabitants asserted had stood seven years before just above high-water mark, but now was daily washed by every tide: on inquiry I found that three earthquakes, one of them severe, had been felt here during the last ten years.",
+    "topic": "History of science",
+    "sourceType": "PUBLIC_DOMAIN",
+    "source": "Charles Darwin, The Voyage of the Beagle, Chapter XX. Public-domain extracts; selected sentences regrouped as A–F, with omissions between extracts. Original wording retained. Questions newly written for this app, not an official IELTS test. https://www.gutenberg.org/ebooks/944",
+    "difficulty": "ADVANCED",
+    "family": "MATCHING",
+    "difficultyLevel": "ADVANCED",
+    "setNumber": 18,
+    "passageNumberEquivalent": 3,
+    "isFullMockPassage": false,
+    "timeLimitMinutes": 20,
+    "questions": [
+      {
+        "id": "reading-gold-source-coral-note1",
+        "order": 1,
+        "type": "NOTE_COMPLETION",
+        "question": "At greater depths, the samples contained increasing amounts of ___ .",
+        "options": [],
+        "answer": "sand",
+        "acceptedAnswers": [],
+        "instructions": "Complete the notes below. Choose ONE WORD AND/OR A NUMBER from the passage for each answer.",
+        "wordLimit": 1,
+        "numberAllowed": true,
+        "evidence": "the adhering particles of sand more and more numerous",
+        "paragraph": "C",
+        "explanation": "The account contrasts fewer coral impressions with increasing sand as the soundings deepen.",
+        "trap": "Do not answer corals: their impressions become less numerous.",
+        "tip": "Identify the topic and predict the missing word’s grammatical role. Copy the exact word or number and check the limit.",
+        "analysis": {
+          "keyEvidence": "particles of sand",
+          "questionKeywords": [
+            "increasing amounts"
+          ],
+          "passageKeywords": [
+            "more and more numerous"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "increasing amounts",
+              "passage": "more and more numerous",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "CARELESS_ERROR",
+          "selectCount": 1,
+          "group": "",
+          "noteGroup": {
+            "id": "reef-notes",
+            "title": "Coral reefs: observations and evidence",
+            "section": "Sounding observations",
+            "before": "At greater depths, the samples contained increasing amounts of",
+            "after": "."
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-coral-note2",
+        "order": 2,
+        "type": "NOTE_COMPLETION",
+        "question": "The upper value of the estimated maximum depth for reef construction was ___ fathoms.",
+        "options": [],
+        "answer": "30",
+        "acceptedAnswers": [],
+        "instructions": "Complete the notes below. Choose ONE WORD AND/OR A NUMBER from the passage for each answer.",
+        "wordLimit": 1,
+        "numberAllowed": true,
+        "evidence": "the utmost depth at which corals can construct reefs is between 20 and 30 fathoms.",
+        "paragraph": "C",
+        "explanation": "The stated range is 20–30 fathoms; the question asks for its upper value.",
+        "trap": "20 is the lower end, not the upper value.",
+        "tip": "Identify the topic and predict the missing word’s grammatical role. Copy the exact word or number and check the limit.",
+        "analysis": {
+          "keyEvidence": "between 20 and 30 fathoms",
+          "questionKeywords": [
+            "upper value"
+          ],
+          "passageKeywords": [
+            "30 fathoms"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "upper value",
+              "passage": "30 fathoms",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "CARELESS_ERROR",
+          "selectCount": 1,
+          "group": "",
+          "noteGroup": {
+            "id": "reef-notes",
+            "title": "Coral reefs: observations and evidence",
+            "section": "Sounding observations",
+            "before": "The upper value of the estimated maximum depth for reef construction was",
+            "after": "fathoms."
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-coral-note3",
+        "order": 3,
+        "type": "NOTE_COMPLETION",
+        "question": "The reef along New Caledonia was ___ miles long.",
+        "options": [],
+        "answer": "400",
+        "acceptedAnswers": [],
+        "instructions": "Complete the notes below. Choose ONE WORD AND/OR A NUMBER from the passage for each answer.",
+        "wordLimit": 1,
+        "numberAllowed": true,
+        "evidence": "that which fronts one side, and encircles both ends, of New Caledonia, is 400 miles long.",
+        "paragraph": "E",
+        "explanation": "The New Caledonia reef is explicitly described as 400 miles long.",
+        "trap": "Forty-four refers to a diameter range, not this reef’s length.",
+        "tip": "Identify the topic and predict the missing word’s grammatical role. Copy the exact word or number and check the limit.",
+        "analysis": {
+          "keyEvidence": "400 miles long",
+          "questionKeywords": [
+            "reef along New Caledonia"
+          ],
+          "passageKeywords": [
+            "fronts one side, and encircles both ends"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "reef along New Caledonia",
+              "passage": "fronts one side, and encircles both ends",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "CARELESS_ERROR",
+          "selectCount": 1,
+          "group": "",
+          "noteGroup": {
+            "id": "reef-notes",
+            "title": "Coral reefs: observations and evidence",
+            "section": "Barrier-reef dimensions",
+            "before": "The reef along New Caledonia was",
+            "after": "miles long."
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-coral-note4",
+        "order": 4,
+        "type": "NOTE_COMPLETION",
+        "question": "In one example a reef included as many as ___ separate islands.",
+        "options": [],
+        "answer": "twelve",
+        "acceptedAnswers": [
+          "12"
+        ],
+        "instructions": "Complete the notes below. Choose ONE WORD AND/OR A NUMBER from the passage for each answer.",
+        "wordLimit": 1,
+        "numberAllowed": true,
+        "evidence": "in one instance, even as many as twelve separate islands.",
+        "paragraph": "E",
+        "explanation": "Darwin gives twelve as the number of separate islands in one instance.",
+        "trap": "Keep the unit out of the blank because islands follows it.",
+        "tip": "Identify the topic and predict the missing word’s grammatical role. Copy the exact word or number and check the limit.",
+        "analysis": {
+          "keyEvidence": "twelve separate islands",
+          "questionKeywords": [
+            "in one example"
+          ],
+          "passageKeywords": [
+            "in one instance"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "in one example",
+              "passage": "in one instance",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "CARELESS_ERROR",
+          "selectCount": 1,
+          "group": "",
+          "noteGroup": {
+            "id": "reef-notes",
+            "title": "Coral reefs: observations and evidence",
+            "section": "Barrier-reef dimensions",
+            "before": "In one example a reef included as many as",
+            "after": "separate islands."
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-coral-note5",
+        "order": 5,
+        "type": "NOTE_COMPLETION",
+        "question": "A shed’s foundation-posts were now washed by every ___ .",
+        "options": [],
+        "answer": "tide",
+        "acceptedAnswers": [],
+        "instructions": "Complete the notes below. Choose ONE WORD AND/OR A NUMBER from the passage for each answer.",
+        "wordLimit": 1,
+        "numberAllowed": true,
+        "evidence": "but now was daily washed by every tide",
+        "paragraph": "F",
+        "explanation": "The supports are contrasted with their earlier position above high-water mark.",
+        "trap": "Earthquakes are mentioned later but do not grammatically complete every here in this description.",
+        "tip": "Identify the topic and predict the missing word’s grammatical role. Copy the exact word or number and check the limit.",
+        "analysis": {
+          "keyEvidence": "every tide",
+          "questionKeywords": [
+            "now washed"
+          ],
+          "passageKeywords": [
+            "now was daily washed"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "now washed",
+              "passage": "now was daily washed",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "CARELESS_ERROR",
+          "selectCount": 1,
+          "group": "",
+          "noteGroup": {
+            "id": "reef-notes",
+            "title": "Coral reefs: observations and evidence",
+            "section": "Signs of subsidence",
+            "before": "A shed’s foundation-posts were now washed by every",
+            "after": "."
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-coral-note6",
+        "order": 6,
+        "type": "NOTE_COMPLETION",
+        "question": "Local people reported three ___ during the preceding ten years.",
+        "options": [],
+        "answer": "earthquakes",
+        "acceptedAnswers": [],
+        "instructions": "Complete the notes below. Choose ONE WORD AND/OR A NUMBER from the passage for each answer.",
+        "wordLimit": 1,
+        "numberAllowed": true,
+        "evidence": "three earthquakes, one of them severe, had been felt here during the last ten years.",
+        "paragraph": "F",
+        "explanation": "The inquiry established that three earthquakes had occurred in ten years.",
+        "trap": "The plural is required after three; severe describes only one event.",
+        "tip": "Identify the topic and predict the missing word’s grammatical role. Copy the exact word or number and check the limit.",
+        "analysis": {
+          "keyEvidence": "three earthquakes",
+          "questionKeywords": [
+            "preceding ten years"
+          ],
+          "passageKeywords": [
+            "last ten years"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "preceding ten years",
+              "passage": "last ten years",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {},
+          "mistakeType": "CARELESS_ERROR",
+          "selectCount": 1,
+          "group": "",
+          "noteGroup": {
+            "id": "reef-notes",
+            "title": "Coral reefs: observations and evidence",
+            "section": "Signs of subsidence",
+            "before": "Local people reported three",
+            "after": "during the preceding ten years."
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-coral-q1",
+        "order": 7,
+        "type": "MATCHING_HEADINGS",
+        "question": "Section A",
+        "options": [
+          "i. A promising explanation with a missing foundation",
+          "ii. A plan to protect reefs from shipping",
+          "iii. The physical shapes that challenge a popular theory",
+          "iv. Measurements revealing a limit to coral growth",
+          "v. The positions and dimensions of barrier reefs",
+          "vi. Local observations that suggest sinking land",
+          "vii. Sinking foundations as the remaining explanation"
+        ],
+        "answer": "iii",
+        "acceptedAnswers": [],
+        "instructions": "The passage has six sections, A–F. Choose the correct heading for each section from the list below. Choose the correct numeral, i–vii. Use each heading once.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The examples of size, shape and linked atolls challenge the crater explanation throughout A.",
+        "evidence": "The theory that has been most generally received is, that atolls are based on submarine craters; but when we consider the form and size of some, the number, proximity, and relative positions of others, this idea loses its plausible character:",
+        "paragraph": "A",
+        "trap": "The many measurements support a criticism of a theory; they are not measurements of coral growth.",
+        "tip": "Choose the main idea of the whole section; a repeated word or isolated example is not enough.",
+        "analysis": {
+          "keyEvidence": "this idea loses its plausible character",
+          "questionKeywords": [
+            "challenge a popular theory"
+          ],
+          "passageKeywords": [
+            "this idea loses its plausible character"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "challenge a popular theory",
+              "passage": "this idea loses its plausible character",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "i": "i. A promising explanation with a missing foundation This heading concerns Chamisso’s incomplete explanation in B. This does not match the complete statement in this question.",
+            "ii": "ii. A plan to protect reefs from shipping No section proposes a shipping protection plan. This does not match the complete statement in this question.",
+            "iii": "The examples of size, shape and linked atolls challenge the crater explanation throughout A.",
+            "iv": "iv. Measurements revealing a limit to coral growth C describes soundings and the depth limit. This does not match the complete statement in this question.",
+            "v": "v. The positions and dimensions of barrier reefs E describes the location and extent of barrier reefs. This does not match the complete statement in this question.",
+            "vi": "vi. Local observations that suggest sinking land F describes trees and a shed affected by water. This does not match the complete statement in this question.",
+            "vii": "vii. Sinking foundations as the remaining explanation D rules out two alternatives and concludes subsidence. This does not match the complete statement in this question."
+          },
+          "mistakeType": "MATCHING_HEADING_ERROR",
+          "group": "",
+          "selectCount": 1,
+          "matchingGroup": {
+            "id": "reef-headings",
+            "optionsTitle": "List of Headings",
+            "reuseAllowed": false
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-coral-q2",
+        "order": 8,
+        "type": "MATCHING_HEADINGS",
+        "question": "Section B",
+        "options": [
+          "i. A promising explanation with a missing foundation",
+          "ii. A plan to protect reefs from shipping",
+          "iii. The physical shapes that challenge a popular theory",
+          "iv. Measurements revealing a limit to coral growth",
+          "v. The positions and dimensions of barrier reefs",
+          "vi. Local observations that suggest sinking land",
+          "vii. Sinking foundations as the remaining explanation"
+        ],
+        "answer": "i",
+        "acceptedAnswers": [],
+        "instructions": "The passage has six sections, A–F. Choose the correct heading for each section from the list below. Choose the correct numeral, i–vii. Use each heading once.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "B introduces Chamisso’s better theory and then points out its unanswered foundation problem.",
+        "evidence": "a most important consideration has been overlooked, namely, on what have the reef-building corals, which cannot live at a great depth, based their massive structures?",
+        "paragraph": "B",
+        "trap": "Do not stop after the positive description in the first sentence.",
+        "tip": "Choose the main idea of the whole section; a repeated word or isolated example is not enough.",
+        "analysis": {
+          "keyEvidence": "a most important consideration has been overlooked",
+          "questionKeywords": [
+            "a missing foundation"
+          ],
+          "passageKeywords": [
+            "on what have the reef-building corals"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "a missing foundation",
+              "passage": "on what have the reef-building corals",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "i": "B introduces Chamisso’s better theory and then points out its unanswered foundation problem.",
+            "ii": "ii. A plan to protect reefs from shipping No section proposes a shipping protection plan. This does not match the complete statement in this question.",
+            "iii": "iii. The physical shapes that challenge a popular theory A tests the crater theory against shapes and sizes. This does not match the complete statement in this question.",
+            "iv": "iv. Measurements revealing a limit to coral growth C describes soundings and the depth limit. This does not match the complete statement in this question.",
+            "v": "v. The positions and dimensions of barrier reefs E describes the location and extent of barrier reefs. This does not match the complete statement in this question.",
+            "vi": "vi. Local observations that suggest sinking land F describes trees and a shed affected by water. This does not match the complete statement in this question.",
+            "vii": "vii. Sinking foundations as the remaining explanation D rules out two alternatives and concludes subsidence. This does not match the complete statement in this question."
+          },
+          "mistakeType": "MATCHING_HEADING_ERROR",
+          "group": "",
+          "selectCount": 1,
+          "matchingGroup": {
+            "id": "reef-headings",
+            "optionsTitle": "List of Headings",
+            "reuseAllowed": false
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-coral-q3",
+        "order": 9,
+        "type": "MATCHING_HEADINGS",
+        "question": "Section C",
+        "options": [
+          "i. A promising explanation with a missing foundation",
+          "ii. A plan to protect reefs from shipping",
+          "iii. The physical shapes that challenge a popular theory",
+          "iv. Measurements revealing a limit to coral growth",
+          "v. The positions and dimensions of barrier reefs",
+          "vi. Local observations that suggest sinking land",
+          "vii. Sinking foundations as the remaining explanation"
+        ],
+        "answer": "iv",
+        "acceptedAnswers": [],
+        "instructions": "The passage has six sections, A–F. Choose the correct heading for each section from the list below. Choose the correct numeral, i–vii. Use each heading once.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The sounding observations lead to a maximum depth for reef construction.",
+        "evidence": "the utmost depth at which corals can construct reefs is between 20 and 30 fathoms.",
+        "paragraph": "C",
+        "trap": "References to turf are an analogy, not the section’s subject.",
+        "tip": "Choose the main idea of the whole section; a repeated word or isolated example is not enough.",
+        "analysis": {
+          "keyEvidence": "the utmost depth",
+          "questionKeywords": [
+            "a limit to coral growth"
+          ],
+          "passageKeywords": [
+            "the utmost depth at which corals can construct reefs"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "a limit to coral growth",
+              "passage": "the utmost depth at which corals can construct reefs",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "i": "i. A promising explanation with a missing foundation This heading concerns Chamisso’s incomplete explanation in B. This does not match the complete statement in this question.",
+            "ii": "ii. A plan to protect reefs from shipping No section proposes a shipping protection plan. This does not match the complete statement in this question.",
+            "iii": "iii. The physical shapes that challenge a popular theory A tests the crater theory against shapes and sizes. This does not match the complete statement in this question.",
+            "iv": "The sounding observations lead to a maximum depth for reef construction.",
+            "v": "v. The positions and dimensions of barrier reefs E describes the location and extent of barrier reefs. This does not match the complete statement in this question.",
+            "vi": "vi. Local observations that suggest sinking land F describes trees and a shed affected by water. This does not match the complete statement in this question.",
+            "vii": "vii. Sinking foundations as the remaining explanation D rules out two alternatives and concludes subsidence. This does not match the complete statement in this question."
+          },
+          "mistakeType": "MATCHING_HEADING_ERROR",
+          "group": "",
+          "selectCount": 1,
+          "matchingGroup": {
+            "id": "reef-headings",
+            "optionsTitle": "List of Headings",
+            "reuseAllowed": false
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-coral-q4",
+        "order": 10,
+        "type": "MATCHING_HEADINGS",
+        "question": "Section D",
+        "options": [
+          "i. A promising explanation with a missing foundation",
+          "ii. A plan to protect reefs from shipping",
+          "iii. The physical shapes that challenge a popular theory",
+          "iv. Measurements revealing a limit to coral growth",
+          "v. The positions and dimensions of barrier reefs",
+          "vi. Local observations that suggest sinking land",
+          "vii. Sinking foundations as the remaining explanation"
+        ],
+        "answer": "vii",
+        "acceptedAnswers": [],
+        "instructions": "The passage has six sections, A–F. Choose the correct heading for each section from the list below. Choose the correct numeral, i–vii. Use each heading once.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "D rejects sediment deposits and uplift as foundations and concludes that the land sank.",
+        "evidence": "they must of necessity have subsided into it; and this at once solves the difficulty.",
+        "paragraph": "D",
+        "trap": "This is a process of elimination, not a direct field measurement.",
+        "tip": "Choose the main idea of the whole section; a repeated word or isolated example is not enough.",
+        "analysis": {
+          "keyEvidence": "must of necessity have subsided",
+          "questionKeywords": [
+            "sinking foundations"
+          ],
+          "passageKeywords": [
+            "have subsided"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "sinking foundations",
+              "passage": "have subsided",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "i": "i. A promising explanation with a missing foundation This heading concerns Chamisso’s incomplete explanation in B. This does not match the complete statement in this question.",
+            "ii": "ii. A plan to protect reefs from shipping No section proposes a shipping protection plan. This does not match the complete statement in this question.",
+            "iii": "iii. The physical shapes that challenge a popular theory A tests the crater theory against shapes and sizes. This does not match the complete statement in this question.",
+            "iv": "iv. Measurements revealing a limit to coral growth C describes soundings and the depth limit. This does not match the complete statement in this question.",
+            "v": "v. The positions and dimensions of barrier reefs E describes the location and extent of barrier reefs. This does not match the complete statement in this question.",
+            "vi": "vi. Local observations that suggest sinking land F describes trees and a shed affected by water. This does not match the complete statement in this question.",
+            "vii": "D rejects sediment deposits and uplift as foundations and concludes that the land sank."
+          },
+          "mistakeType": "MATCHING_HEADING_ERROR",
+          "group": "",
+          "selectCount": 1,
+          "matchingGroup": {
+            "id": "reef-headings",
+            "optionsTitle": "List of Headings",
+            "reuseAllowed": false
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-coral-q5",
+        "order": 11,
+        "type": "MATCHING_HEADINGS",
+        "question": "Section E",
+        "options": [
+          "i. A promising explanation with a missing foundation",
+          "ii. A plan to protect reefs from shipping",
+          "iii. The physical shapes that challenge a popular theory",
+          "iv. Measurements revealing a limit to coral growth",
+          "v. The positions and dimensions of barrier reefs",
+          "vi. Local observations that suggest sinking land",
+          "vii. Sinking foundations as the remaining explanation"
+        ],
+        "answer": "v",
+        "acceptedAnswers": [],
+        "instructions": "The passage has six sections, A–F. Choose the correct heading for each section from the list below. Choose the correct numeral, i–vii. Use each heading once.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "E describes where barrier reefs lie relative to land and illustrates their scale and distances.",
+        "evidence": "Encircling barrier-reefs are of all sizes, from three miles to no less than forty-four miles in diameter;",
+        "paragraph": "E",
+        "trap": "The numerical examples do not concern the maximum depth of living coral.",
+        "tip": "Choose the main idea of the whole section; a repeated word or isolated example is not enough.",
+        "analysis": {
+          "keyEvidence": "of all sizes",
+          "questionKeywords": [
+            "dimensions"
+          ],
+          "passageKeywords": [
+            "of all sizes"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "dimensions",
+              "passage": "of all sizes",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "i": "i. A promising explanation with a missing foundation This heading concerns Chamisso’s incomplete explanation in B. This does not match the complete statement in this question.",
+            "ii": "ii. A plan to protect reefs from shipping No section proposes a shipping protection plan. This does not match the complete statement in this question.",
+            "iii": "iii. The physical shapes that challenge a popular theory A tests the crater theory against shapes and sizes. This does not match the complete statement in this question.",
+            "iv": "iv. Measurements revealing a limit to coral growth C describes soundings and the depth limit. This does not match the complete statement in this question.",
+            "v": "E describes where barrier reefs lie relative to land and illustrates their scale and distances.",
+            "vi": "vi. Local observations that suggest sinking land F describes trees and a shed affected by water. This does not match the complete statement in this question.",
+            "vii": "vii. Sinking foundations as the remaining explanation D rules out two alternatives and concludes subsidence. This does not match the complete statement in this question."
+          },
+          "mistakeType": "MATCHING_HEADING_ERROR",
+          "group": "",
+          "selectCount": 1,
+          "matchingGroup": {
+            "id": "reef-headings",
+            "optionsTitle": "List of Headings",
+            "reuseAllowed": false
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-coral-q6",
+        "order": 12,
+        "type": "MATCHING_HEADINGS",
+        "question": "Section F",
+        "options": [
+          "i. A promising explanation with a missing foundation",
+          "ii. A plan to protect reefs from shipping",
+          "iii. The physical shapes that challenge a popular theory",
+          "iv. Measurements revealing a limit to coral growth",
+          "v. The positions and dimensions of barrier reefs",
+          "vi. Local observations that suggest sinking land",
+          "vii. Sinking foundations as the remaining explanation"
+        ],
+        "answer": "vi",
+        "acceptedAnswers": [],
+        "instructions": "The passage has six sections, A–F. Choose the correct heading for each section from the list below. Choose the correct numeral, i–vii. Use each heading once.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "F offers local signs consistent with subsidence: falling trees and a shed reached by tides.",
+        "evidence": "at Keeling atoll I observed on all sides of the lagoon old cocoa-nut trees undermined and falling;",
+        "paragraph": "F",
+        "trap": "The opening difficulty does not mean there are no observations to offer.",
+        "tip": "Choose the main idea of the whole section; a repeated word or isolated example is not enough.",
+        "analysis": {
+          "keyEvidence": "I observed",
+          "questionKeywords": [
+            "local observations"
+          ],
+          "passageKeywords": [
+            "at Keeling atoll I observed"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "local observations",
+              "passage": "at Keeling atoll I observed",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "i": "i. A promising explanation with a missing foundation This heading concerns Chamisso’s incomplete explanation in B. This does not match the complete statement in this question.",
+            "ii": "ii. A plan to protect reefs from shipping No section proposes a shipping protection plan. This does not match the complete statement in this question.",
+            "iii": "iii. The physical shapes that challenge a popular theory A tests the crater theory against shapes and sizes. This does not match the complete statement in this question.",
+            "iv": "iv. Measurements revealing a limit to coral growth C describes soundings and the depth limit. This does not match the complete statement in this question.",
+            "v": "v. The positions and dimensions of barrier reefs E describes the location and extent of barrier reefs. This does not match the complete statement in this question.",
+            "vi": "F offers local signs consistent with subsidence: falling trees and a shed reached by tides.",
+            "vii": "vii. Sinking foundations as the remaining explanation D rules out two alternatives and concludes subsidence. This does not match the complete statement in this question."
+          },
+          "mistakeType": "MATCHING_HEADING_ERROR",
+          "group": "",
+          "selectCount": 1,
+          "matchingGroup": {
+            "id": "reef-headings",
+            "optionsTitle": "List of Headings",
+            "reuseAllowed": false
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-coral-q7",
+        "order": 13,
+        "type": "MATCHING_INFORMATION",
+        "question": "a description of water separating a reef from the land",
+        "options": [
+          "A. Paragraph A",
+          "B. Paragraph B",
+          "C. Paragraph C",
+          "D. Paragraph D",
+          "E. Paragraph E",
+          "F. Paragraph F"
+        ],
+        "answer": "E",
+        "acceptedAnswers": [],
+        "instructions": "Which paragraph contains the following information? Choose the correct letter, A–F, for Questions 13–18.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "E explicitly describes a channel between a barrier reef and the land.",
+        "evidence": "being separated from the land by a broad and rather deep channel of water",
+        "paragraph": "E",
+        "trap": "A lagoon being mentioned elsewhere is not enough; this asks about separation from land.",
+        "tip": "Locate the relevant name or idea, read its context, and match meaning rather than individual words.",
+        "analysis": {
+          "keyEvidence": "separated from the land",
+          "questionKeywords": [
+            "water separating"
+          ],
+          "passageKeywords": [
+            "a broad and rather deep channel of water"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "water separating",
+              "passage": "a broad and rather deep channel of water",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "A. Paragraph A A questions the crater theory using atoll shapes. This does not match the complete statement in this question.",
+            "B": "B. Paragraph B B discusses Chamisso’s theory and an overlooked question. This does not match the complete statement in this question.",
+            "C": "C. Paragraph C C reports sounding observations and a depth limit. This does not match the complete statement in this question.",
+            "D": "D. Paragraph D D compares alternative foundations and infers sinking. This does not match the complete statement in this question.",
+            "E": "E explicitly describes a channel between a barrier reef and the land.",
+            "F": "F. Paragraph F F reports trees, a shed and local earthquakes. This does not match the complete statement in this question."
+          },
+          "mistakeType": "WRONG_PARAGRAPH",
+          "group": "",
+          "selectCount": 1,
+          "matchingGroup": {
+            "id": "reef-information",
+            "optionsTitle": "Paragraphs",
+            "reuseAllowed": true
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-coral-q8",
+        "order": 14,
+        "type": "MATCHING_INFORMATION",
+        "question": "an unanswered question shared by two explanations",
+        "options": [
+          "A. Paragraph A",
+          "B. Paragraph B",
+          "C. Paragraph C",
+          "D. Paragraph D",
+          "E. Paragraph E",
+          "F. Paragraph F"
+        ],
+        "answer": "B",
+        "acceptedAnswers": [],
+        "instructions": "Which paragraph contains the following information? Choose the correct letter, A–F, for Questions 13–18.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "B says both Chamisso’s explanation and the crater theory overlook the foundation problem.",
+        "evidence": "in this, as well as in the crater-theory, a most important consideration has been overlooked",
+        "paragraph": "B",
+        "trap": "The sentence must apply to two theories, not just criticise one.",
+        "tip": "Locate the relevant name or idea, read its context, and match meaning rather than individual words.",
+        "analysis": {
+          "keyEvidence": "as well as in the crater-theory",
+          "questionKeywords": [
+            "shared by two explanations"
+          ],
+          "passageKeywords": [
+            "in this, as well as in the crater-theory"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "shared by two explanations",
+              "passage": "in this, as well as in the crater-theory",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "A. Paragraph A A questions the crater theory using atoll shapes. This does not match the complete statement in this question.",
+            "B": "B says both Chamisso’s explanation and the crater theory overlook the foundation problem.",
+            "C": "C. Paragraph C C reports sounding observations and a depth limit. This does not match the complete statement in this question.",
+            "D": "D. Paragraph D D compares alternative foundations and infers sinking. This does not match the complete statement in this question.",
+            "E": "E. Paragraph E E describes barrier-reef positions and sizes. This does not match the complete statement in this question.",
+            "F": "F. Paragraph F F reports trees, a shed and local earthquakes. This does not match the complete statement in this question."
+          },
+          "mistakeType": "WRONG_PARAGRAPH",
+          "group": "",
+          "selectCount": 1,
+          "matchingGroup": {
+            "id": "reef-information",
+            "optionsTitle": "Paragraphs",
+            "reuseAllowed": true
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-coral-q9",
+        "order": 15,
+        "type": "MATCHING_INFORMATION",
+        "question": "a change in the material recovered as measurements were taken deeper",
+        "options": [
+          "A. Paragraph A",
+          "B. Paragraph B",
+          "C. Paragraph C",
+          "D. Paragraph D",
+          "E. Paragraph E",
+          "F. Paragraph F"
+        ],
+        "answer": "C",
+        "acceptedAnswers": [],
+        "instructions": "Which paragraph contains the following information? Choose the correct letter, A–F, for Questions 13–18.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "C contrasts fewer coral impressions with more sand as depth increased.",
+        "evidence": "as the depth increased, the impressions became less numerous, but the adhering particles of sand more and more numerous",
+        "paragraph": "C",
+        "trap": "Do not confuse reef dimensions with a change in sounding samples.",
+        "tip": "Locate the relevant name or idea, read its context, and match meaning rather than individual words.",
+        "analysis": {
+          "keyEvidence": "as the depth increased",
+          "questionKeywords": [
+            "material recovered"
+          ],
+          "passageKeywords": [
+            "adhering particles of sand"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "material recovered",
+              "passage": "adhering particles of sand",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "A. Paragraph A A questions the crater theory using atoll shapes. This does not match the complete statement in this question.",
+            "B": "B. Paragraph B B discusses Chamisso’s theory and an overlooked question. This does not match the complete statement in this question.",
+            "C": "C contrasts fewer coral impressions with more sand as depth increased.",
+            "D": "D. Paragraph D D compares alternative foundations and infers sinking. This does not match the complete statement in this question.",
+            "E": "E. Paragraph E E describes barrier-reef positions and sizes. This does not match the complete statement in this question.",
+            "F": "F. Paragraph F F reports trees, a shed and local earthquakes. This does not match the complete statement in this question."
+          },
+          "mistakeType": "WRONG_PARAGRAPH",
+          "group": "",
+          "selectCount": 1,
+          "matchingGroup": {
+            "id": "reef-information",
+            "optionsTitle": "Paragraphs",
+            "reuseAllowed": true
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-coral-q10",
+        "order": 16,
+        "type": "MATCHING_INFORMATION",
+        "question": "an explanation of why a physical movement is hard to observe",
+        "options": [
+          "A. Paragraph A",
+          "B. Paragraph B",
+          "C. Paragraph C",
+          "D. Paragraph D",
+          "E. Paragraph E",
+          "F. Paragraph F"
+        ],
+        "answer": "F",
+        "acceptedAnswers": [],
+        "instructions": "Which paragraph contains the following information? Choose the correct letter, A–F, for Questions 13–18.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "F explains that subsidence hides the affected part underwater, making detection difficult.",
+        "evidence": "how difficult it must ever be to detect a movement, the tendency of which is to hide under water the part affected.",
+        "paragraph": "F",
+        "trap": "D argues for sinking but does not explain this observational difficulty.",
+        "tip": "Locate the relevant name or idea, read its context, and match meaning rather than individual words.",
+        "analysis": {
+          "keyEvidence": "hide under water the part affected",
+          "questionKeywords": [
+            "hard to observe"
+          ],
+          "passageKeywords": [
+            "difficult it must ever be to detect"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "hard to observe",
+              "passage": "difficult it must ever be to detect",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "A. Paragraph A A questions the crater theory using atoll shapes. This does not match the complete statement in this question.",
+            "B": "B. Paragraph B B discusses Chamisso’s theory and an overlooked question. This does not match the complete statement in this question.",
+            "C": "C. Paragraph C C reports sounding observations and a depth limit. This does not match the complete statement in this question.",
+            "D": "D. Paragraph D D compares alternative foundations and infers sinking. This does not match the complete statement in this question.",
+            "E": "E. Paragraph E E describes barrier-reef positions and sizes. This does not match the complete statement in this question.",
+            "F": "F explains that subsidence hides the affected part underwater, making detection difficult."
+          },
+          "mistakeType": "WRONG_PARAGRAPH",
+          "group": "",
+          "selectCount": 1,
+          "matchingGroup": {
+            "id": "reef-information",
+            "optionsTitle": "Paragraphs",
+            "reuseAllowed": true
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-coral-q11",
+        "order": 17,
+        "type": "MATCHING_INFORMATION",
+        "question": "examples of joined atolls that weaken a widely accepted explanation",
+        "options": [
+          "A. Paragraph A",
+          "B. Paragraph B",
+          "C. Paragraph C",
+          "D. Paragraph D",
+          "E. Paragraph E",
+          "F. Paragraph F"
+        ],
+        "answer": "A",
+        "acceptedAnswers": [],
+        "instructions": "Which paragraph contains the following information? Choose the correct letter, A–F, for Questions 13–18.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "A includes joined atolls among the forms that make the crater theory less plausible.",
+        "evidence": "Menchicoff atoll consists of three atolls united or tied together.",
+        "paragraph": "A",
+        "trap": "The question concerns atolls joined together, not several islands inside a barrier reef.",
+        "tip": "Locate the relevant name or idea, read its context, and match meaning rather than individual words.",
+        "analysis": {
+          "keyEvidence": "three atolls united or tied together",
+          "questionKeywords": [
+            "joined atolls"
+          ],
+          "passageKeywords": [
+            "atolls united or tied together"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "joined atolls",
+              "passage": "atolls united or tied together",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "A includes joined atolls among the forms that make the crater theory less plausible.",
+            "B": "B. Paragraph B B discusses Chamisso’s theory and an overlooked question. This does not match the complete statement in this question.",
+            "C": "C. Paragraph C C reports sounding observations and a depth limit. This does not match the complete statement in this question.",
+            "D": "D. Paragraph D D compares alternative foundations and infers sinking. This does not match the complete statement in this question.",
+            "E": "E. Paragraph E E describes barrier-reef positions and sizes. This does not match the complete statement in this question.",
+            "F": "F. Paragraph F F reports trees, a shed and local earthquakes. This does not match the complete statement in this question."
+          },
+          "mistakeType": "WRONG_PARAGRAPH",
+          "group": "",
+          "selectCount": 1,
+          "matchingGroup": {
+            "id": "reef-information",
+            "optionsTitle": "Paragraphs",
+            "reuseAllowed": true
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-coral-q12",
+        "order": 18,
+        "type": "MATCHING_INFORMATION",
+        "question": "a report that a building’s supports are now reached by every tide",
+        "options": [
+          "A. Paragraph A",
+          "B. Paragraph B",
+          "C. Paragraph C",
+          "D. Paragraph D",
+          "E. Paragraph E",
+          "F. Paragraph F"
+        ],
+        "answer": "F",
+        "acceptedAnswers": [],
+        "instructions": "Which paragraph contains the following information? Choose the correct letter, A–F, for Questions 13–18.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "F contrasts the shed’s former position with its supports being washed by tides.",
+        "evidence": "the foundation-posts of a shed, which the inhabitants asserted had stood seven years before just above high-water mark, but now was daily washed by every tide",
+        "paragraph": "F",
+        "trap": "Paragraph F has already been used; the instructions permit using it again.",
+        "tip": "Locate the relevant name or idea, read its context, and match meaning rather than individual words.",
+        "analysis": {
+          "keyEvidence": "foundation-posts of a shed",
+          "questionKeywords": [
+            "building’s supports"
+          ],
+          "passageKeywords": [
+            "foundation-posts of a shed"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "building’s supports",
+              "passage": "foundation-posts of a shed",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "A. Paragraph A A questions the crater theory using atoll shapes. This does not match the complete statement in this question.",
+            "B": "B. Paragraph B B discusses Chamisso’s theory and an overlooked question. This does not match the complete statement in this question.",
+            "C": "C. Paragraph C C reports sounding observations and a depth limit. This does not match the complete statement in this question.",
+            "D": "D. Paragraph D D compares alternative foundations and infers sinking. This does not match the complete statement in this question.",
+            "E": "E. Paragraph E E describes barrier-reef positions and sizes. This does not match the complete statement in this question.",
+            "F": "F contrasts the shed’s former position with its supports being washed by tides."
+          },
+          "mistakeType": "WRONG_PARAGRAPH",
+          "group": "",
+          "selectCount": 1,
+          "matchingGroup": {
+            "id": "reef-information",
+            "optionsTitle": "Paragraphs",
+            "reuseAllowed": true
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "reading-gold-source-naturalists",
+    "title": "Early views on species — Darwin extracts",
+    "content": "Lamarck was the first man whose conclusions on the subject excited much attention. This justly celebrated naturalist first published his views in 1801; he much enlarged them in 1809 in his “Philosophie Zoologique”, and subsequently, 1815, in the Introduction to his “Hist. Nat. des Animaux sans Vertébres”. In these works he up holds the doctrine that all species, including man, are descended from other species. He first did the eminent service of arousing attention to the probability of all change in the organic, as well as in the inorganic world, being the result of law, and not of miraculous interposition. Lamarck seems to have been chiefly led to his conclusion on the gradual change of species, by the difficulty of distinguishing species and varieties, by the almost perfect gradation of forms in certain groups, and by the analogy of domestic productions. With respect to the means of modification, he attributed something to the direct action of the physical conditions of life, something to the crossing of already existing forms, and much to use and disuse, that is, to the effects of habit. To this latter agency he seems to attribute all the beautiful adaptations in nature; such as the long neck of the giraffe for browsing on the branches of trees. But he likewise believed in a law of progressive development, and as all the forms of life thus tend to progress, in order to account for the existence at the present day of simple productions, he maintains that such forms are now spontaneously generated.\n\nGeoffroy Saint-Hilaire, as is stated in his “Life”, written by his son, suspected, as early as 1795, that what we call species are various degenerations of the same type. It was not until 1828 that he published his conviction that the same forms have not been perpetuated since the origin of all things. Geoffroy seems to have relied chiefly on the conditions of life, or the “monde ambiant” as the cause of change. He was cautious in drawing conclusions, and did not believe that existing species are now undergoing modification; and, as his son adds, “C’est donc un problème à réserver entièrement à l’avenir, supposé même que l’avenir doive avoir prise sur lui.”\n\nThe Hon. and Rev. W. Herbert, afterward Dean of Manchester, in the fourth volume of the “Horticultural Transactions”, 1822, and in his work on the “Amaryllidaceæ” (1837, pages 19, 339), declares that “horticultural experiments have established, beyond the possibility of refutation, that botanical species are only a higher and more permanent class of varieties.” He extends the same view to animals. The dean believes that single species of each genus were created in an originally highly plastic condition, and that these have produced, chiefly by inter-crossing, but likewise by variation, all our existing species.",
+    "topic": "History of science",
+    "sourceType": "PUBLIC_DOMAIN",
+    "source": "Charles Darwin, The Origin of Species, sixth edition (1872), Historical Sketch. Public-domain extracts; selected accounts regrouped as A–C, with intervening material omitted. These are historical views, not current scientific guidance. Questions newly written for this app. https://www.gutenberg.org/ebooks/2009",
+    "difficulty": "ADVANCED",
+    "family": "MATCHING",
+    "difficultyLevel": "ADVANCED",
+    "setNumber": 19,
+    "passageNumberEquivalent": 3,
+    "isFullMockPassage": false,
+    "timeLimitMinutes": 20,
+    "questions": [
+      {
+        "id": "reading-gold-source-naturalists-q1",
+        "order": 1,
+        "type": "MATCHING_FEATURES",
+        "question": "Habits played a major role in producing adaptations.",
+        "options": [
+          "A. Lamarck",
+          "B. Geoffroy Saint-Hilaire",
+          "C. W. Herbert"
+        ],
+        "answer": "A",
+        "acceptedAnswers": [],
+        "instructions": "Match each statement with the correct naturalist, A–C. Answer according to Darwin’s historical account.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Darwin attributes a strong emphasis on use, disuse and habit to Lamarck.",
+        "evidence": "much to use and disuse, that is, to the effects of habit.",
+        "paragraph": "A",
+        "trap": "Both other naturalists discuss change, but neither is credited here with this emphasis.",
+        "tip": "Locate the relevant name or idea, read its context, and match meaning rather than individual words.",
+        "analysis": {
+          "keyEvidence": "effects of habit",
+          "questionKeywords": [
+            "Habits"
+          ],
+          "passageKeywords": [
+            "effects of habit"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "Habits",
+              "passage": "effects of habit",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "Darwin attributes a strong emphasis on use, disuse and habit to Lamarck.",
+            "B": "B. Geoffroy Saint-Hilaire Geoffroy relies chiefly on conditions of life and is cautious about present change. This does not match the complete statement in this question.",
+            "C": "C. W. Herbert Herbert cites horticultural experiments and chiefly attributes later species to inter-crossing. This does not match the complete statement in this question."
+          },
+          "mistakeType": "MISSED_PARAPHRASE",
+          "group": "",
+          "selectCount": 1,
+          "matchingGroup": {
+            "id": "naturalists-experts",
+            "optionsTitle": "List of Naturalists",
+            "reuseAllowed": true
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-naturalists-q2",
+        "order": 2,
+        "type": "MATCHING_FEATURES",
+        "question": "Species were not believed to be changing at the time of the account.",
+        "options": [
+          "A. Lamarck",
+          "B. Geoffroy Saint-Hilaire",
+          "C. W. Herbert"
+        ],
+        "answer": "B",
+        "acceptedAnswers": [],
+        "instructions": "Match each statement with the correct naturalist, A–C. Answer according to Darwin’s historical account.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Geoffroy accepted earlier differences but did not believe existing species were changing then.",
+        "evidence": "did not believe that existing species are now undergoing modification",
+        "paragraph": "B",
+        "trap": "Belief in past change is not the same as belief in present change.",
+        "tip": "Locate the relevant name or idea, read its context, and match meaning rather than individual words.",
+        "analysis": {
+          "keyEvidence": "did not believe",
+          "questionKeywords": [
+            "changing at the time"
+          ],
+          "passageKeywords": [
+            "now undergoing modification"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "changing at the time",
+              "passage": "now undergoing modification",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "A. Lamarck Lamarck emphasises habit and a progressive tendency. This does not match the complete statement in this question.",
+            "B": "Geoffroy accepted earlier differences but did not believe existing species were changing then.",
+            "C": "C. W. Herbert Herbert cites horticultural experiments and chiefly attributes later species to inter-crossing. This does not match the complete statement in this question."
+          },
+          "mistakeType": "MISSED_PARAPHRASE",
+          "group": "",
+          "selectCount": 1,
+          "matchingGroup": {
+            "id": "naturalists-experts",
+            "optionsTitle": "List of Naturalists",
+            "reuseAllowed": true
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-naturalists-q3",
+        "order": 3,
+        "type": "MATCHING_FEATURES",
+        "question": "Experiments with plants were used to challenge the distinction between species and varieties.",
+        "options": [
+          "A. Lamarck",
+          "B. Geoffroy Saint-Hilaire",
+          "C. W. Herbert"
+        ],
+        "answer": "C",
+        "acceptedAnswers": [],
+        "instructions": "Match each statement with the correct naturalist, A–C. Answer according to Darwin’s historical account.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Herbert cites horticultural experiments for his view of botanical species as more permanent varieties.",
+        "evidence": "horticultural experiments have established, beyond the possibility of refutation, that botanical species are only a higher and more permanent class of varieties.",
+        "paragraph": "C",
+        "trap": "Lamarck’s difficulty distinguishing categories is not the same as citing these experiments.",
+        "tip": "Locate the relevant name or idea, read its context, and match meaning rather than individual words.",
+        "analysis": {
+          "keyEvidence": "horticultural experiments",
+          "questionKeywords": [
+            "Experiments with plants"
+          ],
+          "passageKeywords": [
+            "horticultural experiments"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "Experiments with plants",
+              "passage": "horticultural experiments",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "A. Lamarck Lamarck emphasises habit and a progressive tendency. This does not match the complete statement in this question.",
+            "B": "B. Geoffroy Saint-Hilaire Geoffroy relies chiefly on conditions of life and is cautious about present change. This does not match the complete statement in this question.",
+            "C": "Herbert cites horticultural experiments for his view of botanical species as more permanent varieties."
+          },
+          "mistakeType": "MISSED_PARAPHRASE",
+          "group": "",
+          "selectCount": 1,
+          "matchingGroup": {
+            "id": "naturalists-experts",
+            "optionsTitle": "List of Naturalists",
+            "reuseAllowed": true
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-naturalists-q4",
+        "order": 4,
+        "type": "MATCHING_FEATURES",
+        "question": "Simple forms of life were thought to arise spontaneously in the present.",
+        "options": [
+          "A. Lamarck",
+          "B. Geoffroy Saint-Hilaire",
+          "C. W. Herbert"
+        ],
+        "answer": "A",
+        "acceptedAnswers": [],
+        "instructions": "Match each statement with the correct naturalist, A–C. Answer according to Darwin’s historical account.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Darwin reports that Lamarck used spontaneous generation to explain the continued presence of simple forms.",
+        "evidence": "in order to account for the existence at the present day of simple productions, he maintains that such forms are now spontaneously generated.",
+        "paragraph": "A",
+        "trap": "The answer describes a historical view, not a fact to infer from modern biology.",
+        "tip": "Locate the relevant name or idea, read its context, and match meaning rather than individual words.",
+        "analysis": {
+          "keyEvidence": "now spontaneously generated",
+          "questionKeywords": [
+            "arise spontaneously in the present"
+          ],
+          "passageKeywords": [
+            "now spontaneously generated"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "arise spontaneously in the present",
+              "passage": "now spontaneously generated",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "Darwin reports that Lamarck used spontaneous generation to explain the continued presence of simple forms.",
+            "B": "B. Geoffroy Saint-Hilaire Geoffroy relies chiefly on conditions of life and is cautious about present change. This does not match the complete statement in this question.",
+            "C": "C. W. Herbert Herbert cites horticultural experiments and chiefly attributes later species to inter-crossing. This does not match the complete statement in this question."
+          },
+          "mistakeType": "MISSED_PARAPHRASE",
+          "group": "",
+          "selectCount": 1,
+          "matchingGroup": {
+            "id": "naturalists-experts",
+            "optionsTitle": "List of Naturalists",
+            "reuseAllowed": true
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-naturalists-q5",
+        "order": 5,
+        "type": "MATCHING_FEATURES",
+        "question": "The surrounding conditions were considered the principal cause of change.",
+        "options": [
+          "A. Lamarck",
+          "B. Geoffroy Saint-Hilaire",
+          "C. W. Herbert"
+        ],
+        "answer": "B",
+        "acceptedAnswers": [],
+        "instructions": "Match each statement with the correct naturalist, A–C. Answer according to Darwin’s historical account.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The qualifier chiefly distinguishes Geoffroy’s emphasis from Lamarck’s smaller attribution to physical conditions.",
+        "evidence": "Geoffroy seems to have relied chiefly on the conditions of life, or the “monde ambiant” as the cause of change.",
+        "paragraph": "B",
+        "trap": "Both A and B mention conditions; the question asks which treats them as principal.",
+        "tip": "Locate the relevant name or idea, read its context, and match meaning rather than individual words.",
+        "analysis": {
+          "keyEvidence": "relied chiefly on the conditions of life",
+          "questionKeywords": [
+            "principal cause"
+          ],
+          "passageKeywords": [
+            "relied chiefly"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "principal cause",
+              "passage": "relied chiefly",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "A. Lamarck Lamarck emphasises habit and a progressive tendency. This does not match the complete statement in this question.",
+            "B": "The qualifier chiefly distinguishes Geoffroy’s emphasis from Lamarck’s smaller attribution to physical conditions.",
+            "C": "C. W. Herbert Herbert cites horticultural experiments and chiefly attributes later species to inter-crossing. This does not match the complete statement in this question."
+          },
+          "mistakeType": "MISSED_PARAPHRASE",
+          "group": "",
+          "selectCount": 1,
+          "matchingGroup": {
+            "id": "naturalists-experts",
+            "optionsTitle": "List of Naturalists",
+            "reuseAllowed": true
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-naturalists-q6",
+        "order": 6,
+        "type": "MATCHING_FEATURES",
+        "question": "A conclusion about plants was also applied to animals.",
+        "options": [
+          "A. Lamarck",
+          "B. Geoffroy Saint-Hilaire",
+          "C. W. Herbert"
+        ],
+        "answer": "C",
+        "acceptedAnswers": [],
+        "instructions": "Match each statement with the correct naturalist, A–C. Answer according to Darwin’s historical account.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "This sentence follows Herbert’s claim about botanical species and applies it to animals.",
+        "evidence": "He extends the same view to animals.",
+        "paragraph": "C",
+        "trap": "Read the preceding sentence to resolve who He refers to.",
+        "tip": "Locate the relevant name or idea, read its context, and match meaning rather than individual words.",
+        "analysis": {
+          "keyEvidence": "extends the same view to animals",
+          "questionKeywords": [
+            "also applied to animals"
+          ],
+          "passageKeywords": [
+            "extends the same view to animals"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "also applied to animals",
+              "passage": "extends the same view to animals",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "A. Lamarck Lamarck emphasises habit and a progressive tendency. This does not match the complete statement in this question.",
+            "B": "B. Geoffroy Saint-Hilaire Geoffroy relies chiefly on conditions of life and is cautious about present change. This does not match the complete statement in this question.",
+            "C": "This sentence follows Herbert’s claim about botanical species and applies it to animals."
+          },
+          "mistakeType": "MISSED_PARAPHRASE",
+          "group": "",
+          "selectCount": 1,
+          "matchingGroup": {
+            "id": "naturalists-experts",
+            "optionsTitle": "List of Naturalists",
+            "reuseAllowed": true
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-naturalists-q7",
+        "order": 7,
+        "type": "MATCHING_FEATURES",
+        "question": "The difficulty of separating species from varieties helped inspire a belief in gradual change.",
+        "options": [
+          "A. Lamarck",
+          "B. Geoffroy Saint-Hilaire",
+          "C. W. Herbert"
+        ],
+        "answer": "A",
+        "acceptedAnswers": [],
+        "instructions": "Match each statement with the correct naturalist, A–C. Answer according to Darwin’s historical account.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Darwin explicitly lists the difficulty distinguishing species and varieties as one influence on Lamarck.",
+        "evidence": "Lamarck seems to have been chiefly led to his conclusion on the gradual change of species, by the difficulty of distinguishing species and varieties",
+        "paragraph": "A",
+        "trap": "Herbert draws a conclusion from experiments; this question asks what helped inspire gradual-change views.",
+        "tip": "Locate the relevant name or idea, read its context, and match meaning rather than individual words.",
+        "analysis": {
+          "keyEvidence": "difficulty of distinguishing species and varieties",
+          "questionKeywords": [
+            "difficulty of separating"
+          ],
+          "passageKeywords": [
+            "difficulty of distinguishing"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "difficulty of separating",
+              "passage": "difficulty of distinguishing",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "Darwin explicitly lists the difficulty distinguishing species and varieties as one influence on Lamarck.",
+            "B": "B. Geoffroy Saint-Hilaire Geoffroy relies chiefly on conditions of life and is cautious about present change. This does not match the complete statement in this question.",
+            "C": "C. W. Herbert Herbert cites horticultural experiments and chiefly attributes later species to inter-crossing. This does not match the complete statement in this question."
+          },
+          "mistakeType": "MISSED_PARAPHRASE",
+          "group": "",
+          "selectCount": 1,
+          "matchingGroup": {
+            "id": "naturalists-experts",
+            "optionsTitle": "List of Naturalists",
+            "reuseAllowed": true
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-naturalists-q8",
+        "order": 8,
+        "type": "MATCHING_SENTENCE_ENDINGS",
+        "question": "Lamarck attributed adaptations such as the giraffe’s long neck to",
+        "options": [
+          "A. chiefly through inter-crossing, with variation also contributing.",
+          "B. differed from the belief that existing species were changing in the present.",
+          "C. much more fully in a work published in 1809.",
+          "D. the effects of repeated use and disuse.",
+          "E. only through changes in the surrounding physical conditions."
+        ],
+        "answer": "D",
+        "acceptedAnswers": [],
+        "instructions": "Complete each sentence with the correct ending, A–E, below. Choose the correct letter for Questions 8–11. Use each ending once.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The phrase this latter agency refers back to use, disuse and habit.",
+        "evidence": "much to use and disuse, that is, to the effects of habit. To this latter agency he seems to attribute all the beautiful adaptations in nature; such as the long neck of the giraffe for browsing on the branches of trees.",
+        "paragraph": "A",
+        "trap": "Physical conditions are mentioned earlier, but the giraffe example is attached to the latter agency.",
+        "tip": "Read the beginning and ending together, then verify the entire claim in the passage.",
+        "analysis": {
+          "keyEvidence": "To this latter agency",
+          "questionKeywords": [
+            "attributed adaptations"
+          ],
+          "passageKeywords": [
+            "attribute all the beautiful adaptations"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "attributed adaptations",
+              "passage": "attribute all the beautiful adaptations",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "A. chiefly through inter-crossing, with variation also contributing. This ending describes Herbert’s proposed production of later species. This does not match the complete statement in this question.",
+            "B": "B. differed from the belief that existing species were changing in the present. This ending distinguishes Geoffroy’s views on past and present change. This does not match the complete statement in this question.",
+            "C": "C. much more fully in a work published in 1809. This ending concerns the expansion of Lamarck’s published views. This does not match the complete statement in this question.",
+            "D": "The phrase this latter agency refers back to use, disuse and habit.",
+            "E": "E. only through changes in the surrounding physical conditions. None of the accounts says physical conditions were the only mechanism. This does not match the complete statement in this question."
+          },
+          "mistakeType": "MISSED_PARAPHRASE",
+          "group": "",
+          "selectCount": 1,
+          "matchingGroup": {
+            "id": "naturalists-endings",
+            "optionsTitle": "Sentence Endings",
+            "reuseAllowed": false
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-naturalists-q9",
+        "order": 9,
+        "type": "MATCHING_SENTENCE_ENDINGS",
+        "question": "Geoffroy’s conviction that forms had changed in the past",
+        "options": [
+          "A. chiefly through inter-crossing, with variation also contributing.",
+          "B. differed from the belief that existing species were changing in the present.",
+          "C. much more fully in a work published in 1809.",
+          "D. the effects of repeated use and disuse.",
+          "E. only through changes in the surrounding physical conditions."
+        ],
+        "answer": "B",
+        "acceptedAnswers": [],
+        "instructions": "Complete each sentence with the correct ending, A–E, below. Choose the correct letter for Questions 8–11. Use each ending once.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "His earlier claim that forms had not remained the same is qualified by his rejection of present modification.",
+        "evidence": "He was cautious in drawing conclusions, and did not believe that existing species are now undergoing modification",
+        "paragraph": "B",
+        "trap": "Do not erase the distinction between past and present.",
+        "tip": "Read the beginning and ending together, then verify the entire claim in the passage.",
+        "analysis": {
+          "keyEvidence": "did not believe that existing species are now undergoing modification",
+          "questionKeywords": [
+            "changing in the present"
+          ],
+          "passageKeywords": [
+            "now undergoing modification"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "changing in the present",
+              "passage": "now undergoing modification",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "A. chiefly through inter-crossing, with variation also contributing. This ending describes Herbert’s proposed production of later species. This does not match the complete statement in this question.",
+            "B": "His earlier claim that forms had not remained the same is qualified by his rejection of present modification.",
+            "C": "C. much more fully in a work published in 1809. This ending concerns the expansion of Lamarck’s published views. This does not match the complete statement in this question.",
+            "D": "D. the effects of repeated use and disuse. This ending describes Lamarck’s explanation of adaptations through habit. This does not match the complete statement in this question.",
+            "E": "E. only through changes in the surrounding physical conditions. None of the accounts says physical conditions were the only mechanism. This does not match the complete statement in this question."
+          },
+          "mistakeType": "MISSED_PARAPHRASE",
+          "group": "",
+          "selectCount": 1,
+          "matchingGroup": {
+            "id": "naturalists-endings",
+            "optionsTitle": "Sentence Endings",
+            "reuseAllowed": false
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-naturalists-q10",
+        "order": 10,
+        "type": "MATCHING_SENTENCE_ENDINGS",
+        "question": "Herbert believed originally plastic species had produced later species",
+        "options": [
+          "A. chiefly through inter-crossing, with variation also contributing.",
+          "B. differed from the belief that existing species were changing in the present.",
+          "C. much more fully in a work published in 1809.",
+          "D. the effects of repeated use and disuse.",
+          "E. only through changes in the surrounding physical conditions."
+        ],
+        "answer": "A",
+        "acceptedAnswers": [],
+        "instructions": "Complete each sentence with the correct ending, A–E, below. Choose the correct letter for Questions 8–11. Use each ending once.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "Herbert gives inter-crossing as the main route and variation as another contributor.",
+        "evidence": "these have produced, chiefly by inter-crossing, but likewise by variation, all our existing species.",
+        "paragraph": "C",
+        "trap": "Chiefly does not mean exclusively.",
+        "tip": "Read the beginning and ending together, then verify the entire claim in the passage.",
+        "analysis": {
+          "keyEvidence": "chiefly by inter-crossing, but likewise by variation",
+          "questionKeywords": [
+            "with variation also contributing"
+          ],
+          "passageKeywords": [
+            "but likewise by variation"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "with variation also contributing",
+              "passage": "but likewise by variation",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "Herbert gives inter-crossing as the main route and variation as another contributor.",
+            "B": "B. differed from the belief that existing species were changing in the present. This ending distinguishes Geoffroy’s views on past and present change. This does not match the complete statement in this question.",
+            "C": "C. much more fully in a work published in 1809. This ending concerns the expansion of Lamarck’s published views. This does not match the complete statement in this question.",
+            "D": "D. the effects of repeated use and disuse. This ending describes Lamarck’s explanation of adaptations through habit. This does not match the complete statement in this question.",
+            "E": "E. only through changes in the surrounding physical conditions. None of the accounts says physical conditions were the only mechanism. This does not match the complete statement in this question."
+          },
+          "mistakeType": "MISSED_PARAPHRASE",
+          "group": "",
+          "selectCount": 1,
+          "matchingGroup": {
+            "id": "naturalists-endings",
+            "optionsTitle": "Sentence Endings",
+            "reuseAllowed": false
+          }
+        }
+      },
+      {
+        "id": "reading-gold-source-naturalists-q11",
+        "order": 11,
+        "type": "MATCHING_SENTENCE_ENDINGS",
+        "question": "Lamarck developed his initially published views",
+        "options": [
+          "A. chiefly through inter-crossing, with variation also contributing.",
+          "B. differed from the belief that existing species were changing in the present.",
+          "C. much more fully in a work published in 1809.",
+          "D. the effects of repeated use and disuse.",
+          "E. only through changes in the surrounding physical conditions."
+        ],
+        "answer": "C",
+        "acceptedAnswers": [],
+        "instructions": "Complete each sentence with the correct ending, A–E, below. Choose the correct letter for Questions 8–11. Use each ending once.",
+        "wordLimit": null,
+        "numberAllowed": false,
+        "explanation": "The account places his first publication in 1801 and a much expanded treatment in 1809.",
+        "evidence": "first published his views in 1801; he much enlarged them in 1809 in his “Philosophie Zoologique”",
+        "paragraph": "A",
+        "trap": "Do not choose an ending solely because it mentions change; the stem concerns publication.",
+        "tip": "Read the beginning and ending together, then verify the entire claim in the passage.",
+        "analysis": {
+          "keyEvidence": "much enlarged them in 1809",
+          "questionKeywords": [
+            "much more fully"
+          ],
+          "passageKeywords": [
+            "much enlarged them"
+          ],
+          "paraphrasePairs": [
+            {
+              "question": "much more fully",
+              "passage": "much enlarged them",
+              "relationship": "EQUIVALENCE"
+            }
+          ],
+          "optionReasons": {
+            "A": "A. chiefly through inter-crossing, with variation also contributing. This ending describes Herbert’s proposed production of later species. This does not match the complete statement in this question.",
+            "B": "B. differed from the belief that existing species were changing in the present. This ending distinguishes Geoffroy’s views on past and present change. This does not match the complete statement in this question.",
+            "C": "The account places his first publication in 1801 and a much expanded treatment in 1809.",
+            "D": "D. the effects of repeated use and disuse. This ending describes Lamarck’s explanation of adaptations through habit. This does not match the complete statement in this question.",
+            "E": "E. only through changes in the surrounding physical conditions. None of the accounts says physical conditions were the only mechanism. This does not match the complete statement in this question."
+          },
+          "mistakeType": "MISSED_PARAPHRASE",
+          "group": "",
+          "selectCount": 1,
+          "matchingGroup": {
+            "id": "naturalists-endings",
+            "optionsTitle": "Sentence Endings",
+            "reuseAllowed": false
+          }
+        }
+      }
+    ]
+  }
+]
